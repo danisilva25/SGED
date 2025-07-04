@@ -67,7 +67,7 @@ namespace SGED.Controllers
             }
         }
 
-        // DELETE: api/Disciplina/5 das
+        // DELETE: api/Disciplina/5 da
         [HttpDelete("{id}")]
         public async Task<Boolean> Excluir(int id)
         {
