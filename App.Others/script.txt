@@ -1,0 +1,153 @@
+﻿create table disciplina(
+	idDisciplina int identity(1,1),
+	descricaoDisciplina varchar(20) not null,
+	constraint pk_Disciplina Primary key(idDisciplina)
+);
+
+create table turma(
+	idTurma int identity(1,1),
+	descricaoTurma varchar(20) not null,
+	constraint pk_turma Primary key(idTurma)
+);
+
+create table diretoriaEnsino(
+	idDiretoriaEnsino int identity(1,1),
+	descricaoDiretoriaEnsino varchar(40),
+	cep char(8) not null,
+	constraint pk_diretoriaEnsino primary key(idDiretoriaEnsino),
+);
+
+create table escola(
+	idEscola int identity(1,1),
+	nomeEscola varchar(80) not null,
+	telefone char(11) not null,
+	cep char(8) not null,
+	diretoriaEnsino int not null,
+	idebAnosFinais numeric(3,1) not null,
+	idebEnsinoMedio numeric(3,1) not null,
+	constraint pk_escola Primary Key(idEscola),
+	constraint fk_escola_diretoriaensino foreign key (diretoriaEnsino) references diretoriaEnsino
+);
+
+create table usuario(
+	idUsuario int identity(1,1),
+	nomeUsuario varchar(100) not null,
+	idade int not null,
+	salt varchar(150) not null,
+	loginUsuario varchar(30) not null,	
+	senhaUsuario varchar(150)not null,
+	tipoUsuario int not null,
+	constraint pk_usuario Primary Key(idUsuario) 
+);
+
+create table diretor(
+	idDiretor int identity(1,1),
+	escola int not null,
+	usuario int not null,
+	constraint un_diretor unique(usuario),
+	constraint pk_diretor Primary Key(idDiretor),
+	constraint fk_diretor_escola foreign key(escola) references escola,
+	constraint fk_diretor_usuario foreign key(usuario) references usuario
+);
+
+create table professor(
+	idProfessor int identity(1,1),
+	cpf char(11) not null,
+	rg char(9) not null,
+	matricula varchar(15) not null,
+	categoria char(1) not null,
+	horaaula tinyint not null,
+	disponivel bit not null,
+	diretoriaEnsino int not null,
+	usuario int not null,
+	constraint pk_professor Primary Key(idProfessor),
+	constraint fk_diretoriaEnsinoProfessor foreign key(diretoriaEnsino) references diretoriaEnsino,
+	constraint fk_professor_usuario foreign key(usuario) references usuario
+);
+
+create table aluno(
+	idAluno int identity(1,1),
+	ra varchar(14) not null,
+	turma int not null,
+	escola int not null,
+	usuario int not null,
+	constraint pk_aluno Primary key(idAluno),
+	constraint fk_turma_aluno foreign key(turma) references turma,
+	constraint fk_aluno_escola foreign key(escola) references escola,
+	constraint fk_aluno_usuario foreign key(usuario) references usuario
+);
+
+create table email(
+	idEmail int identity(1,1),
+	descricaoEmail varchar(70) not null,
+	usuario int,
+	escola int,
+	constraint pk_email Primary Key(idEmail),
+	constraint fk_email_usuario foreign key(usuario) references usuario,
+	constraint fk_email_escola foreign key(escola) references escola
+);
+
+create table atividade(
+	idAtividade int identity(1,1),
+	descricaoAtividade varchar(70) not null,
+	dataInicioAtividade date not null,
+	dataFinalAtividade date,
+	disciplina int not null,
+	constraint pk_Atividade Primary Key(idAtividade),
+	constraint fk_atividade_disciplina foreign key(disciplina) references disciplina
+);
+
+create table professor_escola(
+	idprofessor_escola int identity(1,1),
+	professor int not null,
+	escola int not null,
+	constraint pk_professor_escola Primary Key(idprofessor_escola),
+	constraint fk_professor_escola_professor foreign key(professor) references professor,
+	constraint fk_professor_escola_escola foreign key(escola) references escola
+);
+
+create table turma_disciplina(
+	idturma_disciplina int identity(1,1),
+	turma int not null,
+	disciplina int not null,
+	constraint pk_turma_disciplina Primary Key(idturma_disciplina),
+	constraint fk_tuma_disciplina_turma foreign key(turma) references turma,
+	constraint fk_turma_disciplina_disciplina foreign key(disciplina) references disciplina
+);
+
+create table professor_disciplina(
+	idprofessor_disciplina int identity(1,1),
+	professor int not null,
+	disciplina int not null,
+	constraint pk_professor_disciplina Primary key(idprofessor_disciplina),
+	constraint fk_professor_disciplina_professor foreign key(professor) references professor,
+	constraint fk_professor_disciplina_disciplina foreign key(disciplina) references disciplina
+);
+
+create table aluno_atividade(
+	idaluno_atividade int identity(1,1),
+	nota tinyint not null,
+	aluno int not null,
+	atividade int not null,
+	constraint pk_aluno_atividade Primary key(idaluno_atividade),
+	constraint fk_aluno_atividade_aluno foreign key(aluno) references aluno,
+	constraint fk_aluno_atividade_atividade foreign key(atividade) references atividade
+);
+
+create table turma_escola(
+	idturma_escola int identity(1,1),
+	turma int not null,
+	escola int not null,
+	constraint pk_turma_escola primary key(idturma_escola),
+	constraint fk_turma_escola_turma foreign key(turma) references turma,
+	constraint fk_turma_escola_escola foreign key(escola) references escola,
+);
+
+create table turma_professor(
+	idturma_professor int identity(1,1),
+	professor int not null,
+	turma int not null,
+	constraint pk_turma_professor primary key(idturma_professor),
+	constraint fk_turma_professor_professor foreign key(professor) references professor,
+	constraint fk_turma_professor_turma foreign key(turma) references turma
+);
