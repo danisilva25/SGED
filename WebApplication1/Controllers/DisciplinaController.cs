@@ -67,7 +67,7 @@ namespace SGED.Controllers
             }
         }
 
-        // DELETE: api/Disciplina/5 da
+        // DELETE: api/Disciplina/5
         [HttpDelete("{id}")]
         public async Task<Boolean> Excluir(int id)
         {
@@ -77,7 +77,7 @@ namespace SGED.Controllers
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Erro na Controller ao excluir Disciplina. Verifique! Erro: " + ex.Message);
+                Console.WriteLine("Erro na Controller ao excluir Disciplina. Erro: " + ex.Message);
                 return false;
             }
         }
