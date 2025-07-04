@@ -27,7 +27,7 @@ namespace SGED.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> Carregar(int id)
         {
-            try
+            try 
             {
                 return Ok(await new Disciplina().Carregar(id));
             }
@@ -67,7 +67,7 @@ namespace SGED.Controllers
             }
         }
 
-        // DELETE: api/Disciplina/5
+        // DELETE: api/Disciplina/5 das
         [HttpDelete("{id}")]
         public async Task<Boolean> Excluir(int id)
         {
