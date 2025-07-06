@@ -9,6 +9,7 @@ using System.Net.Http;
 
 namespace SGED.Controllers
 {
+    [ApiController]
     [Route("api/[controller]")]
     public class TurmaController : ControllerBase
     {
