@@ -2,103 +2,131 @@
 
 ## Visão
 
-O SGED (Sistema de Gerenciamento Escolar Digital) é uma plataforma moderna para gestão educacional, desenvolvida para centralizar e simplificar os processos administrativos e acadêmicos de instituições de ensino.
+O SGED (Sistema de Gerenciamento Escolar Digital) é uma plataforma moderna de gestão educacional desenvolvida para centralizar os processos administrativos e acadêmicos de instituições de ensino.
 
-O projeto tem como objetivo fornecer uma solução escalável, segura e de fácil utilização para alunos, professores, diretores, secretários, diretorias de ensino e órgãos responsáveis pela administração da educação.
+Seu objetivo é oferecer uma solução segura, escalável e intuitiva para a administração escolar, simplificando atividades do dia a dia e proporcionando uma melhor experiência para todos os usuários do sistema.
 
-Além da área administrativa, o SGED também disponibiliza um portal público para consulta de informações institucionais, notícias, calendário acadêmico e indicadores das escolas.
+Além da área administrativa, o SGED contará com um portal público que permitirá à população consultar informações institucionais das escolas, notícias, calendário acadêmico e demais conteúdos públicos.
+
+Construído para evoluir: começando simples, crescendo de forma incremental e adotando tecnologias modernas somente quando elas resolverem problemas reais.
 
 ---
 
 # Problema
 
-Grande parte dos sistemas de gestão escolar atuais apresenta dificuldades relacionadas à usabilidade, desempenho e escalabilidade, especialmente em períodos de alta utilização, como o lançamento simultâneo de notas e frequências por centenas de professores.
+Os sistemas de gestão escolar atuais frequentemente apresentam limitações de usabilidade, desempenho e evolução tecnológica.
 
-Além disso, muitas funcionalidades são fortemente acopladas, dificultando a evolução do sistema e a introdução de novas tecnologias.
+Em períodos críticos, como o fechamento bimestral, centenas de professores realizam lançamentos de notas e frequências simultaneamente, ocasionando lentidão e indisponibilidade.
 
-O SGED nasce com o propósito de evoluir continuamente, priorizando simplicidade nas primeiras versões e adotando arquiteturas mais robustas conforme novas necessidades surgirem.
+O SGED nasce com o propósito de evoluir continuamente, priorizando simplicidade nas primeiras versões e incorporando novas arquiteturas e tecnologias conforme as necessidades do sistema aumentarem.
 
 ---
 
 # Objetivos
 
-- Centralizar a gestão acadêmica e administrativa.
+- Centralizar a gestão administrativa e acadêmica.
 - Simplificar o lançamento de notas e frequências.
 - Melhorar a experiência dos usuários.
 - Disponibilizar informações públicas das instituições de ensino.
-- Evoluir continuamente sem comprometer a estabilidade do sistema.
-- Demonstrar boas práticas de engenharia de software.
+- Evoluir continuamente sem comprometer a estabilidade da plataforma.
+- Aplicar boas práticas de engenharia de software durante toda a evolução do projeto.
+
+---
+
+# Estrutura Organizacional
+
+O SGED foi concebido para representar a estrutura administrativa da rede de ensino.
+
+A hierarquia organizacional é composta por:
+
+- Secretaria da Educação
+- Diretorias de Ensino
+- Escolas
+
+Essas organizações armazenam informações institucionais e servem como base para o controle de acesso e administração do sistema.
+
+As ações realizadas no sistema sempre são executadas por usuários vinculados a uma dessas organizações.
 
 ---
 
 # Usuários
 
-O SGED atende diferentes perfis de usuários:
+O sistema será utilizado pelos seguintes perfis de usuários.
 
-## Secretaria da Educação
+## Administrador da Secretaria da Educação
 
-Responsável pela administração global do sistema.
+Responsável pela administração global da plataforma.
 
-Pode gerenciar diretorias de ensino, usuários administrativos e configurações gerais.
+Pode gerenciar diretorias de ensino, configurações gerais e usuários administrativos.
 
-## Diretoria de Ensino
+## Funcionário da Diretoria de Ensino
 
 Responsável pela administração das escolas pertencentes à sua diretoria.
 
-## Escola
+Pode cadastrar, editar e acompanhar as informações das escolas sob sua responsabilidade.
 
-Responsável pela administração local da instituição.
+## Diretor Escolar
 
-Pode gerenciar professores, alunos, turmas e demais informações acadêmicas.
+Responsável pela administração da escola.
+
+Possui acesso completo às funcionalidades administrativas da instituição.
+
+## Secretário Escolar
+
+Responsável pelo gerenciamento operacional da escola.
+
+Pode cadastrar alunos, professores, turmas, disciplinas e demais informações acadêmicas.
 
 ## Professor
 
-Responsável pelo gerenciamento das atividades acadêmicas, lançamento de notas, frequência e acompanhamento das turmas.
+Responsável pelo gerenciamento das atividades acadêmicas.
+
+Pode lançar notas, registrar frequência e acompanhar as turmas sob sua responsabilidade.
 
 ## Aluno
 
-Pode consultar histórico escolar, notas, frequência, atividades e calendário.
+Pode consultar notas, frequência, histórico escolar, atividades e calendário acadêmico.
 
 ## Responsável
 
-Pode acompanhar o desempenho acadêmico do aluno.
+Pode acompanhar o desempenho acadêmico dos alunos vinculados.
 
 ## Público
 
-Pode acessar o portal institucional para consultar notícias, informações das escolas, calendário e demais conteúdos públicos.
+Pode acessar o portal público para consultar notícias, informações institucionais das escolas e demais conteúdos disponibilizados.
 
 ---
 
 # Módulos
 
-O SGED será dividido em módulos independentes, permitindo evolução contínua da plataforma.
+O SGED será desenvolvido de forma incremental.
 
-Inicialmente serão desenvolvidos:
+Os primeiros módulos serão:
 
+- Autenticação
 - Administração
 - Acadêmico
-- Autenticação
 
-Futuramente poderão ser adicionados:
+Ao longo da evolução do projeto poderão ser adicionados novos módulos, como:
 
 - Portal Público
 - Comunicação
 - Observabilidade
 - Relatórios
-- Financeiro
 - Biblioteca
 - Transporte Escolar
+- Financeiro
 
 ---
 
 # Princípios
 
-Durante todo o desenvolvimento do SGED serão seguidos os seguintes princípios:
+O desenvolvimento do SGED seguirá os seguintes princípios:
 
 - Simplicidade antes da complexidade.
 - Evolução incremental.
-- Código limpo.
 - Arquitetura modular.
+- Código limpo.
 - Segurança.
 - Escalabilidade.
 - Observabilidade.
@@ -107,10 +135,10 @@ Durante todo o desenvolvimento do SGED serão seguidos os seguintes princípios:
 
 ---
 
-# Evolução do Projeto
+# Evolução
 
 O SGED será desenvolvido por versões incrementais.
 
-Cada versão deverá representar uma aplicação funcional, adicionando novas capacidades sem comprometer as funcionalidades existentes.
+Cada versão deverá representar uma aplicação completamente funcional, permitindo que novas funcionalidades sejam adicionadas sem comprometer a estabilidade das versões anteriores.
 
-A evolução técnica da plataforma será documentada separadamente no documento `roadmap.md`.
+O planejamento da evolução será documentado separadamente no arquivo `roadmap.md`.
