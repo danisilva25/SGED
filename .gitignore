@@ -1,0 +1,122 @@
+## ---------------------------
+## .NET / Build
+## ---------------------------
+bin/
+obj/
+out/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# .NET Core / .NET 5+ artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## ---------------------------
+## Rider / JetBrains
+## ---------------------------
+.idea/
+*.sln.iml
+
+## ---------------------------
+## Visual Studio (caso alguém abra também)
+## ---------------------------
+.vs/
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+## ---------------------------
+## Testes / Coverage
+## ---------------------------
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+coverage/
+TestResults/
+
+## ---------------------------
+## NuGet
+## ---------------------------
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+project.assets.json
+
+## ---------------------------
+## Entity Framework
+## ---------------------------
+# Migrations geradas você provavelmente QUER versionar,
+# então NÃO ignore a pasta Migrations por padrão.
+# Se quiser ignorar algo específico de EF, adicione aqui.
+
+## ---------------------------
+## Configurações e segredos locais
+## ---------------------------
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+secrets.json
+*.env
+.env
+.env.local
+
+## ---------------------------
+## Docker
+## ---------------------------
+docker-compose.override.yml
+
+## ---------------------------
+## Sistema Operacional
+## ---------------------------
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+## ---------------------------
+## Editor / Ferramentas diversas
+## ---------------------------
+*.swp
+*.swo
+*.bak
+*.tmp
+node_modules/
