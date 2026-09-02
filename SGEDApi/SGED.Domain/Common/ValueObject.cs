@@ -13,7 +13,7 @@ public abstract class ValueObject
 
         return GetEqualityComponents().SequenceEqual(other.GetEqualityComponents());
     }
-    
+
     public override int GetHashCode()
         => GetEqualityComponents()
             .Select(x => x?.GetHashCode() ?? 0)
@@ -21,15 +21,15 @@ public abstract class ValueObject
 
     public static bool operator ==(ValueObject left, ValueObject right)
     {
-        if (left is null && right is null) 
+        if (ReferenceEquals(left, right))
             return false;
-        
-        if (left is null || right is null) 
+
+        if (left is null || right is null)
             return false;
-        
+
         return left.Equals(right);
     }
 
     public static bool operator !=(ValueObject left, ValueObject right)
-        =>  !(left == right); 
+        => !(left == right);
 }
