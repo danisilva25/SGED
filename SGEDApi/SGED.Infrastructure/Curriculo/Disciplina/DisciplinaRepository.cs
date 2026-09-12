@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using SGED.Application.Curriculo.Disciplinas;
 using SGED.Infrastructure.Persistence;
 
@@ -10,5 +11,18 @@ public sealed class DisciplinaRepository(
         CancellationToken cancellationToken)
     {
         await context.Disciplinas.AddAsync(disciplina, cancellationToken);
+    }
+
+    public async Task<IReadOnlyList<Domain.Curriculo.Disciplinas.Disciplina>> GetAllAsync(CancellationToken cancellationToken)
+    {
+        return await context.Disciplinas
+            .AsNoTracking()
+            .OrderBy(d => d.Nome)
+            .ToListAsync(cancellationToken);
+    }
+
+    public Task<Domain.Curriculo.Disciplinas.Disciplina> GetByIdAsync(int id, CancellationToken cancellationToken)
+    {
+        throw new NotImplementedException();
     }
 }
