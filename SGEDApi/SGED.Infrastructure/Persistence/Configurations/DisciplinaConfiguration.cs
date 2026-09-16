@@ -17,5 +17,12 @@ public sealed class DisciplinaConfiguration : IEntityTypeConfiguration<Disciplin
         builder.Property(x => x.Nome)
             .IsRequired()
             .HasMaxLength(150);
-    }    
+
+        builder.Property(x => x.CreatedAt)
+            .IsRequired();
+
+        builder.Property(x => x.UpdatedAt);
+        
+        builder.Property(x => x.DeletedAt);
+    }
 }

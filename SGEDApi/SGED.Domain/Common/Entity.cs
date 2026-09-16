@@ -3,10 +3,15 @@ namespace SGED.Domain.Common;
 public abstract class Entity
 {
     public Guid Id { get; protected set; }
+    public DateTime CreatedAt { get; protected set; }
+    public DateTime? UpdatedAt { get; protected set; }
+    public DateTime? DeletedAt { get; set; }
+    public bool IsDeleted => DeletedAt.HasValue;
 
     protected Entity()
     {
         Id = Guid.NewGuid();
+        CreatedAt = DateTime.UtcNow;
     }
 
     protected Entity(Guid id)
@@ -16,6 +21,18 @@ public abstract class Entity
                 "Id não pode ser vazio.");
 
         Id = id;
+        CreatedAt = DateTime.UtcNow;
+    }
+
+    public void MarkAsUpdated()
+        => UpdatedAt = DateTime.UtcNow;
+
+    public void MarkAsDeleted()
+    {
+        if (IsDeleted)
+            return;
+        
+        DeletedAt = DateTime.UtcNow;
     }
 
     public override bool Equals(object? obj)

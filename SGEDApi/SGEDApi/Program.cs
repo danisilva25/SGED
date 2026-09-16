@@ -2,7 +2,9 @@ using DotNetEnv;
 using Microsoft.EntityFrameworkCore;
 using SGED.Application.Common;
 using SGED.Application.Curriculo.Disciplinas;
+using SGED.Application.Curriculo.Disciplinas.AlterarDisciplina;
 using SGED.Application.Curriculo.Disciplinas.CadastrarDisciplina;
+using SGED.Application.Curriculo.Disciplinas.DeletarDisciplina;
 using SGED.Application.Curriculo.Disciplinas.ListarDisciplinas;
 using SGED.Infrastructure.Curriculo.Disciplina;
 using SGED.Infrastructure.Persistence;
@@ -23,6 +25,8 @@ builder.Services.AddScoped<
 
 builder.Services.AddScoped<CadastrarDisciplinaHandler>();
 builder.Services.AddScoped<ListarDisciplinaHandler>();
+builder.Services.AddScoped<DeletarDisciplinaHandler>();
+builder.Services.AddScoped<AlterarDisciplinaHandler>();
 
 builder.Services.AddScoped<IUnitOfWork>(
     provider => provider.GetRequiredService<SgedDbContext>());

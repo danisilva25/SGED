@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using SGED.Infrastructure.Persistence;
@@ -11,9 +12,11 @@ using SGED.Infrastructure.Persistence;
 namespace SGED.Infrastructure.Migrations
 {
     [DbContext(typeof(SgedDbContext))]
-    partial class SgedDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260914202235_AddEntityAuditFields")]
+    partial class AddEntityAuditFields
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

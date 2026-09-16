@@ -26,4 +26,10 @@ public sealed class Disciplina : Entity
         return Result<Disciplina>.Success(
             new Disciplina(nome.Trim()));
     }
+    
+    public void UpdateName(string nome)
+    {
+        Nome = nome.Trim();
+        MarkAsUpdated();
+    }
 }
