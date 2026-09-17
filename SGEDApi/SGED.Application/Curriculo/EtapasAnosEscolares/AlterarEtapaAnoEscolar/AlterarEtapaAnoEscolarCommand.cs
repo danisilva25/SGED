@@ -1,0 +1,3 @@
+namespace SGED.Application.Curriculo.EtapasAnosEscolares.AlterarEtapaAnoEscolar;
+
+public record AlterarEtapaAnoEscolarCommand(Guid IdEtapaAnoEscolar, string NomeEtapaAnoEscolar);

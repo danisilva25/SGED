@@ -20,5 +20,5 @@ public sealed class DisciplinaRepository(
 
     public async Task<Domain.Curriculo.Disciplinas.Disciplina?> GetByIdAsync(Guid id, CancellationToken cancellationToken)
         => await context.Disciplinas.FirstOrDefaultAsync
-            (d => d.Id == id, cancellationToken);
+            (d => d.Id == id && d.DeletedAt == null, cancellationToken);
 }

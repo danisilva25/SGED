@@ -1,0 +1,3 @@
+namespace SGED.Application.Curriculo.EtapasAnosEscolares.CadastrarEtapaAnoEscolar;
+
+public record CadastrarEtapaAnoEscolarCommand(string Nome);

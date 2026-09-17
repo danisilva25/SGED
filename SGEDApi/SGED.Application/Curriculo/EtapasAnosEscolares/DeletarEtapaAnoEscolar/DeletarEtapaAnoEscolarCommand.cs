@@ -1,0 +1,3 @@
+namespace SGED.Application.Curriculo.EtapasAnosEscolares.DeletarEtapaAnoEscolar;
+
+public record DeletarEtapaAnoEscolarCommand(Guid IdEtapaAnoEscolar);
