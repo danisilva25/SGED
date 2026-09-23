@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using SGED.Application.Common;
-using SGED.Domain.Curriculo.Disciplinas;
 using SGED.Domain.Curriculo.EtapasAnosEscolares;
 
 namespace SGED.Infrastructure.Persistence;
@@ -8,9 +7,6 @@ namespace SGED.Infrastructure.Persistence;
 public class SgedDbContext(DbContextOptions options)
     : DbContext(options), IUnitOfWork
 {
-    public DbSet<Disciplina> Disciplinas
-        => Set<Disciplina>();
-
     public DbSet<EtapaAnoEscolar> EtapasAnosEscolares
         => Set<EtapaAnoEscolar>();
 

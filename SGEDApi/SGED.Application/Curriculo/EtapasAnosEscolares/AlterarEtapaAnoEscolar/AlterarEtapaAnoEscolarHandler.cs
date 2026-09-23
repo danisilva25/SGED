@@ -18,7 +18,10 @@ public class AlterarEtapaAnoEscolarHandler(
                 ErrorType.NotFound
                 ));
         
-        etapa.UpdateName(command.NomeEtapaAnoEscolar);
+        etapa.Update(command.NomeEtapaAnoEscolar,
+            command.Codigo,
+            command.Modalidade,
+            command.Ordem);
 
         await unitOfWork.SaveChangesAsync(cancellationToken);
         

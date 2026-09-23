@@ -11,7 +11,11 @@ public class CadastrarEtapaAnoEscolarHandler(
     public async Task<Result<Guid>> Handle(CadastrarEtapaAnoEscolarCommand command,
         CancellationToken cancellationToken)
     {
-        var result = EtapaAnoEscolar.Create(command.Nome);
+        var result = EtapaAnoEscolar.Create(
+            command.NomeEtapaAnoEscolar,
+            command.Codigo,
+            command.Modalidade,
+            command.Ordem);
 
         if (result.IsFailure)
             return Result<Guid>.Failure(result.Error);

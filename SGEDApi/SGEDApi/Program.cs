@@ -1,17 +1,11 @@
 using DotNetEnv;
 using Microsoft.EntityFrameworkCore;
 using SGED.Application.Common;
-using SGED.Application.Curriculo.Disciplinas;
-using SGED.Application.Curriculo.Disciplinas.AlterarDisciplina;
-using SGED.Application.Curriculo.Disciplinas.CadastrarDisciplina;
-using SGED.Application.Curriculo.Disciplinas.DeletarDisciplina;
-using SGED.Application.Curriculo.Disciplinas.ListarDisciplinas;
 using SGED.Application.Curriculo.EtapasAnosEscolares;
 using SGED.Application.Curriculo.EtapasAnosEscolares.AlterarEtapaAnoEscolar;
 using SGED.Application.Curriculo.EtapasAnosEscolares.CadastrarEtapaAnoEscolar;
 using SGED.Application.Curriculo.EtapasAnosEscolares.DeletarEtapaAnoEscolar;
 using SGED.Application.Curriculo.EtapasAnosEscolares.ListarEtapasAnosEscolares;
-using SGED.Infrastructure.Curriculo.Disciplina;
 using SGED.Infrastructure.Curriculo.EtapaAnosEscolares;
 using SGED.Infrastructure.Persistence;
 using SGEDApi.Common.Exceptions;
@@ -27,17 +21,8 @@ builder.Services.AddDbContext<SgedDbContext>(options =>
         .LogTo(Console.WriteLine));
 
 builder.Services.AddScoped<
-    IDisciplinaRepository,
-    DisciplinaRepository>();
-
-builder.Services.AddScoped<
     IEtapaAnoEscolarRepository,
     EtapaAnoEscolarRepository>();
-
-builder.Services.AddScoped<CadastrarDisciplinaHandler>();
-builder.Services.AddScoped<ListarDisciplinaHandler>();
-builder.Services.AddScoped<DeletarDisciplinaHandler>();
-builder.Services.AddScoped<AlterarDisciplinaHandler>();
 
 builder.Services.AddScoped<CadastrarEtapaAnoEscolarHandler>();
 builder.Services.AddScoped<ListarEtapaAnoEscolarHandler>();

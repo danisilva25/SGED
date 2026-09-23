@@ -18,6 +18,15 @@ public sealed class EtapaAnoEscolarConfiguration : IEntityTypeConfiguration<Etap
             .IsRequired()
             .HasMaxLength(50);
 
+        builder.Property(e => e.Codigo)
+            .IsRequired();
+        
+        builder.Property(e => e.Modalidade)
+            .IsRequired();
+        
+        builder.Property(e => e.Ordem)
+            .IsRequired();
+
         builder.Property(e => e.CreatedAt)
             .IsRequired();
 
