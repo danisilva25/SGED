@@ -6,7 +6,13 @@ using SGED.Application.Curriculo.EtapasAnosEscolares.AlterarEtapaAnoEscolar;
 using SGED.Application.Curriculo.EtapasAnosEscolares.CadastrarEtapaAnoEscolar;
 using SGED.Application.Curriculo.EtapasAnosEscolares.DeletarEtapaAnoEscolar;
 using SGED.Application.Curriculo.EtapasAnosEscolares.ListarEtapasAnosEscolares;
+using SGED.Application.Curriculo.Modalidades;
+using SGED.Application.Curriculo.Modalidades.AlterarModalidade;
+using SGED.Application.Curriculo.Modalidades.CadastrarModalidade;
+using SGED.Application.Curriculo.Modalidades.DeletarModalidade;
+using SGED.Application.Curriculo.Modalidades.ListarModalidades;
 using SGED.Infrastructure.Curriculo.EtapaAnosEscolares;
+using SGED.Infrastructure.Curriculo.Modalidades;
 using SGED.Infrastructure.Persistence;
 using SGEDApi.Common.Exceptions;
 
@@ -24,10 +30,19 @@ builder.Services.AddScoped<
     IEtapaAnoEscolarRepository,
     EtapaAnoEscolarRepository>();
 
+builder.Services.AddScoped<
+    IModalidadeRepository,
+    ModalidadeRepository>();
+
 builder.Services.AddScoped<CadastrarEtapaAnoEscolarHandler>();
 builder.Services.AddScoped<ListarEtapaAnoEscolarHandler>();
 builder.Services.AddScoped<DeletarEtapaAnoEscolarHandler>();
 builder.Services.AddScoped<AlterarEtapaAnoEscolarHandler>();
+
+builder.Services.AddScoped<CadastrarModalidadeHandler>();
+builder.Services.AddScoped<AlterarModalidadeHandler>();
+builder.Services.AddScoped<DeletarModalidadeHandler>();
+builder.Services.AddScoped<ListarModalidadeHandler>();
 
 builder.Services.AddScoped<IUnitOfWork>(
     provider => provider.GetRequiredService<SgedDbContext>());

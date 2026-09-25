@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using SGED.Application.Common;
 using SGED.Domain.Curriculo.EtapasAnosEscolares;
+using SGED.Domain.Curriculo.Modalidades;
 
 namespace SGED.Infrastructure.Persistence;
 
@@ -9,6 +10,9 @@ public class SgedDbContext(DbContextOptions options)
 {
     public DbSet<EtapaAnoEscolar> EtapasAnosEscolares
         => Set<EtapaAnoEscolar>();
+    
+    public DbSet<Modalidade>  Modalidades
+        => Set<Modalidade>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

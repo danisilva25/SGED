@@ -23,6 +23,6 @@ public class DeletarEtapaAnoEscolarHandler(
 
         await unitOfWork.SaveChangesAsync(cancellationToken);
         
-        return  Result<bool>.Success(true);
+        return Result<bool>.Success(true);
     }
 }
