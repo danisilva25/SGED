@@ -8,7 +8,12 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\Application\Application.csproj" />
       <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Google.GenAI" Version="1.24.0" />
     </ItemGroup>
 
 </Project>

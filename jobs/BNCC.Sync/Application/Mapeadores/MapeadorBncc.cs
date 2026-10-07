@@ -6,8 +6,10 @@ using Habilidade = Domain.Curriculo.Habilidade.Habilidade;
 
 namespace Application.Mapeadores;
 
-public sealed class MapeadorBncc
+public sealed class MapeadorBncc(CatalogoComponentesCurriculares.CatalogoComponentesCurriculares catalogoSiglas)
 {
+    private readonly CatalogoComponentesCurriculares.CatalogoComponentesCurriculares CatalogoSiglas = catalogoSiglas;
+
     public ResultadoMapeamentoBncc Mapear(
         Root documento)
     {
@@ -54,12 +56,12 @@ public sealed class MapeadorBncc
         return resultado;
     }
 
-    private static ComponenteCurricular MapearComponente(
+    private ComponenteCurricular MapearComponente(
         Curriculum curriculo)
     {
         return new ComponenteCurricular(
             nome: curriculo?.ComponenteCurricular?.Nome ?? "",
-            sigla: string.Empty,
+            sigla: CatalogoSiglas.Obter(curriculo?.ComponenteCurricular?.Nome ?? ""),
             areaConhecimento: curriculo?.AreaConhecimento?.Nome ?? "");
     }
 
