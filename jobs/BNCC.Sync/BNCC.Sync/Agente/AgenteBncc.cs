@@ -49,9 +49,19 @@ public sealed class AgenteBncc(GeminiOptions options) : IAgenteBncc
 
             ResponseMimeType = "application/json",
 
-            ResponseJsonSchema = SchemaBncc.Criar()
+            ResponseJsonSchema = SchemaBncc.Criar(),
+            
+            ThinkingConfig = new ThinkingConfig
+            {
+                ThinkingBudget = 0
+            },
+            
+            HttpOptions = new HttpOptions
+            {
+                Timeout = 300_000
+            }
         };
-
+        
         var response =
             await _client.Models.GenerateContentAsync(
                 model: options.Model,
