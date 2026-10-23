@@ -16,11 +16,9 @@ public sealed class AgenteBncc(GeminiOptions options) : IAgenteBncc
         CancellationToken cancellationToken = default)
     {
         if (string.IsNullOrWhiteSpace(conteudo))
-        {
             throw new ArgumentException(
                 "O conteúdo da BNCC não pode ser vazio.",
                 nameof(conteudo));
-        }
 
         var prompt = $"""
             {PromptBncc.Sistema}
@@ -96,10 +94,8 @@ public sealed class AgenteBncc(GeminiOptions options) : IAgenteBncc
             .Text;
 
         if (string.IsNullOrWhiteSpace(texto))
-        {
             throw new InvalidOperationException(
                 "O Gemini não retornou conteúdo textual.");
-        }
 
         return texto;
     }

@@ -59,11 +59,9 @@ public sealed class ProcessadorBncc : IDisposable
             cancellationToken);
 
         if (resultado is null)
-        {
             throw new InvalidOperationException(
                 $"O agente retornou resultado nulo no lote " +
                 $"{paginaInicial}-{paginaFinal}.");
-        }
 
         var caminhoParcial = Path.Combine(
             _pastaDados,
@@ -84,8 +82,6 @@ public sealed class ProcessadorBncc : IDisposable
         return resultado;
     }
 
-    public void Dispose()
-    {
-        _pdf.Dispose();
-    }
+    public void Dispose() 
+        => _pdf.Dispose();
 }
