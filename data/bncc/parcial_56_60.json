@@ -1,0 +1,242 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2020",
+    "file": "bncc_2020.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Educação Infantil"
+      },
+      "areaConhecimento": {
+        "nome": "Escuta, fala, pensamento e imaginação"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "hierarquia",
+        "nome": "Educação Infantil"
+      },
+      "estrutura": [
+        {
+          "tipo": "habilidade",
+          "nome": "Expressar ideias, desejos e sentimentos em distintas situações de interação, por diferentes meios",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Expressar ideias, desejos e sentimentos em distintas situações de interação, por diferentes meios",
+              "habilidades": [
+                {
+                  "codigo": "L1",
+                  "descricao": "Expressar ideias, desejos e sentimentos em distintas situações de interação, por diferentes meios",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 57
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Argumentar e relatar fatos oralmente, em sequência temporal e causal, organizando e adequando sua fala ao contexto em que é produzida",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Argumentar e relatar fatos oralmente, em sequência temporal e causal, organizando e adequando sua fala ao contexto em que é produzida",
+              "habilidades": [
+                {
+                  "codigo": "L2",
+                  "descricao": "Argumentar e relatar fatos oralmente, em sequência temporal e causal, organizando e adequando sua fala ao contexto em que é produzida",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 57
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Ouvir, compreender, contar, recontar e criar narrativas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Ouvir, compreender, contar, recontar e criar narrativas",
+              "habilidades": [
+                {
+                  "codigo": "L3",
+                  "descricao": "Ouvir, compreender, contar, recontar e criar narrativas",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 57
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Conhecer diferentes gêneros e portadores textuais, demonstrando compreensão da função social da escrita e reconhecendo a leitura como fonte de prazer e informação",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Conhecer diferentes gêneros e portadores textuais, demonstrando compreensão da função social da escrita e reconhecendo a leitura como fonte de prazer e informação",
+              "habilidades": [
+                {
+                  "codigo": "L4",
+                  "descricao": "Conhecer diferentes gêneros e portadores textuais, demonstrando compreensão da função social da escrita e reconhecendo a leitura como fonte de prazer e informação",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 57
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Espaços, tempos, quantidades, relações e transformações"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "hierarquia",
+        "nome": "Ensino Fundamental"
+      },
+      "estrutura": [
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, nomear adequadamente e comparar as propriedades dos objetos, estabelecendo relações entre eles",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Identificar, nomear adequadamente e comparar as propriedades dos objetos, estabelecendo relações entre eles",
+              "habilidades": [
+                {
+                  "codigo": "M1",
+                  "descricao": "Identificar, nomear adequadamente e comparar as propriedades dos objetos, estabelecendo relações entre eles",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 57
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Interagir com o meio ambiente e com fenômenos naturais ou artificiais, demonstrando curiosidade e cuidado com relação a eles",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Interagir com o meio ambiente e com fenômenos naturais ou artificiais, demonstrando curiosidade e cuidado com relação a eles",
+              "habilidades": [
+                {
+                  "codigo": "M2",
+                  "descricao": "Interagir com o meio ambiente e com fenômenos naturais ou artificiais, demonstrando curiosidade e cuidado com relação a eles",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 57
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Utilizar vocabulário relativo às noções de grandeza (maior, menor, igual etc.), espaço (dentro e fora) e medidas (comprido, curto, grosso, fino) como meio de comunicação de suas experiências",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Utilizar vocabulário relativo às noções de grandeza (maior, menor, igual etc.), espaço (dentro e fora) e medidas (comprido, curto, grosso, fino) como meio de comunicação de suas experiências",
+              "habilidades": [
+                {
+                  "codigo": "M3",
+                  "descricao": "Utilizar vocabulário relativo às noções de grandeza (maior, menor, igual etc.), espaço (dentro e fora) e medidas (comprido, curto, grosso, fino) como meio de comunicação de suas experiências",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 57
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Utilizar unidades de medida (dia e noite; dias, semanas, meses e ano) e noções de tempo (presente, passado e futuro; antes, agora e depois), para responder a necessidades e questões do cotidiano",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Utilizar unidades de medida (dia e noite; dias, semanas, meses e ano) e noções de tempo (presente, passado e futuro; antes, agora e depois), para responder a necessidades e questões do cotidiano",
+              "habilidades": [
+                {
+                  "codigo": "M4",
+                  "descricao": "Utilizar unidades de medida (dia e noite; dias, semanas, meses e ano) e noções de tempo (presente, passado e futuro; antes, agora e depois), para responder a necessidades e questões do cotidiano",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 57
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, nomear adequadamente e comparar as propriedades dos objetos, estabelecendo relações entre eles",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Identificar, nomear adequadamente e comparar as propriedades dos objetos, estabelecendo relações entre eles",
+              "habilidades": [
+                {
+                  "codigo": "M5",
+                  "descricao": "Identificar, nomear adequadamente e comparar as propriedades dos objetos, estabelecendo relações entre eles",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 57
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

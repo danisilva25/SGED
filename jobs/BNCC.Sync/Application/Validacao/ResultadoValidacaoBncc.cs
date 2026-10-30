@@ -2,7 +2,13 @@ namespace Application.Validacao;
 
 public sealed class ResultadoValidacaoBncc
 {
-    public bool EhValido => Erros.Count == 0;
+    public IReadOnlyList<OcorrenciaValidacaoBncc> Ocorrencias { get; }
 
-    public List<string> Erros { get; } = [];
+    public bool Valido => Ocorrencias.Count == 0;
+
+    public ResultadoValidacaoBncc(
+        IReadOnlyList<OcorrenciaValidacaoBncc> ocorrencias)
+    {
+        Ocorrencias = ocorrencias;
+    }
 }

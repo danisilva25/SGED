@@ -1,0 +1,63 @@
+{
+  "source": {
+    "name": "Página 14 e 15 do documento",
+    "document": "Base Nacional Comum Curricular",
+    "version": "2023-10-15",
+    "file": "base-nacional-comum-curricular.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental e Médio"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens, Códigos e suas Tecnologias"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Base Nacional Comum Curricular",
+        "nome": "BNCC"
+      },
+      "estrutura": [
+        {
+          "tipo": "Diretrizes Pedagógicas",
+          "nome": "Foco no desenvolvimento de competências",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Conhecimento",
+              "habilidades": [
+                {
+                  "codigo": "L1",
+                  "descricao": "Compreender e produzir textos de diferentes tipos e gêneros, com foco na clareza e coerência da comunicação",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 14
+                  }
+                },
+                {
+                  "codigo": "L2",
+                  "descricao": "Interagir com diferentes públicos e contextos, utilizando linguagem adequada para diferentes situações comunicativas",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 14
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

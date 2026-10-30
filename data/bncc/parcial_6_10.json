@@ -1,0 +1,50 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2020",
+    "file": "bncc_2020.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências da Natureza"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "Anos Iniciais",
+        "nome": "Unidades Temáticas"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Objetos de Conhecimento",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Objeto de Conhecimento 1",
+              "habilidades": [
+                {
+                  "codigo": "4.3.1.1.1",
+                  "descricao": "Habilidade 1",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 331
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+using System.Text.RegularExpressions;
 using Application.Mapeadores.CatalogoComponentesCurriculares;
 using Infrastructure.Json.Models;
 
@@ -6,241 +7,115 @@ namespace Application.Validacao;
 public sealed class ValidadorBncc(CatalogoComponentesCurriculares catalogoSiglas)
 {
     public ResultadoValidacaoBncc Validar(
-        Root? documento)
-    {
-        var resultado = new ResultadoValidacaoBncc();
-
-        if (documento is null)
-        {
-            resultado.Erros.Add(
-                "O documento BNCC não pode ser nulo.");
-
-            return resultado;
-        }
-
-        ValidarSource(documento, resultado);
-        ValidarCurriculum(documento, resultado);
-
-        return resultado;
-    }
-
-    private static void ValidarSource(
         Root documento,
-        ResultadoValidacaoBncc resultado)
+        IReadOnlyDictionary<string, ReferenciaHabilidade>? referencia = null,
+        IReadOnlyCollection<string>? codigosEsperadosNoLote = null)
     {
-        if (documento.Source is null)
+        ArgumentNullException.ThrowIfNull(documento);
+
+        var ocorrencias = new List<OcorrenciaValidacaoBncc>();
+        var encontrados = new Dictionary<string, string>(
+            StringComparer.OrdinalIgnoreCase);
+
+        foreach (var curriculo in documento.Curriculum)
         {
-            resultado.Erros.Add(
-                "O campo 'source' deve existir.");
-
-            return;
-        }
-
-        if (string.IsNullOrWhiteSpace(documento.Source.Name))
-            resultado.Erros.Add(
-                "O campo 'source.name' deve possuir valor.");
-
-        if (string.IsNullOrWhiteSpace(documento.Source.Document))
-            resultado.Erros.Add(
-                "O campo 'source.document' deve possuir valor.");
-
-        if (string.IsNullOrWhiteSpace(documento.Source.Version))
-            resultado.Erros.Add(
-                "O campo 'source.version' deve possuir valor.");
-
-        if (string.IsNullOrWhiteSpace(documento.Source.File))
-            resultado.Erros.Add(
-                "O campo 'source.file' deve possuir valor.");
-    }
-
-    private void ValidarCurriculum(
-        Root documento,
-        ResultadoValidacaoBncc resultado)
-    {
-        if (documento.Curriculum is null ||
-            documento.Curriculum.Count == 0)
-        {
-            resultado.Erros.Add(
-                "O campo 'curriculum' deve existir e possuir pelo menos um registro.");
-
-            return;
-        }
-
-        for (var i = 0; i < documento.Curriculum.Count; i++)
-        {
-            var curriculo = documento.Curriculum[i];
-
-            ValidarEtapa(curriculo, i, resultado);
-            ValidarComponente(curriculo, i, resultado);
-            ValidarOrganizacao(curriculo, i, resultado);
-            ValidarEstrutura(curriculo, i, resultado);
-        }
-    }
-
-    private static void ValidarEtapa(
-        Curriculum curriculo,
-        int indice,
-        ResultadoValidacaoBncc resultado)
-    {
-        if (curriculo.Etapa is null)
-        {
-            resultado.Erros.Add(
-                $"curriculum[{indice}].etapa deve existir.");
-
-            return;
-        }
-
-        if (string.IsNullOrWhiteSpace(curriculo.Etapa.Nome))
-        {
-            resultado.Erros.Add(
-                $"curriculum[{indice}].etapa.nome deve possuir valor.");
-        }
-    }
-
-    private void ValidarComponente(
-        Curriculum curriculo,
-        int indice,
-        ResultadoValidacaoBncc resultado)
-    {
-        if (curriculo.ComponenteCurricular is null)
-        {
-            resultado.Erros.Add(
-                $"curriculum[{indice}].componenteCurricular deve existir.");
-
-            return;
-        }
-
-        var nome = curriculo.ComponenteCurricular.Nome;
-
-        if (string.IsNullOrWhiteSpace(nome))
-        {
-            resultado.Erros.Add(
-                $"curriculum[{indice}].componenteCurricular.nome deve possuir valor.");
-
-            return;
-        }
-
-        if (!catalogoSiglas.Possui(nome))
-            resultado.Erros.Add(
-                $"O componente curricular '{nome}' não possui sigla cadastrada.");
-        
-    }
-
-    private static void ValidarOrganizacao(
-        Curriculum curriculo,
-        int indice,
-        ResultadoValidacaoBncc resultado)
-    {
-        if (curriculo.Organizacao is null)
-        {
-            resultado.Erros.Add(
-                $"curriculum[{indice}].organizacao deve existir.");
-
-            return;
-        }
-
-        if (string.IsNullOrWhiteSpace(curriculo.Organizacao.Tipo))
-            resultado.Erros.Add(
-                $"curriculum[{indice}].organizacao.tipo deve possuir valor.");
-        
-    }
-
-    private static void ValidarEstrutura(
-        Curriculum curriculo,
-        int indiceCurriculo,
-        ResultadoValidacaoBncc resultado)
-    {
-        if (curriculo.Estrutura is null ||
-            curriculo.Estrutura.Count == 0)
-        {
-            resultado.Erros.Add(
-                $"curriculum[{indiceCurriculo}].estrutura deve existir e possuir registros.");
-
-            return;
-        }
-
-        for (var i = 0; i < curriculo.Estrutura.Count; i++)
-        {
-            var estrutura = curriculo.Estrutura[i];
-
-            if (string.IsNullOrWhiteSpace(estrutura.Nome))
-                resultado.Erros.Add(
-                    $"curriculum[{indiceCurriculo}].estrutura[{i}].nome deve possuir valor.");
-
-            if (estrutura.ObjetosConhecimento is null ||
-                estrutura.ObjetosConhecimento.Count == 0)
+            foreach (var estrutura in curriculo.Estrutura)
             {
-                resultado.Erros.Add(
-                    $"curriculum[{indiceCurriculo}].estrutura[{i}].objetosConhecimento deve possuir pelo menos um objeto.");
-                
-                continue;
+                foreach (var objeto in estrutura.ObjetosConhecimento)
+                {
+                    var localizacao = string.Join(
+                        " > ",
+                        new[]
+                        {
+                            curriculo.Etapa?.Nome,
+                            curriculo.ComponenteCurricular?.Nome,
+                            estrutura.Nome,
+                            objeto.Nome
+                        }.Where(x => !string.IsNullOrWhiteSpace(x)));
+
+                    foreach (var habilidade in objeto.Habilidades)
+                    {
+                        var codigo = habilidade.Codigo?.Trim();
+                        var descricao = habilidade.Descricao?.Trim();
+
+                        if (string.IsNullOrWhiteSpace(codigo))
+                        {
+                            ocorrencias.Add(new(
+                                TipoOcorrenciaBncc.CodigoVazio,
+                                "Habilidade sem código.",
+                                null,
+                                localizacao));
+
+                            continue;
+                        }
+
+                        if (encontrados.TryGetValue(
+                                codigo, out var primeiraLocalizacao))
+                        {
+                            ocorrencias.Add(new(
+                                TipoOcorrenciaBncc.CodigoDuplicado,
+                                $"Código repetido. Primeira ocorrência: {primeiraLocalizacao}.",
+                                codigo,
+                                localizacao));
+                        }
+                        else
+                        {
+                            encontrados[codigo] = localizacao;
+                        }
+
+                        if (referencia is null)
+                            continue;
+
+                        if (!referencia.TryGetValue(
+                                codigo, out var habilidadeOficial))
+                        {
+                            ocorrencias.Add(new(
+                                TipoOcorrenciaBncc.CodigoDesconhecido,
+                                "Código não encontrado na referência fornecida.",
+                                codigo,
+                                localizacao));
+
+                            continue;
+                        }
+
+                        if (string.IsNullOrWhiteSpace(descricao) ||
+                            Normalizar(descricao) !=
+                            Normalizar(habilidadeOficial.Descricao))
+                        {
+                            ocorrencias.Add(new(
+                                TipoOcorrenciaBncc.DescricaoDivergente,
+                                "A descrição difere da referência fornecida.",
+                                codigo,
+                                localizacao));
+                        }
+                    }
+                }
             }
-
-            ValidarObjetosConhecimento(
-                estrutura.ObjetosConhecimento,
-                indiceCurriculo,
-                i,
-                resultado);
         }
-    }
 
-    private static void ValidarObjetosConhecimento(
-        List<ObjetosConhecimento> objetos,
-        int indiceCurriculo,
-        int indiceEstrutura,
-        ResultadoValidacaoBncc resultado)
-    {
-        for (var i = 0; i < objetos.Count; i++)
+        if (codigosEsperadosNoLote is not null)
         {
-            var objeto = objetos[i];
+            var esperados = codigosEsperadosNoLote
+                .Where(c => !string.IsNullOrWhiteSpace(c))
+                .Select(c => c.Trim())
+                .ToHashSet(StringComparer.OrdinalIgnoreCase);
 
-            if (string.IsNullOrWhiteSpace(objeto.Nome))
+            foreach (var codigoEsperado in esperados)
             {
-                resultado.Erros.Add(
-                    $"curriculum[{indiceCurriculo}].estrutura[{indiceEstrutura}].objetosConhecimento[{i}].nome deve possuir valor.");
+                if (!encontrados.ContainsKey(codigoEsperado))
+                {
+                    ocorrencias.Add(new(
+                        TipoOcorrenciaBncc.HabilidadeAusente,
+                        "Habilidade esperada não encontrada no lote.",
+                        codigoEsperado,
+                        "Lote"));
+                }
             }
-
-            if (objeto.Habilidades is null ||
-                objeto.Habilidades.Count == 0)
-            {
-                resultado.Erros.Add(
-                    $"curriculum[{indiceCurriculo}].estrutura[{indiceEstrutura}].objetosConhecimento[{i}].habilidades deve possuir pelo menos uma habilidade.");
-
-                continue;
-            }
-
-            ValidarHabilidades(
-                objeto.Habilidades,
-                indiceCurriculo,
-                indiceEstrutura,
-                i,
-                resultado);
         }
+
+        return new ResultadoValidacaoBncc(ocorrencias);
     }
 
-    private static void ValidarHabilidades(
-        List<Infrastructure.Json.Models.Habilidade> habilidades,
-        int indiceCurriculo,
-        int indiceEstrutura,
-        int indiceObjeto,
-        ResultadoValidacaoBncc resultado)
-    {
-        for (var i = 0; i < habilidades.Count; i++)
-        {
-            var habilidade = habilidades[i];
-
-            if (string.IsNullOrWhiteSpace(habilidade.Codigo))
-                resultado.Erros.Add(
-                    $"curriculum[{indiceCurriculo}].estrutura[{indiceEstrutura}].objetosConhecimento[{indiceObjeto}].habilidades[{i}].codigo deve possuir valor.");
-
-            if (string.IsNullOrWhiteSpace(habilidade.Descricao))
-                resultado.Erros.Add(
-                    $"curriculum[{indiceCurriculo}].estrutura[{indiceEstrutura}].objetosConhecimento[{indiceObjeto}].habilidades[{i}].descricao deve possuir valor.");
-
-            if (habilidade.Anos is null ||
-                habilidade.Anos.Count == 0)
-                resultado.Erros.Add(
-                    $"A habilidade '{habilidade.Codigo}' deve possuir pelo menos um ano.");
-        }
-    }
+    private static string Normalizar(string texto) =>
+        Regex.Replace(texto.Trim(), @"\s+", " ");
 }

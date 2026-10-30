@@ -1,0 +1,53 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - Anos Iniciais (1º a 5º ano)"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens - Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "campos de atuação",
+        "nome": "Campo da vida cotidiana"
+      },
+      "estrutura": [
+        {
+          "tipo": "habilidade",
+          "nome": "Compreender a língua como fenômeno cultural, histórico, social, variável, heterogêneo e sensível aos contextos de uso, reconhecendo-a como meio de construção de identidades de seus usuários e da comunidade a que pertencem.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Língua",
+              "habilidades": [
+                {
+                  "codigo": "L1",
+                  "descricao": "Compreender a língua como fenômeno cultural, histórico, social, variável, heterogêneo e sensível aos contextos de uso, reconhecendo-a como meio de construção de identidades de seus usuários e da comunidade a que pertencem.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 89
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

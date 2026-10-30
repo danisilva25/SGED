@@ -1,0 +1,50 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2010",
+    "file": "BNCC_2010.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - Anos Iniciais"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "anual",
+        "nome": "Ensino Fundamental - Anos Iniciais"
+      },
+      "estrutura": [
+        {
+          "tipo": "anual",
+          "nome": "Ensino Fundamental - Anos Iniciais",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "alfabetização",
+              "habilidades": [
+                {
+                  "codigo": "L1",
+                  "descricao": "Compreensão, o que se dá pela mobilização de operações cognitivas cada vez mais complexas e pela sensibilidade para apreender o mundo, expressar-se sobre ele e nele atuar.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 61
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

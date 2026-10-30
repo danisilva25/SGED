@@ -1,0 +1,75 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2020",
+    "file": "bncc_2020.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Educação Infantil"
+      },
+      "areaConhecimento": {
+        "nome": "Campos de experiências"
+      },
+      "componenteCurricular": {
+        "nome": "Competências gerais da Educação Básica"
+      },
+      "organizacao": {
+        "tipo": "direitos de aprendizagem e desenvolvimento",
+        "nome": "Direitos de aprendizagem e desenvolvimento"
+      },
+      "estrutura": [
+        {
+          "tipo": "campo de experiências",
+          "nome": "Explorar",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Explorar sons produzidos com o próprio corpo e com objetos do ambiente",
+              "habilidades": [
+                {
+                  "codigo": "EI01TS01",
+                  "descricao": "Explorar sons produzidos com o próprio corpo e com objetos do ambiente",
+                  "anos": [
+                    0,
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 28
+                  }
+                },
+                {
+                  "codigo": "EI02TS01",
+                  "descricao": "Criar sons com materiais, objetos e instrumentos musicais, para acompanhar diversos ritmos de música",
+                  "anos": [
+                    1,
+                    2,
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 28
+                  }
+                },
+                {
+                  "codigo": "EI03TS01",
+                  "descricao": "Utilizar sons produzidos por materiais, objetos e instrumentos musicais durante brincadeiras de faz de conta, encenações, criações musicais, festas",
+                  "anos": [
+                    2,
+                    3,
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 28
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

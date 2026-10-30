@@ -1,0 +1,92 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens – Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Eixo da Análise Linguística/Semiótica",
+        "nome": "Análise Linguística/Semiótica"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Consideração e reflexão sobre as condições de produção dos textos orais que regem a circulação de diferentes gêneros nas diferentes mídias e campos de atividade humana",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Refletir sobre diferentes contextos e situações sociais em que se produzem textos orais e sobre as diferenças entre os contextos",
+              "habilidades": [
+                {
+                  "codigo": "H01",
+                  "descricao": "Refletir sobre diferentes contextos e situações sociais em que se produzem textos orais e sobre as diferenças entre os contextos",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 84
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Refletir sobre as diferentes formas de produção de textos orais e sobre as relações entre os contextos",
+              "habilidades": [
+                {
+                  "codigo": "H02",
+                  "descricao": "Refletir sobre as diferentes formas de produção de textos orais e sobre as relações entre os contextos",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 84
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Refletir sobre as diferentes formas de produção de textos orais e sobre as relações entre os contextos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Refletir sobre as diferentes formas de produção de textos orais e sobre as relações entre os contextos",
+              "habilidades": [
+                {
+                  "codigo": "H03",
+                  "descricao": "Refletir sobre as diferentes formas de produção de textos orais e sobre as relações entre os contextos",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 84
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

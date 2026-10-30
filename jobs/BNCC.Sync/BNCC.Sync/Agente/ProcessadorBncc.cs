@@ -8,13 +8,13 @@ namespace BNCC.Sync.Agente;
 public sealed class ProcessadorBncc : IDisposable
 {
     private readonly PdfDocument _pdf;
-    private readonly AgenteBncc _agente;
+    private readonly IAgenteBncc _agente;
     private readonly string _pastaDados;
 
     public ProcessadorBncc(
         string caminhoPdf,
         string pastaDados,
-        AgenteBncc agente)
+        IAgenteBncc agente)
     {
         _pdf = PdfDocument.Open(caminhoPdf);
         _pastaDados = pastaDados;
@@ -58,6 +58,7 @@ public sealed class ProcessadorBncc : IDisposable
             conteudo.ToString(),
             cancellationToken);
 
+
         if (resultado is null)
             throw new InvalidOperationException(
                 $"O agente retornou resultado nulo no lote " +
@@ -82,6 +83,6 @@ public sealed class ProcessadorBncc : IDisposable
         return resultado;
     }
 
-    public void Dispose() 
+    public void Dispose()
         => _pdf.Dispose();
 }

@@ -1,0 +1,269 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "LÍNGUA PORTUGUESA – 1º AO 5º ANO (Continuação)",
+    "version": "2020",
+    "file": "PÁGINA 99-100"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Práticas de Linguagem",
+        "nome": "Leitura/escuta (compartilhada e autônoma)"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Construir o sentido de histórias em quadrinhos e tirinhas, relacionando imagens e palavras e interpretando recursos gráficos (tipos de balões, de letras, onomatopeias).",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Quadrinhos e tirinhas",
+              "habilidades": [
+                {
+                  "codigo": "EF15LP14",
+                  "descricao": "Construir o sentido de histórias em quadrinhos e tirinhas, relacionando imagens e palavras e interpretando recursos gráficos (tipos de balões, de letras, onomatopeias).",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 99
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Reconhecer que os textos literários fazem parte do mundo do imaginário e apresentam uma dimensão lúdica, de encantamento, valorizando-os, em sua diversidade cultural, como patrimônio artístico da humanidade.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Textos literários",
+              "habilidades": [
+                {
+                  "codigo": "EF15LP15",
+                  "descricao": "Reconhecer que os textos literários fazem parte do mundo do imaginário e apresentam uma dimensão lúdica, de encantamento, valorizando-os, em sua diversidade cultural, como patrimônio artístico da humanidade.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 99
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor e, mais tarde, de maneira autônoma, textos narrativos de maior porte como contos (populares, de fadas, acumulativos, de assombração etc.) e crônicas.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Textos narrativos de maior porte",
+              "habilidades": [
+                {
+                  "codigo": "EF15LP16",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor e, mais tarde, de maneira autônoma, textos narrativos de maior porte como contos (populares, de fadas, acumulativos, de assombração etc.) e crônicas.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 99
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Apreciar poemas visuais e concretos, observando efeitos de sentido criados pelo formato do texto na página, distribuição e diagramação das letras, pelas ilustrações e por outros efeitos visuais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Poemas visuais e concretos",
+              "habilidades": [
+                {
+                  "codigo": "EF15LP17",
+                  "descricao": "Apreciar poemas visuais e concretos, observando efeitos de sentido criados pelo formato do texto na página, distribuição e diagramação das letras, pelas ilustrações e por outros efeitos visuais.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 99
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Relacionar texto com ilustrações e outros recursos gráficos.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Relação texto-ilustração",
+              "habilidades": [
+                {
+                  "codigo": "EF15LP18",
+                  "descricao": "Relacionar texto com ilustrações e outros recursos gráficos.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 99
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Recontar oralmente, com e sem apoio de imagem, textos literários lidos pelo professor.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Contagem de histórias",
+              "habilidades": [
+                {
+                  "codigo": "EF15LP19",
+                  "descricao": "Recontar oralmente, com e sem apoio de imagem, textos literários lidos pelo professor.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 99
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Práticas de Linguagem",
+        "nome": "Escrita (compartilhada e autônoma)"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Reconhecer que textos são lidos e escritos da esquerda para a direita e de cima para baixo da página.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Protocolos de leitura",
+              "habilidades": [
+                {
+                  "codigo": "EF01LP01",
+                  "descricao": "Reconhecer que textos são lidos e escritos da esquerda para a direita e de cima para baixo da página.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 100
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Ler palavras novas com precisão na decodificação, no caso de palavras de uso frequente, ler globalmente, por memorização.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Decodificação/Fluência de leitura",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP01",
+                  "descricao": "Ler palavras novas com precisão na decodificação, no caso de palavras de uso frequente, ler globalmente, por memorização.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 100
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Buscar, selecionar e ler, com a mediação do professor (leitura compartilhada), textos que circulam em meios impressos ou digitais, de acordo com as necessidades e interesses.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Formação de leitor",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP02",
+                  "descricao": "Buscar, selecionar e ler, com a mediação do professor (leitura compartilhada), textos que circulam em meios impressos ou digitais, de acordo com as necessidades e interesses e interesses.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 100
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

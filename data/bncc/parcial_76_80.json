@@ -1,0 +1,75 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens - Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Eixo da Leitura",
+        "nome": "Estratégias e procedimentos de leitura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Selecionar procedimentos de leitura adequados a diferentes objetivos e interesses, levando em conta características do gênero e suporte do texto, de forma a poder proceder a uma leitura autônoma em relação a temas familiares",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Gênero textual",
+              "habilidades": [
+                {
+                  "codigo": "L1",
+                  "descricao": "Selecionar procedimentos de leitura adequados a diferentes objetivos e interesses, levando em conta características do gênero e suporte do texto, de forma a poder proceder a uma leitura autônoma em relação a temas familiares",
+                  "anos": [
+                    1,
+                    2,
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 79
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Selecionar procedimentos de leitura adequados a diferentes objetivos e interesses, levando em conta características do gênero e suporte do texto, de forma a poder proceder a uma leitura autônoma em relação a temas familiares",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Gênero textual",
+              "habilidades": [
+                {
+                  "codigo": "L2",
+                  "descricao": "Selecionar procedimentos de leitura adequados a diferentes objetivos e interesses, levando em conta características do gênero e suporte do texto, de forma a poder proceder a uma leitura autônoma em relação a temas familiares",
+                  "anos": [
+                    4,
+                    5,
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 79
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

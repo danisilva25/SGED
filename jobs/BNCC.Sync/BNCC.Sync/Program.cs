@@ -6,7 +6,7 @@ using Application.Validacao;
 using BNCC.Sync.Agente;
 using Domain.Mensagens;
 using DotNetEnv;
-using Infrastructure.Gemini;
+using Infrastructure.Ollama;
 using Infrastructure.Json.Models;
 using Infrastructure.Persistence;
 using Infrastructure.RabbitMq;
@@ -48,7 +48,7 @@ await BaixarPdfSeNecessarioAsync(
     caminhoPdf,
     cancellationToken);
 
-var agente = new AgenteBncc(new GeminiOptions());
+var agente = new AgenteBncc(new OllamaOptions());
 
 using var processador = new ProcessadorBncc(
     caminhoPdf,
@@ -125,18 +125,31 @@ async Task FinalizarAsync(CancellationToken ct)
     
     var catalogo = new CatalogoComponentesCurriculares();
     var validador = new ValidadorBncc(catalogo);
+
+    Console.WriteLine("Iniciando validação estrutural da BNCC...");
+
     var resultadoValidacao = validador.Validar(documento);
 
-    if (resultadoValidacao.Erros.Count > 0)
+    if (!resultadoValidacao.Valido)
     {
-        var erros = string.Join(
-            Environment.NewLine,
-            resultadoValidacao.Erros);
+        Console.Error.WriteLine(
+            $"A validação encontrou {resultadoValidacao.Ocorrencias.Count} ocorrência(s):");
+
+        foreach (var ocorrencia in resultadoValidacao.Ocorrencias)
+        {
+            Console.Error.WriteLine(
+                $"[{ocorrencia.Tipo}] " +
+                $"Código: {ocorrencia.Codigo ?? "N/A"} | " +
+                $"Localização: {ocorrencia.Localizacao} | " +
+                $"Detalhe: {ocorrencia.Mensagem}");
+        }
 
         throw new InvalidOperationException(
-            "O documento BNCC não passou na validação:" +
-            Environment.NewLine + erros);
+            "A BNCC não passou na validação estrutural. " +
+            "O processamento não será finalizado.");
     }
+
+    Console.WriteLine("Validação estrutural concluída com sucesso.");
 
     var mapeador = new MapeadorBncc(catalogo);
     var resultadoMapeamento = mapeador.Mapear(documento);

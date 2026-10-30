@@ -1,0 +1,51 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Médio"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens e suas Tecnologias"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "competencia",
+        "nome": "Competência específica 1"
+      },
+      "estrutura": [
+        {
+          "tipo": "habilidade",
+          "nome": "Habilidade 1",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Objeto de conhecimento 1",
+              "habilidades": [
+                {
+                  "codigo": "EM13LGG103",
+                  "descricao": "Habilidade 1",
+                  "anos": [
+                    10,
+                    11,
+                    12
+                  ],
+                  "fonte": {
+                    "pagina": 36
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

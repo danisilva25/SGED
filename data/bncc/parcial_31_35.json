@@ -1,0 +1,69 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2020",
+    "file": "BNCC-2020.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "unidades temáticas",
+        "nome": "Vida e evolução"
+      },
+      "estrutura": [
+        {
+          "tipo": "objeto de conhecimento",
+          "nome": "Corpo humano",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Respeito à diversidade",
+              "habilidades": [
+                {
+                  "codigo": "EF01CI02",
+                  "descricao": "Localizar, nomear e representar graficamente (por meio de desenhos) partes do corpo humano e explicar suas funções.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 31
+                  }
+                },
+                {
+                  "codigo": "EF01CI03",
+                  "descricao": "Discutir as razões pelas quais os hábitos de higiene do corpo (lavar as mãos antes de comer, escovar os dentes, limpar os olhos, o nariz e as orelhas etc.) são necessários para a manutenção da saúde.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 31
+                  }
+                },
+                {
+                  "codigo": "EF01CI04",
+                  "descricao": "Comparar características físicas entre os colegas, reconhecendo a diversidade e a importância da valorização, do acolhimento e do respeito às diferenças.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 31
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "source": {
+    "name": "BNCC - Base Nacional Comum Curricular",
+    "document": "Leitura no contexto da BNCC",
+    "version": "2017",
+    "file": "páginas_74-75.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens - Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Leitura"
+      },
+      "organizacao": {
+        "tipo": "estrutural",
+        "nome": "Reconstrução e reflexão sobre as condições de produção e recepção dos textos pertencentes a diferentes gêneros e que circulam nas diferentes mídias e esferas/campos de atividade humana"
+      },
+      "estrutura": [
+        {
+          "tipo": "análise",
+          "nome": "Analisar as diferentes formas de manifestação da compreensão ativa (réplica ativa) dos textos que circulam nas redes sociais, blogs/microblog, sites e afins e os gêneros que conformam essas práticas de linguagem",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "comentário",
+              "habilidades": [
+                {
+                  "codigo": "L1",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "carta de leitor",
+              "habilidades": [
+                {
+                  "codigo": "L2",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "post em rede social",
+              "habilidades": [
+                {
+                  "codigo": "L3",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "gif",
+              "habilidades": [
+                {
+                  "codigo": "L4",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "meme",
+              "habilidades": [
+                {
+                  "codigo": "L5",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "fanfic",
+              "habilidades": [
+                {
+                  "codigo": "L6",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "vlogs variados",
+              "habilidades": [
+                {
+                  "codigo": "L7",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "political remix",
+              "habilidades": [
+                {
+                  "codigo": "L8",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "charge digital",
+              "habilidades": [
+                {
+                  "codigo": "L9",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "paródias de diferentes tipos",
+              "habilidades": [
+                {
+                  "codigo": "L10",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "vídeos-minuto",
+              "habilidades": [
+                {
+                  "codigo": "L11",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "e-zine",
+              "habilidades": [
+                {
+                  "codigo": "L12",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "fanzine",
+              "habilidades": [
+                {
+                  "codigo": "L13",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "fanvídeo",
+              "habilidades": [
+                {
+                  "codigo": "L14",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "vidding",
+              "habilidades": [
+                {
+                  "codigo": "L15",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "political remix",
+              "habilidades": [
+                {
+                  "codigo": "L16",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "vídeos-minuto",
+              "habilidades": [
+                {
+                  "codigo": "L17",
+                  "descricao": "Identificar e analisar efeitos de sentido decorrentes de escolhas de volume, timbre, intensidade, pausas, ritmo, efeitos sonoros, sincronização etc. em artefatos sonoros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 75
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

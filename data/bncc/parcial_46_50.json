@@ -1,0 +1,225 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Educação Infantil"
+      },
+      "areaConhecimento": {
+        "nome": "O Eu, O Outro e o Nós"
+      },
+      "componenteCurricular": {
+        "nome": "Objetivos de Aprendizagem e Desenvolvimento"
+      },
+      "organizacao": {
+        "tipo": "faixa etária",
+        "nome": "Bebês (zero a 1 ano e 6 meses)"
+      },
+      "estrutura": [
+        {
+          "tipo": "habilidade",
+          "nome": "Perceber que suas ações têm efeitos nas outras crianças e nos adultos.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EI01EO01",
+              "habilidades": [
+                {
+                  "codigo": "EI01EO01",
+                  "descricao": "Perceber que suas ações têm efeitos nas outras crianças e nos adultos.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 46
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Demonstrar atitudes de cuidado e solidariedade na interação com crianças e adultos.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EI02EO01",
+              "habilidades": [
+                {
+                  "codigo": "EI02EO01",
+                  "descricao": "Demonstrar atitudes de cuidado e solidariedade na interação com crianças e adultos.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 46
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Demonstrar empatia pelos outros, percebendo que as pessoas têm diferentes sentimentos, necessidades e maneiras de pensar e agir.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EI03EO01",
+              "habilidades": [
+                {
+                  "codigo": "EI03EO01",
+                  "descricao": "Demonstrar empatia pelos outros, percebendo que as pessoas têm diferentes sentimentos, necessidades e maneiras de pensar e agir.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 46
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Perceber as possibilidades e os limites de seu corpo nas brincadeiras e interações das quais participa.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EI01EO02",
+              "habilidades": [
+                {
+                  "codigo": "EI01EO02",
+                  "descricao": "Perceber as possibilidades e os limites de seu corpo nas brincadeiras e interações das quais participa.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 46
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Demonstrar imagem positiva de si e confiança em sua capacidade para enfrentar dificuldades e desafios.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EI02EO02",
+              "habilidades": [
+                {
+                  "codigo": "EI02EO02",
+                  "descricao": "Demonstrar imagem positiva de si e confiança em sua capacidade para enfrentar dificuldades e desafios.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 46
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Agir de maneira independente, com confiança em suas capacidades, reconhecendo suas conquistas e limitações.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EI03EO02",
+              "habilidades": [
+                {
+                  "codigo": "EI03EO02",
+                  "descricao": "Agir de maneira independente, com confiança em suas capacidades, reconhecendo suas conquistas e limitações.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 46
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Interagir com crianças da mesma faixa etária e adultos ao explorar espaços, materiais, objetos, brinquedos.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EI01EO03",
+              "habilidades": [
+                {
+                  "codigo": "EI01EO03",
+                  "descricao": "Interagir com crianças da mesma faixa etária e adultos ao explorar espaços, materiais, objetos, brinquedos.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 46
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Compartilhar os objetos e os espaços com crianças da mesma faixa etária e adultos.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EI02EO03",
+              "habilidades": [
+                {
+                  "codigo": "EI02EO03",
+                  "descricao": "Compartilhar os objetos e os espaços com crianças da mesma faixa etária e adultos.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 46
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Reconhecer as qualidades do som (intensidade, duração, altura e timbre), utilizando-as em suas produções sonoras e ao ouvir músicas e sons.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EI03EO03",
+              "habilidades": [
+                {
+                  "codigo": "EI03EO03",
+                  "descricao": "Reconhecer as qualidades do som (intensidade, duração, altura e timbre), utilizando-as em suas produções sonoras e ao ouvir músicas e sons.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 46
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

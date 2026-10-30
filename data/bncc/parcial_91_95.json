@@ -1,0 +1,146 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens – Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Anos Iniciais",
+        "nome": "Anos Iniciais"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Práticas de Linguagem",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Dominar as convenções gráficas (letras maiúsculas e minúsculas, cursiva e script)",
+              "habilidades": [
+                {
+                  "codigo": "L1",
+                  "descricao": "Dominar as convenções gráficas (letras maiúsculas e minúsculas, cursiva e script)",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 94
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Conhecer o alfabeto",
+              "habilidades": [
+                {
+                  "codigo": "L2",
+                  "descricao": "Conhecer o alfabeto",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 94
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Compreender a natureza alfabética do nosso sistema de escrita",
+              "habilidades": [
+                {
+                  "codigo": "L3",
+                  "descricao": "Compreender a natureza alfabética do nosso sistema de escrita",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 94
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Dominar as relações entre grafemas e fonemas",
+              "habilidades": [
+                {
+                  "codigo": "L4",
+                  "descricao": "Dominar as relações entre grafemas e fonemas",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 94
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Saber decodificar palavras e textos escritos",
+              "habilidades": [
+                {
+                  "codigo": "L5",
+                  "descricao": "Saber decodificar palavras e textos escritos",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 94
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Saber ler, reconhecendo globalmente as palavras",
+              "habilidades": [
+                {
+                  "codigo": "L6",
+                  "descricao": "Saber ler, reconhecendo globalmente as palavras",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 94
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Ampliar a sacada do olhar para porções maiores de texto que meras palavras, desenvolvendo assim fluência e rapidez de leitura (fatiamento)",
+              "habilidades": [
+                {
+                  "codigo": "L7",
+                  "descricao": "Ampliar a sacada do olhar para porções maiores de texto que meras palavras, desenvolvendo assim fluência e rapidez de leitura (fatiamento)",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 94
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular (BNCC)",
+    "document": "Página 23-25 do documento da BNCC",
+    "version": "2010",
+    "file": "BNCC.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Educação Infantil (0-5 anos)"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagem e Comunicação"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Aprendizagens Essenciais",
+        "nome": "Aprendizagens Essenciais para a Educação Infantil"
+      },
+      "estrutura": [
+        {
+          "tipo": "Competência",
+          "nome": "Compreender e expressar ideias e sentimentos com clareza e precisão",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Expressão oral",
+              "habilidades": [
+                {
+                  "codigo": "L1",
+                  "descricao": "Utilizar a linguagem oral para expressar ideias e sentimentos com clareza e precisão",
+                  "anos": [
+                    0,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 24
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental (6-14 anos)"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências Humanas"
+      },
+      "componenteCurricular": {
+        "nome": "História"
+      },
+      "organizacao": {
+        "tipo": "Aprendizagens Essenciais",
+        "nome": "Aprendizagens Essenciais para o Ensino Fundamental"
+      },
+      "estrutura": [
+        {
+          "tipo": "Competência",
+          "nome": "Compreender a diversidade cultural e histórica do Brasil",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Diversidade cultural",
+              "habilidades": [
+                {
+                  "codigo": "H1",
+                  "descricao": "Identificar e analisar as diferentes culturas presentes no Brasil",
+                  "anos": [
+                    6,
+                    14
+                  ],
+                  "fonte": {
+                    "pagina": 24
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Médio (15-18 anos)"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências Sociais"
+      },
+      "componenteCurricular": {
+        "nome": "Geografia"
+      },
+      "organizacao": {
+        "tipo": "Aprendizagens Essenciais",
+        "nome": "Aprendizagens Essenciais para o Ensino Médio"
+      },
+      "estrutura": [
+        {
+          "tipo": "Competência",
+          "nome": "Compreender as relações entre geografia, economia e sociedade",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Relações geográficas",
+              "habilidades": [
+                {
+                  "codigo": "G1",
+                  "descricao": "Analisar como as características geográficas influenciam a economia e a sociedade",
+                  "anos": [
+                    15,
+                    18
+                  ],
+                  "fonte": {
+                    "pagina": 24
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2020",
+    "file": "BNCC_2020.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Educação Infantil"
+      },
+      "areaConhecimento": {
+        "nome": "Campos de Experiências"
+      },
+      "componenteCurricular": {
+        "nome": "Educação Infantil"
+      },
+      "organizacao": {
+        "tipo": "Educação Infantil",
+        "nome": "Educação Infantil"
+      },
+      "estrutura": [
+        {
+          "tipo": "Educação Infantil",
+          "nome": "Educação Infantil",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Direitos de aprendizagem e desenvolvimento na Educação Infantil",
+              "habilidades": [
+                {
+                  "codigo": "Educação Infantil: Direitos de aprendizagem e desenvolvimento",
+                  "descricao": "Direitos de aprendizagem e desenvolvimento na Educação Infantil",
+                  "anos": [],
+                  "fonte": {
+                    "pagina": 38
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Ensino Fundamental",
+        "nome": "Ensino Fundamental"
+      },
+      "estrutura": [
+        {
+          "tipo": "Ensino Fundamental",
+          "nome": "Ensino Fundamental",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Língua Portuguesa no Ensino Fundamental – Anos Iniciais",
+              "habilidades": [
+                {
+                  "codigo": "Língua Portuguesa: Ensino Fundamental – Anos Iniciais",
+                  "descricao": "Língua Portuguesa no Ensino Fundamental – Anos Iniciais: práticas de linguagem, objetos de conhecimento e habilidades",
+                  "anos": [
+                    1,
+                    2,
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 89
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Língua Portuguesa no Ensino Fundamental – Anos Finais",
+              "habilidades": [
+                {
+                  "codigo": "Língua Portuguesa: Ensino Fundamental – Anos Finais",
+                  "descricao": "Língua Portuguesa no Ensino Fundamental – Anos Finais: práticas de linguagem, objetos de conhecimento e habilidades",
+                  "anos": [
+                    4,
+                    5,
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 136
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

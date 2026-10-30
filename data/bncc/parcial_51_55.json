@@ -1,0 +1,111 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Educação Infantil"
+      },
+      "areaConhecimento": {
+        "nome": "Campo de Experiências \"Escuta, Fala, Pensamento e Imaginação\""
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "hierarquia",
+        "nome": "Educação Infantil"
+      },
+      "estrutura": [
+        {
+          "tipo": "habilidade",
+          "nome": "Reconhecer quando é chamado por seu nome e reconhecer os nomes de pessoas com quem convive",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Reconhecer quando é chamado por seu nome",
+              "habilidades": [
+                {
+                  "codigo": "EI01EF01",
+                  "descricao": "Reconhecer quando é chamado por seu nome e reconhecer os nomes de pessoas com quem convive",
+                  "anos": [
+                    0,
+                    1,
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 51
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Reconhecer os nomes de pessoas com quem convive",
+              "habilidades": [
+                {
+                  "codigo": "EI01EF01",
+                  "descricao": "Reconhecer quando é chamado por seu nome e reconhecer os nomes de pessoas com quem convive",
+                  "anos": [
+                    0,
+                    1,
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 51
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Dialogar com crianças e adultos, expressando seus desejos, necessidades, sentimentos e opiniões",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Dialogar com crianças",
+              "habilidades": [
+                {
+                  "codigo": "EI02EF01",
+                  "descricao": "Dialogar com crianças e adultos, expressando seus desejos, necessidades, sentimentos e opiniões",
+                  "anos": [
+                    1,
+                    7,
+                    3,
+                    11
+                  ],
+                  "fonte": {
+                    "pagina": 51
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Dialogar com adultos",
+              "habilidades": [
+                {
+                  "codigo": "EI02EF01",
+                  "descricao": "Dialogar com crianças e adultos, expressando seus desejos, necessidades, sentimentos e opiniões",
+                  "anos": [
+                    1,
+                    7,
+                    3,
+                    11
+                  ],
+                  "fonte": {
+                    "pagina": 51
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

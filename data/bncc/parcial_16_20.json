@@ -1,0 +1,82 @@
+{
+  "source": {
+    "name": "Lei Brasileira de Inclusão da Pessoa com Deficiência",
+    "document": "L13146",
+    "version": "2015",
+    "file": "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/Lei/L13146.htm"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Educação Escolar Indígena"
+      },
+      "areaConhecimento": {
+        "nome": "Educação Escolar Indígena"
+      },
+      "componenteCurricular": {
+        "nome": "Educação Escolar Indígena"
+      },
+      "organizacao": {
+        "tipo": "intercultural",
+        "nome": "interculturais, diferenciados e bilíngues"
+      },
+      "estrutura": [
+        {
+          "tipo": "currículo",
+          "nome": "currículos interculturais, diferenciados e bilíngues",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "conhecimentos indígenas",
+              "habilidades": [
+                {
+                  "codigo": "1",
+                  "descricao": "construir currículos interculturais, diferenciados e bilíngues",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                  ],
+                  "fonte": {
+                    "pagina": 19
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "conteúdos universais",
+              "habilidades": [
+                {
+                  "codigo": "2",
+                  "descricao": "ensino da língua indígena como primeira língua",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                  ],
+                  "fonte": {
+                    "pagina": 19
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

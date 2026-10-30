@@ -1,0 +1,109 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Educação Infantil"
+      },
+      "areaConhecimento": {
+        "nome": "Campos de Experiências"
+      },
+      "componenteCurricular": {
+        "nome": "Campos de Experiências"
+      },
+      "organizacao": {
+        "tipo": "Campos de Experiências",
+        "nome": "O eu, o outro e o nós"
+      },
+      "estrutura": [
+        {
+          "tipo": "Campos de Experiências",
+          "nome": "O eu, o outro e o nós",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "O eu, o outro e o nós",
+              "habilidades": [
+                {
+                  "codigo": "39",
+                  "descricao": "Intencionalidade consiste na organização e proposição, pelo educador, de experiências que permitam às crianças conhecer a si e ao outro e de conhecer e compreender as relações com a natureza, com a cultura e com a produção científica, que se traduzem nas práticas de cuidados pessoais (alimentar-se, vestir-se, higienizar-se), nas brincadeiras, nas experimentações com materiais variados, na aproximação com a literatura e no encontro com as pessoas.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 41
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Corpo, gestos e movimentos",
+              "habilidades": [
+                {
+                  "codigo": "40",
+                  "descricao": "Com o corpo (por meio dos sentidos, gestos, movimentos impulsivos ou intencionais, coordenados ou espontâneos), as crianças, desde cedo, exploram o mundo, o espaço e os objetos do seu entorno, estabelecem relações, expressam-se, brincam e produzem conhecimentos sobre si, sobre o outro, sobre o universo social e cultural, tornando-se, progressivamente, conscientes dessa corporeidade.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 42
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Traços, sons, cores e formas",
+              "habilidades": [
+                {
+                  "codigo": "41",
+                  "descricao": "Conviver com diferentes manifestações artísticas, culturais e científicas, locais e universais, no cotidiano da instituição escolar, possibilita às crianças, por meio de experiências diversificadas, vivenciar diversas formas de expressão e linguagens, como as artes visuais (pintura, modelagem, colagem, fotografia etc.), a música, o teatro, a dança e o audiovisual, entre outras.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 43
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Escuta, fala, pensamento e imaginação",
+              "habilidades": [
+                {
+                  "codigo": "42",
+                  "descricao": "Desde o nascimento, as crianças participam de situações comunicativas cotidianas com as pessoas com as quais interagem. As primeiras formas de interação do bebê são os movimentos do seu corpo, o olhar, a postura corporal, o sorriso, o choro e outros recursos vocais, que ganham sentido com a interpretação do outro.",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 44
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Espaços, tempos, quantidades, relações e transformações",
+              "habilidades": [
+                {
+                  "codigo": "43",
+                  "descricao": "As crianças vivem inseridas em espaços e tempos de diferentes dimensões, em um mundo constituído de fenômenos naturais e socioculturais. Desde muito pequenas, elas procuram se situar em diversos espaços (rua, bairro, cidade etc.) e tempos (dia e noite; hoje, ontem e amanhã etc.).",
+                  "anos": [
+                    0
+                  ],
+                  "fonte": {
+                    "pagina": 45
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
