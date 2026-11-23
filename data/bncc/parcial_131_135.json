@@ -1,0 +1,242 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "LÍNGUA PORTUGUESA – 3º AO 5º ANO (Continuação)",
+    "version": "2023",
+    "file": "PÁGINA 134-135"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "3º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "LÍNGUA PORTUGUESA"
+      },
+      "componenteCurricular": {
+        "nome": "PRÁTICAS DE LINGUAGEM"
+      },
+      "organizacao": {
+        "tipo": "CAMPO ARTÍSTICO-LITERÁRIO",
+        "nome": "Campo de atuação relativo à participação em situações de leitura, fruição e produção de textos literários e artísticos, representativos da diversidade cultural e linguística, que favoreçam experiências estéticas."
+      },
+      "estrutura": [
+        {
+          "tipo": "Leitura/escuta (compartilhada e autônoma)",
+          "nome": "Formação do leitor literário",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP21",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP21",
+                  "descricao": "Ler e compreender, de forma autônoma, textos literários de diferentes gêneros e extensões, inclusive aqueles sem ilustrações, estabelecendo preferências por gêneros, temas, autores.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 134
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF35LP22",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP22",
+                  "descricao": "Perceber diálogos em textos narrativos, observando o efeito de sentido de verbos de enunciação e, se for o caso, o uso de variedades linguísticas no discurso direto.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 134
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Apreciação estética/Estilo",
+          "nome": "Apreciação estética/Estilo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP23",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP23",
+                  "descricao": "Apreciar poemas e outros textos versificados, observando rimas, aliterações e diferentes modos de divisão dos versos, estrofes e refrões e seu efeito de sentido.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 134
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Textos dramáticos",
+          "nome": "Textos dramáticos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP24",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP24",
+                  "descricao": "Identificar funções do texto dramático (escrito para ser encenado) e sua organização por meio de diálogos entre personagens e marcadores das falas das personagens e de cena.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 134
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Produção de textos (escrita compartilhada e autônoma)",
+          "nome": "Escrita autônoma e compartilhada",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP25",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP25",
+                  "descricao": "Criar narrativas ficcionais, com certa autonomia, utilizando detalhes descritivos, sequências de eventos e imagens apropriadas para sustentar o sentido do texto, e marcadores de tempo, espaço e de fala de personagens.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 134
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF35LP26",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP26",
+                  "descricao": "Ler e compreender, com certa autonomia, narrativas ficcionais que apresentem cenários e personagens, observando os elementos da estrutura narrativa: enredo, tempo, espaço, personagens, narrador e a construção do discurso indireto e discurso direto.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 134
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Escrita autônoma",
+          "nome": "Escrita autônoma",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP27",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP27",
+                  "descricao": "Ler e compreender, com certa autonomia, textos em versos, explorando rimas, sons e jogos de palavras, imagens poéticas (sentidos figurados) e recursos visuais e sonoros.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 134
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Oralidade",
+          "nome": "Declamação",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP28",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP28",
+                  "descricao": "Declamar poemas, com entonação, postura e interpretação adequadas.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 134
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Performances orais",
+          "nome": "Performances orais",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF03LP27",
+              "habilidades": [
+                {
+                  "codigo": "EF03LP27",
+                  "descricao": "Recitar cordel e cantar repentes e emboladas, observando as rimas e obedecendo ao ritmo e à melodia.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 134
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF04LP25",
+              "habilidades": [
+                {
+                  "codigo": "EF04LP25",
+                  "descricao": "Representar cenas de textos dramáticos, reproduzindo as falas das personagens, de acordo com as rubricas de interpretação e movimento indicadas pelo autor.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 134
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

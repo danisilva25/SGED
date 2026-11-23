@@ -1,0 +1,529 @@
+{
+  "source": {
+    "name": "MATEMÁTICA",
+    "document": "ENSINO FUNDAMENTAL",
+    "version": "305",
+    "file": "303MATEMÁTICAENSINO FUNDAMENTALUNIDADES TEMÁTICAS OBJETOS DE CONHECIMENTO HABILIDADES"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "6º ano do Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Geometria"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "Unidade Temática",
+        "nome": "Geometria"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Plano cartesiano: associação dos vértices de um polígono a pares ordenados",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Plano cartesiano",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA16",
+                  "descricao": "Associar pares ordenados de números a pontos do plano cartesiano do 1º quadrante, em situações como a localização dos vértices de um polígono",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Prismas e pirâmides: planificações e relações entre seus elementos (vértices, faces e arestas)",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Prismas e pirâmides",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA17",
+                  "descricao": "Quantificar e estabelecer relações entre o número de vértices, faces e arestas de prismas e pirâmides, em função do seu polígono da base, para resolver problemas e desenvolver a percepção espacial",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Polígonos: classificações quanto ao número de vértices, às medidas de lados e ângulos e ao paralelismo e perpendicularismo dos lados",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Polígonos",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA18",
+                  "descricao": "Reconhecer, nomear e comparar polígonos, considerando lados, vértices e ângulos, e classificá-los em regulares e não regulares, tanto em suas representações no plano como em faces de poliedros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                },
+                {
+                  "codigo": "EF06MA19",
+                  "descricao": "Identificar características dos triângulos e classificá-los em relação às medidas dos lados e dos ângulos",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                },
+                {
+                  "codigo": "EF06MA20",
+                  "descricao": "Identificar características dos quadriláteros, classificá-los em relação a lados e a ângulos e reconhecer a inclusão e a intersecção de classes entre eles",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Construção de figuras semelhantes: ampliação e redução de figuras planas em malhas quadriculadas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Construção de figuras semelhantes",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA21",
+                  "descricao": "Construir figuras planas semelhantes em situações de ampliação e de redução, com o uso de malhas quadriculadas, plano cartesiano ou tecnologias digitais",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Construção de retas paralelas e perpendiculares, fazendo uso de réguas, esquadros e softwares",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Construção de retas paralelas e perpendiculares",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA22",
+                  "descricao": "Utilizar instrumentos, como réguas e esquadros, ou softwares para representações de retas paralelas e perpendiculares e construção de quadriláteros, entre outros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Construir algoritmo para resolver situações passo a passo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Algoritmos",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA23",
+                  "descricao": "Construir algoritmo para resolver situações passo a passo (como na construção de dobraduras ou na indicação de deslocamento de um objeto no plano segundo pontos de referência e distâncias fornecidas etc.)",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Problemas sobre medidas envolvendo grandezas como comprimento, massa, tempo, temperatura, área, capacidade e volume",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Grandezas e medidas",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA24",
+                  "descricao": "Resolver e elaborar problemas que envolvam as grandezas comprimento, massa, tempo, temperatura, área (triângulos e retângulos), capacidade e volume (sólidos formados por blocos retangulares), sem uso de fórmulas, inseridos, sempre que possível, em contextos oriundos de situações reais e/ou relacionadas às outras áreas do conhecimento",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Ângulos: noção, usos e medida",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Ângulos",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA25",
+                  "descricao": "Reconhecer a abertura do ângulo como grandeza associada às figuras geométricas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                },
+                {
+                  "codigo": "EF06MA26",
+                  "descricao": "Resolver problemas que envolvam a noção de ângulo em diferentes contextos e em situações reais, como ângulo de visão",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                },
+                {
+                  "codigo": "EF06MA27",
+                  "descricao": "Determinar medidas da abertura de ângulos, por meio de transferidor e/ou tecnologias digitais",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Plantas baixas e vistas aéreas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Plantas baixas e vistas aéreas",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA28",
+                  "descricao": "Interpretar plantas baixas e vistas aéreas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Perímetro e área",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Perímetro e área",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA29",
+                  "descricao": "Calcular perímetro e área de figuras planas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Perímetro e área",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Perímetro e área",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA30",
+                  "descricao": "Calcular perímetro e área de figuras planas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Perímetro e área",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Perímetro e área",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA31",
+                  "descricao": "Calcular perímetro e área de figuras planas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Perímetro e área",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Perímetro e área",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA32",
+                  "descricao": "Calcular perímetro e área de figuras planas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Perímetro e área",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Perímetro e área",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA33",
+                  "descricao": "Calcular perímetro e área de figuras planas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Perímetro e área",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Perímetro e área",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA34",
+                  "descricao": "Calcular perímetro e área de figuras planas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Perímetro e área",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Perímetro e área",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA35",
+                  "descricao": "Calcular perímetro e área de figuras planas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Perímetro e área",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Perímetro e área",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA36",
+                  "descricao": "Calcular perímetro e área de figuras planas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Perímetro e área",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Perímetro e área",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA37",
+                  "descricao": "Calcular perímetro e área de figuras planas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Perímetro e área",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Perímetro e área",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA38",
+                  "descricao": "Calcular perímetro e área de figuras planas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Perímetro e área",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Perímetro e área",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA39",
+                  "descricao": "Calcular perímetro e área de figuras planas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Perímetro e área",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Perímetro e área",
+              "habilidades": [
+                {
+                  "codigo": "EF06MA40",
+                  "descricao": "Calcular perímetro e área de figuras planas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 305
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

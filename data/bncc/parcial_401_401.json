@@ -1,0 +1,137 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências Humanas"
+      },
+      "componenteCurricular": {
+        "nome": "História"
+      },
+      "organizacao": {
+        "tipo": "Habilidades",
+        "nome": "Habilidades"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Diferentes formas de percepção e interação com um mesmo objeto podem favorecer uma melhor compreensão da história, das mudanças ocorridas no tempo, no espaço e, especialmente, nas relações sociais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "pilão",
+              "habilidades": [
+                {
+                  "codigo": "HIST01",
+                  "descricao": "Diferentes formas de percepção e interação com um mesmo objeto podem favorecer uma melhor compreensão da história, das mudanças ocorridas no tempo, no espaço e, especialmente, nas relações sociais.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 401
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "A comparação em história faz ver melhor o Outro.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "pinturas corporais",
+              "habilidades": [
+                {
+                  "codigo": "HIST02",
+                  "descricao": "A comparação em história faz ver melhor o Outro.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 401
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "A contextualização é uma tarefa imprescindível para o conhecimento histórico.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "eventos históricos",
+              "habilidades": [
+                {
+                  "codigo": "HIST03",
+                  "descricao": "A contextualização é uma tarefa imprescindível para o conhecimento histórico.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 401
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Distinguir contextos e localizar processos, sem deixar de lado o que é particular em uma dada circunstância, é uma habilidade necessária e enriquecedora.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "povos e sociedades",
+              "habilidades": [
+                {
+                  "codigo": "HIST04",
+                  "descricao": "Distinguir contextos e localizar processos, sem deixar de lado o que é particular em uma dada circunstância, é uma habilidade necessária e enriquecedora.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 401
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "O exercício da interpretação – de um texto, de um objeto, de uma obra literária, artística ou de um mito – é fundamental na formação do pensamento crítico.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "textos, objetos, obras literárias, artísticas ou mitos",
+              "habilidades": [
+                {
+                  "codigo": "HIST05",
+                  "descricao": "O exercício da interpretação – de um texto, de um objeto, de uma obra literária, artística ou de um mito – é fundamental na formação do pensamento crítico.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 401
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "Base Nacional Comum Curricular",
+    "version": "400",
+    "file": "402"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "História"
+      },
+      "componenteCurricular": {
+        "nome": "História"
+      },
+      "organizacao": {
+        "tipo": "Habilidades",
+        "nome": "Análise"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Análise",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Análise",
+              "habilidades": [
+                {
+                  "codigo": "H1",
+                  "descricao": "Análise",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 402
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

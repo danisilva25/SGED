@@ -1,0 +1,93 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências Humanas"
+      },
+      "componenteCurricular": {
+        "nome": "Geografia"
+      },
+      "organizacao": {
+        "tipo": "Anos Finais",
+        "nome": "Anos F: 5º, 6º, 7º e 8º"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Comparar diferentes concepções dos usos dos territórios",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Conceitos",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI01",
+                  "descricao": "Comparar diferentes concepções dos usos dos territórios, tendo como referência diferentes contextos sociais, geopolíticos e ambientais, por meio de conceitos como classe social, modo de vida, paisagem e elementos físicos naturais",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 385
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Analisar a constituição da nova (des)ordem mundial e a emergência da globalização/mundialização",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Conceitos",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI02",
+                  "descricao": "Analisar a constituição da nova (des)ordem mundial e a emergência da globalização/mundialização, assim como suas consequências",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 385
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Entender a dimensão sociocultural e geopolítica da Eurásia na formação e constituição do Estado Moderno",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Conceitos",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI03",
+                  "descricao": "Entender a dimensão sociocultural e geopolítica da Eurásia na formação e constituição do Estado Moderno e nas disputas territoriais",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 385
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

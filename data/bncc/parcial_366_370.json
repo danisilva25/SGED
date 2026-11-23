@@ -1,0 +1,49 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental – Anos Iniciais"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências Humanas – Geografia"
+      },
+      "componenteCurricular": {
+        "nome": "Geografia"
+      },
+      "organizacao": {
+        "tipo": "unidades temáticas",
+        "nome": "Unidades Temáticas"
+      },
+      "estrutura": [
+        {
+          "tipo": "unidade temática",
+          "nome": "Natureza, ambientes e qualidade de vida",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Percepção do meio físico natural e de seus recursos",
+              "habilidades": [
+                {
+                  "codigo": "4.4.1.1",
+                  "descricao": "Utilizar os conhecimentos geográficos para entender a interação sociedade/natureza e exercitar o interesse e o espírito de investigação e de resolução de problemas.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 366
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

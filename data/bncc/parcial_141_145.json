@@ -1,0 +1,55 @@
+{
+  "source": {
+    "name": "LÍNGUA PORTUGUESA – 6º AO 9º ANO (Continuação)",
+    "document": "PÁGINA 145",
+    "version": "2023",
+    "file": "EF69LP07-08-09-10-11.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental (6º ao 9º ano)"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas de Linguagem"
+      },
+      "organizacao": {
+        "tipo": "Campos de Conhecimento",
+        "nome": "Jornalístico-Midiático"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Relação do texto com o contexto de produção e experimentação de papéis sociais",
+          "contexto": {
+            "tipo": null,
+            "nome": "Contexto de produção e circulação – os enunciadores envolvidos, os objetivos, o gênero, o suporte, a circulação"
+          },
+          "objetosConhecimento": [
+            {
+              "nome": "Produzir e publicar notícias, fotodenúncias, fotorreportagens, reportagens, reportagens multimidiáticas, infográficos, podcasts noticiosos, entrevistas, cartas de leitor, comentários, artigos de opinião de interesse local ou global, textos de apresentação e apreciação de produção cultural – resenhas e outros próprios das formas de expressão das culturas juvenis, tais como vlogs e podcasts culturais, gameplay, detonado etc.– e cartazes, anúncios, propagandas, spots, jingles de campanhas sociais, dentre outros em várias mídias, vivenciando de forma significativa o papel de repórter, de comentador, de analista, de crítico, de editor ou articulista, de booktuber, de vlogger (vlogueiro) etc., como forma de compreender as condições de produção que envolvem a circulação desses textos e poder participar e vislumbrar possibilidades de participação nas práticas de linguagem do campo jornalístico e do campo midiático de forma ética e responsável, levando-se em consideração o contexto da Web 2.0, que amplia a possibilidade de circulação desses textos e \"funde\" os papéis de leitor e autor, de consumidor e produtor.",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP06",
+                  "descricao": "Produzir e publicar notícias, fotodenúncias, fotorreportagens, reportagens, reportagens multimidiáticas, infográficos, podcasts noticiosos, entrevistas, cartas de leitor, comentários, artigos de opinião de interesse local ou global, textos de apresentação e apreciação de produção cultural – resenhas e outros próprios das formas de expressão das culturas juvenis, tais como vlogs e podcasts culturais, gameplay, detonado etc.– e cartazes, anúncios, propagandas, spots, jingles de campanhas sociais, dentre outros em várias mídias, vivenciando de forma significativa o papel de repórter, de comentador, de analista, de crítico, de editor ou articulista, de booktuber, de vlogger (vlogueiro) etc., como forma de compreender as condições de produção que envolvem a circulação desses textos e poder participar e vislumbrar possibilidades de participação nas práticas de linguagem do campo jornalístico e do campo midiático de forma ética e responsável, levando-se em consideração o contexto da Web 2.0, que amplia a possibilidade de circulação desses textos e \"funde\" os papéis de leitor e autor, de consumidor e produtor.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 145
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

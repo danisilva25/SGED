@@ -1,0 +1,224 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc-mathematics.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - Anos Iniciais (EF01MA01 a EF01MA14)"
+      },
+      "areaConhecimento": {
+        "nome": "Matemática"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Números, Álgebra, Geometria"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Utilizar números naturais como indicador de quantidade ou de ordem em diferentes situações cotidianas e reconhecer situações em que os números não indicam contagem nem ordem, mas sim código de identificação",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Contagem de rotina",
+              "habilidades": [
+                {
+                  "codigo": "EF01MA01",
+                  "descricao": "Utilizar números naturais como indicador de quantidade ou de ordem em diferentes situações cotidianas e reconhecer situações em que os números não indicam contagem nem ordem, mas sim código de identificação",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 279
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Quantificação de elementos de uma coleção: estimativas, contagem um a um, pareamento ou outros agrupamentos e comparação",
+              "habilidades": [
+                {
+                  "codigo": "EF01MA02",
+                  "descricao": "Contar de maneira exata ou aproximada, utilizando diferentes estratégias como o pareamento e outros agrupamentos.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 280
+                  }
+                },
+                {
+                  "codigo": "EF01MA03",
+                  "descricao": "Estimar e comparar quantidades de objetos de dois conjuntos (em torno de 20 elementos), por estimativa e/ou por correspondência (um a um, dois a dois) para indicar \"tem mais\", \"tem menos\" ou \"tem a mesma quantidade\".",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 280
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Leitura, escrita e comparação de números naturais (até 100) Reta numérica",
+              "habilidades": [
+                {
+                  "codigo": "EF01MA04",
+                  "descricao": "Contar a quantidade de objetos de coleções até 100 unidades e apresentar o resultado por registros verbais e simbólicos, em situações de seu interesse, como jogos, brincadeiras, materiais da sala de aula, entre outros.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 280
+                  }
+                },
+                {
+                  "codigo": "EF01MA05",
+                  "descricao": "Comparar números naturais de até duas ordens em situações cotidianas, com e sem suporte da reta numérica.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 1
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Construção de fatos básicos da adição",
+              "habilidades": [
+                {
+                  "codigo": "EF01MA06",
+                  "descricao": "Construir fatos básicos da adição e utilizá-los em procedimentos de cálculo para resolver problemas.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 280
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Composição e decomposição de números naturais",
+              "habilidades": [
+                {
+                  "codigo": "EF01MA07",
+                  "descricao": "Compor e decompor número de até duas ordens, por meio de diferentes adições, com o suporte de material manipulável, contribuindo para a compreensão de características do sistema de numeração decimal e o desenvolvimento de estratégias de cálculo.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 280
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Problemas envolvendo diferentes significados da adição e da subtração (juntar, acrescentar, separar, retirar)",
+              "habilidades": [
+                {
+                  "codigo": "EF01MA08",
+                  "descricao": "Resolver e elaborar problemas de adição e de subtração, envolvendo números de até dois algarismos, com os significados de juntar, acrescentar, separar e retirar, com o suporte de imagens e/ou material manipulável, utilizando estratégias e formas de registro pessoais.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 280
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Padrões figurais e numéricos: investigação de regularidades ou padrões em sequências",
+              "habilidades": [
+                {
+                  "codigo": "EF01MA09",
+                  "descricao": "Organizar e ordenar objetos familiares ou representações por figuras, por meio de atributos, tais como cor, forma e medida.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 280
+                  }
+                },
+                {
+                  "codigo": "EF01MA10",
+                  "descricao": "Descrever, após o reconhecimento e a explicitação de um padrão (ou regularidade), os elementos ausentes em sequências recursivas de números naturais, objetos ou figuras.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 280
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Localização de objetos e de pessoas no espaço, utilizando diversos pontos de referência e vocabulário apropriado",
+              "habilidades": [
+                {
+                  "codigo": "EF01MA11",
+                  "descricao": "Descrever a localização de pessoas e de objetos no espaço em relação à sua própria posição, utilizando termos como à direita, à esquerda, em frente, atrás.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 280
+                  }
+                },
+                {
+                  "codigo": "EF01MA12",
+                  "descricao": "Descrever a localização de pessoas e de objetos no espaço segundo um dado ponto de referência, compreendendo que, para a utilização de termos que se referem à posição, como direita, esquerda, em cima, em baixo, é necessário explicitar-se o referencial.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 280
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Figuras geométricas espaciais: reconhecimento e relações com objetos familiares do mundo físico",
+              "habilidades": [
+                {
+                  "codigo": "EF01MA13",
+                  "descricao": "Relacionar figuras geométricas espaciais (cones, cilindros, esferas e blocos retangulares) a objetos familiares do mundo físico.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 280
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Figuras geométricas planas: reconhecimento do formato das faces de figuras geométricas espaciais",
+              "habilidades": [
+                {
+                  "codigo": "EF01MA14",
+                  "descricao": "Identificar e nomear figuras planas (círculo, quadrado, retângulo e triângulo) em desenhos apresentados em diferentes disposições ou em contornos de faces de sólidos geométricos.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 280
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas de Linguagem"
+      },
+      "organizacao": {
+        "tipo": "Objetos de Conhecimento",
+        "nome": "Análise linguística/semiótica"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Conhecimento das diversas grafias do alfabeto/Acentuação",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Acentuação",
+              "habilidades": [
+                {
+                  "codigo": "EF03LP04",
+                  "descricao": "Usar acento gráfico (agudo ou circunflexo) em monossílabos tônicos terminados em a, e, o e em palavras oxítonas terminadas em a, e, o, seguidas ou não de s.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 119
+                  }
+                },
+                {
+                  "codigo": "EF04LP04",
+                  "descricao": "Usar acento gráfico (agudo ou circunflexo) em paroxítonas terminadas em -i(s), -l, -r, -ão(s).",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 119
+                  }
+                },
+                {
+                  "codigo": "EF05LP03",
+                  "descricao": "Acentuar corretamente palavras oxítonas, paroxítonas e proparoxítonas.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 1
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Segmentação de palavras/Classificação de palavras por número de sílabas",
+              "habilidades": [
+                {
+                  "codigo": "EF03LP05",
+                  "descricao": "Identificar o número de sílabas de palavras, classificando-as em monossílabas, dissílabas, trissílabas e polissílabas.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 119
+                  }
+                },
+                {
+                  "codigo": "EF04LP05",
+                  "descricao": "Identificar a função na leitura e usar, adequadamente, na escrita ponto final, de interrogação, de exclamação, dois-pontos e travessão em diálogos (discurso direto), vírgula em enumerações e em separação de vocativo e de aposto.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 119
+                  }
+                },
+                {
+                  "codigo": "EF05LP04",
+                  "descricao": "Diferenciar, na leitura de textos, vírgula, ponto e vírgula, dois-pontos e reconhecer, na leitura de textos, o efeito de sentido que decorre do uso de reticências, aspas, parênteses.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 119
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Morfologia/Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF05LP05",
+                  "descricao": "Identificar a expressão de presente, passado e futuro em tempos verbais do modo indicativo.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 119
+                  }
+                },
+                {
+                  "codigo": "EF03LP08",
+                  "descricao": "Identificar e diferenciar, em textos, substantivos e verbos e suas funções na oração: agente, ação, objeto da ação.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 119
+                  }
+                },
+                {
+                  "codigo": "EF04LP06",
+                  "descricao": "Identificar em textos e usar na produção textual a concordância entre substantivo ou pronome pessoal e verbo (concordância verbal).",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 119
+                  }
+                },
+                {
+                  "codigo": "EF05LP06",
+                  "descricao": "Flexionar, adequadamente, na escrita e na oralidade, os verbos em concordância com pronomes pessoais/nomes sujeitos da oração.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 119
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Morfossintaxe",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Identificar, em textos, adjetivos e sua função de atribuição de propriedades aos substantivos",
+              "habilidades": [
+                {
+                  "codigo": "EF03LP09",
+                  "descricao": "Identificar, em textos, adjetivos e sua função de atribuição de propriedades aos substantivos.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 120
+                  }
+                },
+                {
+                  "codigo": "EF04LP07",
+                  "descricao": "Identificar em textos e usar na produção textual a concordância entre artigo, substantivo e adjetivo (concordância no grupo nominal).",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 120
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Identificar em textos e usar na produção textual pronomes pessoais, possessivos e demonstrativos, como recurso coesivo anafórico",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP14",
+                  "descricao": "Identificar em textos e usar na produção textual pronomes pessoais, possessivos e demonstrativos, como recurso coesivo anafórico.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 120
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Identificar, em textos, o uso de conjunções e a relação que estabelecem entre partes do texto: adição, oposição, tempo, causa, condição, finalidade",
+              "habilidades": [
+                {
+                  "codigo": "EF05LP07",
+                  "descricao": "Identificar, em textos, o uso de conjunções e a relação que estabelecem entre partes do texto: adição, oposição, tempo, causa, condição, finalidade.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 120
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Reconhecer prefixos e sufixos produtivos na formação de palavras derivadas de substantivos, de adjetivos e de verbos, utilizando-os para compreender palavras e para formar novas palavras",
+              "habilidades": [
+                {
+                  "codigo": "EF03LP10",
+                  "descricao": "Reconhecer prefixos e sufixos produtivos na formação de palavras derivadas de substantivos, de adjetivos e de verbos, utilizando-os para compreender palavras e para formar novas palavras.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 120
+                  }
+                },
+                {
+                  "codigo": "EF04LP08",
+                  "descricao": "Reconhecer e grafar, corretamente, palavras derivadas com os sufixos -agem, -oso, -eza, -izar/-isar (regulares morfológicas).",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 120
+                  }
+                },
+                {
+                  "codigo": "EF05LP08",
+                  "descricao": "Diferenciar palavras primitivas, derivadas e compostas, e derivadas por adição de prefixo e de sufixo.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 120
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Leitura/escuta (compartilhada e autônoma)",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Compreensão em leitura",
+              "habilidades": [
+                {
+                  "codigo": "EF03LP11",
+                  "descricao": "Ler e compreender, com autonomia, textos injuntivos instrucionais (receitas, instruções) e identificar a função de cada parte do texto.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 120
+                  }
+                },
+                {
+                  "codigo": "EF04LP09",
+                  "descricao": "Ler e compreender, com autonomia, textos informativos (notícias, relatos) e identificar a função de cada parte do texto.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 120
+                  }
+                },
+                {
+                  "codigo": "EF05LP10",
+                  "descricao": "Ler e compreender, com autonomia, textos narrativos (histórias, contos) e identificar a função de cada parte do texto.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 120
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

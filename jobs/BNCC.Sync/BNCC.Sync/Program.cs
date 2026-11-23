@@ -6,6 +6,7 @@ using Application.Validacao;
 using BNCC.Sync.Agente;
 using Domain.Mensagens;
 using DotNetEnv;
+using Infrastructure.Gemini;
 using Infrastructure.Ollama;
 using Infrastructure.Json.Models;
 using Infrastructure.Persistence;
@@ -15,7 +16,7 @@ using Newtonsoft.Json;
 
 Env.Load();
 
-const int paginasPorLote = 5;
+const int paginasPorLote = 1;
 
 const string urlPdf =
     "https://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf";
@@ -48,7 +49,15 @@ await BaixarPdfSeNecessarioAsync(
     caminhoPdf,
     cancellationToken);
 
-var agente = new AgenteBncc(new OllamaOptions());
+var agenteOllama = new AgenteBncc(
+    new OllamaOptions());
+
+var agenteGemini = new AgenteBnccGemini(
+    new GeminiOptions());
+
+var agente = new AgenteBnccComFallback(
+    agenteOllama,
+    agenteGemini);
 
 using var processador = new ProcessadorBncc(
     caminhoPdf,
@@ -328,11 +337,13 @@ static async Task RetomarControleAsync(
     {
         estado.Status = "Processando";
         estado.Erro = null;
-
-        await db.SaveChangesAsync(cancellationToken);
-
-        Console.WriteLine(
-            $"Retomando do intervalo pendente " +
-            $"{estado.PaginaInicial}-{estado.PaginaFinal}.");
     }
+
+    // Reduz o intervalo pendente para uma única página.
+    estado.PaginaFinal = estado.PaginaInicial;
+
+    await db.SaveChangesAsync(cancellationToken);
+
+    Console.WriteLine(
+        $"Retomando da página {estado.PaginaInicial}.");
 }

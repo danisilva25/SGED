@@ -1,0 +1,286 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "LÍNGUA INGLESA – 6º ANO (Continuação)",
+    "version": "2023",
+    "file": "PÁGINA 254"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental I (6º ano)"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Inglesa"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Inglesa"
+      },
+      "organizacao": {
+        "tipo": "EIXO ORALIDADE",
+        "nome": "Práticas de compreensão e produção oral de língua inglesa, em diferentes contextos discursivos presenciais ou simulados, com repertório de falas diversas, incluída a fala do professor"
+      },
+      "estrutura": [
+        {
+          "tipo": "Interação discursiva",
+          "nome": "Funções e usos da língua inglesa: convivência e colaboração em sala de aula",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07LI01",
+              "habilidades": [
+                {
+                  "codigo": "EF07LI01",
+                  "descricao": "Interagir em situações de intercâmbio oral para realizar as atividades em sala de aula, de forma respeitosa e colaborativa, trocando ideias e engajando-se em brincadeiras e jogos",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 254
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Práticas investigativas",
+          "nome": "Entrevistar os colegas para conhecer suas histórias de vida",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07LI02",
+              "habilidades": [
+                {
+                  "codigo": "EF07LI02",
+                  "descricao": "Entrevistar os colegas para conhecer suas histórias de vida",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 254
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Compreensão oral",
+          "nome": "Estratégias de compreensão de textos orais: conhecimentos prévios",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07LI03",
+              "habilidades": [
+                {
+                  "codigo": "EF07LI03",
+                  "descricao": "Mobilizar conhecimentos prévios para compreender texto oral",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 254
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Compreensão de textos orais de cunho descritivo ou narrativo",
+          "nome": "Identificar o contexto, a finalidade, o assunto e os interlocutores em textos orais presentes no cinema, na internet, na televisão, entre outros",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07LI04",
+              "habilidades": [
+                {
+                  "codigo": "EF07LI04",
+                  "descricao": "Identificar o contexto, a finalidade, o assunto e os interlocutores em textos orais presentes no cinema, na internet, na televisão, entre outros",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 254
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Produção oral",
+          "nome": "Produção de textos orais, com mediação do professor",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07LI05",
+              "habilidades": [
+                {
+                  "codigo": "EF07LI05",
+                  "descricao": "Compor, em língua inglesa, narrativas orais sobre fatos, acontecimentos e personalidades marcantes do passado",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 254
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental I (6º ano)"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Inglesa"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Inglesa"
+      },
+      "organizacao": {
+        "tipo": "EIXO LEITURA",
+        "nome": "Práticas de leitura de textos diversos em língua inglesa (verbais, verbo-visuais, multimodais) presentes em diferentes suportes e esferas de circulação"
+      },
+      "estrutura": [
+        {
+          "tipo": "Estratégias de leitura",
+          "nome": "Compreensão geral e específica: leitura rápida (skimming, scanning)",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07LI06",
+              "habilidades": [
+                {
+                  "codigo": "EF07LI06",
+                  "descricao": "Antecipar o sentido global de textos em língua inglesa por inferências, com base em leitura rápida, observando títulos, primeiras e últimas frases de parágrafos e palavras-chave repetidas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 254
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Estratégias de leitura",
+          "nome": "Identificar a(s) informação(ões)-chave de partes de um texto em língua inglesa (parágrafos)",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07LI07",
+              "habilidades": [
+                {
+                  "codigo": "EF07LI07",
+                  "descricao": "Identificar a(s) informação(ões)-chave de partes de um texto em língua inglesa (parágrafos)",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 254
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Estratégias de leitura",
+          "nome": "Construção do sentido global do texto",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07LI08",
+              "habilidades": [
+                {
+                  "codigo": "EF07LI08",
+                  "descricao": "Relacionar as partes de um texto (parágrafos) para construir seu sentido global",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 254
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Práticas de leitura e pesquisa",
+          "nome": "Objetivos de leitura",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07LI09",
+              "habilidades": [
+                {
+                  "codigo": "EF07LI09",
+                  "descricao": "Selecionar, em um texto, a informação desejada como objetivo de leitura",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 254
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Práticas de leitura e pesquisa",
+          "nome": "Leitura de textos digitais para estudo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07LI10",
+              "habilidades": [
+                {
+                  "codigo": "EF07LI10",
+                  "descricao": "Escolher, em ambientes virtuais, textos em língua inglesa, de fontes confiáveis, para estudos/pesquisas escolares",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 254
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Atitudes e disposições favoráveis do leitor",
+          "nome": "Partilha de leitura",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07LI11",
+              "habilidades": [
+                {
+                  "codigo": "EF07LI11",
+                  "descricao": "Partilha de leitura",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 254
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

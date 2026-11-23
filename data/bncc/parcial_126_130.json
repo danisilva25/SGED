@@ -1,0 +1,208 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental I (3º ao 5º ano do Ensino Fundamental)"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas de Estudo e Pesquisa"
+      },
+      "organizacao": {
+        "tipo": "Campo de Atuação",
+        "nome": "Campo das Práticas de Estudo e Pesquisa"
+      },
+      "estrutura": [
+        {
+          "tipo": "Leitura/escuta",
+          "nome": "Compreensão em leitura",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF03LP24",
+              "habilidades": [
+                {
+                  "codigo": "EF03LP24",
+                  "descricao": "Ler/ouvir e compreender, com autonomia, relatos de observações e de pesquisas em fontes de informações, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 130
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF04LP19",
+              "habilidades": [
+                {
+                  "codigo": "EF04LP19",
+                  "descricao": "Ler e compreender textos expositivos de divulgação científica para crianças, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 130
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF05LP22",
+              "habilidades": [
+                {
+                  "codigo": "EF05LP22",
+                  "descricao": "Ler e compreender verbetes de dicionário, identificando a estrutura, as informações gramaticais (significado de abreviaturas) e as informações semânticas.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 130
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF04LP20",
+              "habilidades": [
+                {
+                  "codigo": "EF04LP20",
+                  "descricao": "Reconhecer a função de gráficos, diagramas e tabelas em textos, como forma de apresentação de dados e informações.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 130
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF05LP23",
+              "habilidades": [
+                {
+                  "codigo": "EF05LP23",
+                  "descricao": "Comparar informações apresentadas em gráficos ou tabelas.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 130
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF35LP17",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP17",
+                  "descricao": "Buscar e selecionar, com o apoio do professor, informações de interesse sobre fenômenos sociais e naturais, em textos que circulam em meios impressos ou digitais.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 130
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Produção de textos",
+          "nome": "Produção de textos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF03LP25",
+              "habilidades": [
+                {
+                  "codigo": "EF03LP25",
+                  "descricao": "Planejar e produzir textos para apresentar resultados de observações e de pesquisas em fontes de informações, incluindo, quando pertinente, imagens, diagramas e gráficos ou tabelas simples, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 130
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF04LP21",
+              "habilidades": [
+                {
+                  "codigo": "EF04LP21",
+                  "descricao": "Planejar e produzir textos sobre temas de interesse, com base em resultados de observações e pesquisas em fontes de informações impressas ou eletrônicas, incluindo, quando pertinente, imagens e gráficos ou tabelas simples, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 130
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF05LP24",
+              "habilidades": [
+                {
+                  "codigo": "EF05LP24",
+                  "descricao": "Planejar e produzir texto sobre tema de interesse, organizando resultados de pesquisa em fontes de informação impressas ou digitais, incluindo imagens e gráficos ou tabelas, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 130
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF04LP22",
+              "habilidades": [
+                {
+                  "codigo": "EF04LP22",
+                  "descricao": "Planejar e produzir, com certa autonomia, verbetes de enciclopédia infantil, digitais ou impressos, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 130
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF05LP25",
+              "habilidades": [
+                {
+                  "codigo": "EF05LP25",
+                  "descricao": "Planejar e produzir, com certa autonomia, verbetes de dicionário, digitais ou impressos, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 130
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

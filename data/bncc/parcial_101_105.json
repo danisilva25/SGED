@@ -1,0 +1,438 @@
+{
+  "source": {
+    "name": "LÍNGUA PORTUGUESA – 1º E 2º ANOS (Continuação)",
+    "document": "PÁGINA 105",
+    "version": "1",
+    "file": "LÍNGUA PORTUGUESA – 1º E 2º ANOS (Continuação).pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "1º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "LÍNGUA PORTUGUESA"
+      },
+      "componenteCurricular": {
+        "nome": "PRÁTICAS DE LINGUAGEM"
+      },
+      "organizacao": {
+        "tipo": "CAMPO DA VIDA COTIDIANA",
+        "nome": "Campo de atuação relativo à participação em situações de leitura, próprias de atividades vivenciadas cotidianamente por crianças, adolescentes, jovens e adultos, no espaço doméstico e familiar, escolar, cultural e profissional."
+      },
+      "estrutura": [
+        {
+          "tipo": "Gêneros textuais",
+          "nome": "Agendas, listas, bilhetes, recados, avisos, convites, cartas, cardápios, diários, receitas, regras de jogos e brincadeiras",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Agendas",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Listas",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Bilhetes",
+              "habilidades": [
+                {
+                  "codigo": "EF02LP13",
+                  "descricao": "Planejar e produzir bilhetes e cartas, em meio impresso e/ou digital, dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Recados",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP06",
+                  "descricao": "Planejar e produzir, em colaboração com os colegas e com a ajuda do professor, recados, avisos, convites, receitas, instruções de montagem, dentre outros gêneros do campo da vida cotidiana, que possam ser repassados oralmente por meio de ferramentas digitais, em áudio ou vídeo, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Avisos",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Convites",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Cartas",
+              "habilidades": [
+                {
+                  "codigo": "EF02LP13",
+                  "descricao": "Planejar e produzir bilhetes e cartas, em meio impresso e/ou digital, dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Cardápios",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Diários",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Receitas",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Regras de jogos",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Brincadeiras",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "2º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "LÍNGUA PORTUGUESA"
+      },
+      "componenteCurricular": {
+        "nome": "PRÁTICAS DE LINGUAGEM"
+      },
+      "organizacao": {
+        "tipo": "CAMPO DA VIDA COTIDIANA",
+        "nome": "Campo de atuação relativo à participação em situações de leitura, próprias de atividades vivenciadas cotidianamente por crianças, adolescentes, jovens e adultos, no espaço doméstico e familiar, escolar, cultural e profissional."
+      },
+      "estrutura": [
+        {
+          "tipo": "Gêneros textuais",
+          "nome": "Agendas, listas, bilhetes, recados, avisos, convites, cartas, cardápios, diários, receitas, regras de jogos e brincadeiras",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Agendas",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Listas",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Bilhetes",
+              "habilidades": [
+                {
+                  "codigo": "EF02LP13",
+                  "descricao": "Planejar e produzir bilhetes e cartas, em meio impresso e/ou digital, dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Recados",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP06",
+                  "descricao": "Planejar e produzir, em colaboração com os colegas e com a ajuda do professor, recados, avisos, convites, receitas, instruções de montagem, dentre outros gêneros do campo da vida cotidiana, que possam ser repassados oralmente por meio de ferramentas digitais, em áudio ou vídeo, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Avisos",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Convites",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Cartas",
+              "habilidades": [
+                {
+                  "codigo": "EF02LP13",
+                  "descricao": "Planejar e produzir bilhetes e cartas, em meio impresso e/ou digital, dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Cardápios",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Diários",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Receitas",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Regras de jogos",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Brincadeiras",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP04",
+                  "descricao": "Ler e compreender, em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto e relacionando sua forma de organização à sua finalidade.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 105
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

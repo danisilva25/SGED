@@ -1,0 +1,202 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - Anos Iniciais"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências Humanas"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências Humanas"
+      },
+      "organizacao": {
+        "tipo": "hierarquia",
+        "nome": "Ensino Fundamental - Anos Iniciais"
+      },
+      "estrutura": [
+        {
+          "tipo": "competencia",
+          "nome": "Compreender a si e ao outro como identidades diferentes, de forma a exercitar o respeito à diferença em uma sociedade plural e promover os direitos humanos.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Direitos humanos",
+              "habilidades": [
+                {
+                  "codigo": "H01",
+                  "descricao": "Identificar e compreender os direitos humanos básicos e suas relações com a sociedade",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 356
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Respeito ao ambiente",
+              "habilidades": [
+                {
+                  "codigo": "H02",
+                  "descricao": "Identificar e compreender os aspectos ambientais e suas relações com a sociedade",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 356
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Coletividade",
+              "habilidades": [
+                {
+                  "codigo": "H03",
+                  "descricao": "Identificar e compreender as relações de coletividade e sua importância na sociedade",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 356
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Valores sociais",
+              "habilidades": [
+                {
+                  "codigo": "H04",
+                  "descricao": "Identificar e compreender os valores sociais e sua importância na sociedade",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 356
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - Anos Finais"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências Humanas"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências Humanas"
+      },
+      "organizacao": {
+        "tipo": "hierarquia",
+        "nome": "Ensino Fundamental - Anos Finais"
+      },
+      "estrutura": [
+        {
+          "tipo": "competencia",
+          "nome": "Analisar o mundo social, cultural e digital e o meio técnico-científico--informacional com base nos conhecimentos das Ciências Humanas, considerando suas variações de significado no tempo e no espaço, para intervir em situações do cotidiano e se posicionar diante de problemas do mundo contemporâneo.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Mundo social",
+              "habilidades": [
+                {
+                  "codigo": "H05",
+                  "descricao": "Analisar o mundo social com base nos conhecimentos das Ciências Humanas",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 357
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Mundo cultural",
+              "habilidades": [
+                {
+                  "codigo": "H06",
+                  "descricao": "Analisar o mundo cultural com base nos conhecimentos das Ciências Humanas",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 357
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Mundo digital",
+              "habilidades": [
+                {
+                  "codigo": "H07",
+                  "descricao": "Analisar o mundo digital com base nos conhecimentos das Ciências Humanas",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 357
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Meio técnico-científico-informacional",
+              "habilidades": [
+                {
+                  "codigo": "H08",
+                  "descricao": "Analisar o meio técnico-científico-informacional com base nos conhecimentos das Ciências Humanas",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 357
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

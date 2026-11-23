@@ -1,0 +1,152 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular (BNCC) - Língua Portuguesa",
+    "document": "Páginas 152-155",
+    "version": "2023",
+    "file": "BNCC_Lingua_Portuguesa_6_ao_9.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental (6º ao 9º ano)"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas de Linguagem"
+      },
+      "organizacao": {
+        "tipo": "Produção de textos",
+        "nome": "Consideração das condições de produção de textos de divulgação científica"
+      },
+      "estrutura": [
+        {
+          "tipo": "Estratégias de escrita",
+          "nome": "EF69LP35",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Planejar textos de divulgação científica",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP35",
+                  "descricao": "Planejar textos de divulgação científica, a partir da elaboração de esquema que considere as pesquisas feitas anteriormente, de notas e sínteses de leituras ou de registros de experimentos ou de estudo de campo, produzir, revisar e editar textos voltados para a divulgação do conhecimento e de dados e resultados de pesquisas, tais como artigo de divulgação científica, artigo de opinião, reportagem científica, verbete de enciclopédia, verbete de enciclopédia digital colaborativa, infográfico, relatório, relato de experimento científico, relato (multimidiático) de campo, tendo em vista seus contextos de produção, que podem envolver a disponibilização de informações e conhecimentos em circulação em um formato mais acessível para um público específico ou a divulgação de conhecimentos advindos de pesquisas bibliográficas, experimentos científicos e estudos de campo realizados.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 152
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Estratégias de escrita",
+          "nome": "EF69LP36",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Produzir, revisar e editar textos",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP36",
+                  "descricao": "Produzir, revisar e editar textos voltados para a divulgação do conhecimento e de dados e resultados de pesquisas, tais como artigos de divulgação científica, verbete de enciclopédia, infográfico, infográfico animado, podcast ou vlog científico, relato de experimento, relatório, relatório multimidiático de campo, dentre outros, considerando o contexto de produção e as regularidades dos gêneros em termos de suas construções composicionais e estilos.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 152
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Estratégias de produção",
+          "nome": "EF69LP37",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Produzir roteiros para elaboração de vídeos",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP37",
+                  "descricao": "Produzir roteiros para elaboração de vídeos de diferentes tipos (vlog científico, vídeo-minuto, programa de rádio, podcasts) para divulgação de conhecimentos científicos e resultados de pesquisa, tendo em vista seu contexto de produção, os elementos e a construção composicional dos roteiros.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 152
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Oralidade",
+          "nome": "EF69LP38",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Planejamento e produção de apresentações orais",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP38",
+                  "descricao": "Organizar os dados e informações pesquisados em painéis ou slides de apresentação, levando em conta o contexto de produção, o tempo disponível, as características do gênero apresentação oral, a multissemiose, as mídias e tecnologias que serão utilizadas, ensaiar a apresentação, considerando também elementos paralinguísticos e cinésicos e proceder à exposição oral de resultados de estudos e pesquisas, no tempo determinado, a partir do planejamento e da definição de diferentes formas de uso da fala – memorizada, com apoio da leitura ou fala espontânea.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 152
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Estratégias de produção",
+          "nome": "EF69LP39",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Realizar entrevistas",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP39",
+                  "descricao": "Definir o recorte temático da entrevista e o entrevistado, levantar informações sobre o entrevistado e sobre o tema da entrevista, elaborar roteiro de perguntas, realizar entrevista, a partir do roteiro, abrindo possibilidades para fazer perguntas a partir da resposta, se o contexto permitir, tomar nota, gravar ou salvar a entrevista e usar adequadamente as informações obtidas, de acordo com os objetivos estabelecidos.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 152
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

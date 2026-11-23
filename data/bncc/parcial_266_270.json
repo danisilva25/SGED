@@ -1,0 +1,137 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2020",
+    "file": "BNCC_MATEMATICA.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Matemática"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "Habilidades",
+        "nome": "Habilidades"
+      },
+      "estrutura": [
+        {
+          "tipo": "Competência",
+          "nome": "Competências Específicas de Matemática para o Ensino Fundamental",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Reconhecer que a Matemática é uma ciência humana, fruto das necessidades e preocupações de diferentes culturas, em diferentes momentos históricos, e é uma ciência viva, que contribui para solucionar problemas científicos e tecnológicos e para alicerçar descobertas e construções, inclusive com impactos no mundo do trabalho.",
+              "habilidades": [
+                {
+                  "codigo": "4.2.1",
+                  "descricao": "Reconhecer que a Matemática é uma ciência humana, fruto das necessidades e preocupações de diferentes culturas, em diferentes momentos históricos, e é uma ciência viva, que contribui para solucionar problemas científicos e tecnológicos e para alicerçar descobertas e construções, inclusive com impactos no mundo do trabalho.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 269
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Desenvolver o raciocínio lógico, o espírito de investigação e a capacidade de produzir argumentos convincentes, recorrendo aos conhecimentos matemáticos para compreender e atuar no mundo.",
+              "habilidades": [
+                {
+                  "codigo": "4.2.2",
+                  "descricao": "Desenvolver o raciocínio lógico, o espírito de investigação e a capacidade de produzir argumentos convincentes, recorrendo aos conhecimentos matemáticos para compreender e atuar no mundo.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 269
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Compreender as relações entre conceitos e procedimentos dos diferentes campos da Matemática (Aritmética, Álgebra, Geometria, Estatística e Probabilidade) e de outras áreas do conhecimento, sentindo segurança quanto à própria capacidade de construir e aplicar conhecimentos matemáticos, desenvolvendo a autoestima e a perseverança na busca de soluções.",
+              "habilidades": [
+                {
+                  "codigo": "4.2.3",
+                  "descricao": "Compreender as relações entre conceitos e procedimentos dos diferentes campos da Matemática (Aritmética, Álgebra, Geometria, Estatística e Probabilidade) e de outras áreas do conhecimento, sentindo segurança quanto à própria capacidade de construir e aplicar conhecimentos matemáticos, desenvolvendo a autoestima e a perseverança na busca de soluções.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 269
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Fazer observações sistemáticas de aspectos quantitativos e qualitativos presentes nas práticas sociais e culturais, de modo a investigar, organizar, representar e comunicar informações relevantes, para interpretá-las e avaliá-las crítica e eticamente, produzindo argumentos convincentes.",
+              "habilidades": [
+                {
+                  "codigo": "4.2.4",
+                  "descricao": "Fazer observações sistemáticas de aspectos quantitativos e qualitativos presentes nas práticas sociais e culturais, de modo a investigar, organizar, representar e comunicar informações relevantes, para interpretá-las e avaliá-las crítica e eticamente, produzindo argumentos convincentes.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 269
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Utilizar processos e ferramentas matemáticas, inclusive tecnologias digitais disponíveis, para modelar e resolver problemas cotidianos, sociais e de outras áreas de conhecimento, validando estratégias e resultados.",
+              "habilidades": [
+                {
+                  "codigo": "4.2.5",
+                  "descricao": "Utilizar processos e ferramentas matemáticas, inclusive tecnologias digitais disponíveis, para modelar e resolver problemas cotidianos, sociais e de outras áreas de conhecimento, validando estratégias e resultados.",
+                  "anos": [],
+                  "fonte": {
+                    "pagina": 269
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Desenvolver e/ou discutir projetos que abordem, sobretudo, questões de urgência social, com base em princípios éticos, democráticos, sustentáveis e solidários, valorizando a diversidade de opiniões de indivíduos e de grupos sociais, sem preconceitos de qualquer natureza.",
+              "habilidades": [
+                {
+                  "codigo": "4.2.6",
+                  "descricao": "Desenvolver e/ou discutir projetos que abordem, sobretudo, questões de urgência social, com base em princípios éticos, democráticos, sustentáveis e solidários, valorizando a diversidade de opiniões de indivíduos e de grupos sociais, sem preconceitos de qualquer natureza.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 269
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Interagir com seus pares de forma cooperativa, trabalhando coletivamente no planejamento e desenvolvimento de pesquisas para responder a questionamentos e na busca de soluções para problemas, de modo a identificar aspectos consensuais ou não na discussão de uma determinada questão, respeitando o modo de pensar dos colegas e aprendendo com eles.",
+              "habilidades": [
+                {
+                  "codigo": "4.2.7",
+                  "descricao": "Interagir com seus pares de forma cooperativa, trabalhando coletivamente no planejamento e desenvolvimento de pesquisas para responder a questionamentos e na busca de soluções para problemas, de modo a identificar aspectos consensuais ou não na discussão de uma determinada questão, respeitando o modo de pensar dos colegas e aprendendo com eles.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 269
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

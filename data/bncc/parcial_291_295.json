@@ -1,0 +1,262 @@
+{
+  "source": {
+    "name": "Brazilian Education System",
+    "document": "EF04MA18 - EF04MA28",
+    "version": "2023",
+    "file": "Página 295 do documento oficial do Ensino Fundamental"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Geometria"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Geometria"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Ângulos retos e não retos: uso de dobraduras, esquadros e softwares",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Reconhecer ângulos retos e não retos em figuras poligonais com o uso de dobraduras, esquadros ou softwares de geometria",
+              "habilidades": [
+                {
+                  "codigo": "EF04MA18",
+                  "descricao": "Reconhecer ângulos retos e não retos em figuras poligonais com o uso de dobraduras, esquadros ou softwares de geometria",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 295
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Simetria de reflexão",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Reconhecer simetria de reflexão em figuras e em pares de figuras geométricas planas e utilizá-la na construção de figuras congruentes, com o uso de malhas quadriculadas e de softwares de geometria",
+              "habilidades": [
+                {
+                  "codigo": "EF04MA19",
+                  "descricao": "Reconhecer simetria de reflexão em figuras e em pares de figuras geométricas planas e utilizá-la na construção de figuras congruentes, com o uso de malhas quadriculadas e de softwares de geometria",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 295
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Medidas de comprimento, massa e capacidade",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Medir e estimar comprimentos (incluindo perímetros), massas e capacidades, utilizando unidades de medida padronizadas mais usuais, valorizando e respeitando a cultura local",
+              "habilidades": [
+                {
+                  "codigo": "EF04MA20",
+                  "descricao": "Medir e estimar comprimentos (incluindo perímetros), massas e capacidades, utilizando unidades de medida padronizadas mais usuais, valorizando e respeitando a cultura local",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 295
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Áreas de figuras construídas em malhas quadriculadas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Medir, comparar e estimar área de figuras planas desenhadas em malha quadriculada, pela contagem dos quadradinhos ou de metades de quadradinho, reconhecendo que duas figuras com formatos diferentes podem ter a mesma medida de área",
+              "habilidades": [
+                {
+                  "codigo": "EF04MA21",
+                  "descricao": "Medir, comparar e estimar área de figuras planas desenhadas em malha quadriculada, pela contagem dos quadradinhos ou de metades de quadradinho, reconhecendo que duas figuras com formatos diferentes podem ter a mesma medida de área",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 295
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Medidas de tempo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Ler e registrar medidas e intervalos de tempo em horas, minutos e segundos em situações relacionadas ao seu cotidiano, como informar os horários de início e término de realização de uma tarefa e sua duração",
+              "habilidades": [
+                {
+                  "codigo": "EF04MA22",
+                  "descricao": "Ler e registrar medidas e intervalos de tempo em horas, minutos e segundos em situações relacionadas ao seu cotidiano, como informar os horários de início e término de realização de uma tarefa e sua duração",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 295
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Medidas de temperatura em grau Celsius",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Reconhecer temperatura como grandeza e o grau Celsius como unidade de medida a ela associada e utilizá-lo em comparações de temperaturas em diferentes regiões do Brasil ou no exterior ou, ainda, em discussões que envolvam problemas relacionados ao aquecimento global",
+              "habilidades": [
+                {
+                  "codigo": "EF04MA23",
+                  "descricao": "Reconhecer temperatura como grandeza e o grau Celsius como unidade de medida a ela associada e utilizá-lo em comparações de temperaturas em diferentes regiões do Brasil ou no exterior ou, ainda, em discussões que envolvam problemas relacionados ao aquecimento global",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 295
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Registrar as temperaturas máxima e mínima diárias, em locais do seu cotidiano, e elaborar gráficos de colunas com as variações diárias da temperatura, utilizando, inclusive, planilhas eletrônicas",
+              "habilidades": [
+                {
+                  "codigo": "EF04MA24",
+                  "descricao": "Registrar as temperaturas máxima e mínima diárias, em locais do seu cotidiano, e elaborar gráficos de colunas com as variações diárias da temperatura, utilizando, inclusive, planilhas eletrônicas",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 295
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Problemas utilizando o sistema monetário brasileiro",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Resolver e elaborar problemas que envolvam situações de compra e venda e formas de pagamento, utilizando termos como troco e desconto, enfatizando o consumo ético, consciente e responsável",
+              "habilidades": [
+                {
+                  "codigo": "EF04MA25",
+                  "descricao": "Resolver e elaborar problemas que envolvam situações de compra e venda e formas de pagamento, utilizando termos como troco e desconto, enfatizando o consumo ético, consciente e responsável",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 295
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Análise de chances de eventos aleatórios",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Identificar, entre eventos aleatórios cotidianos, aqueles que têm maior chance de ocorrência, reconhecendo características de resultados mais prováveis, sem utilizar frações",
+              "habilidades": [
+                {
+                  "codigo": "EF04MA26",
+                  "descricao": "Identificar, entre eventos aleatórios cotidianos, aqueles que têm maior chance de ocorrência, reconhecendo características de resultados mais prováveis, sem utilizar frações",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 295
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Leitura, interpretação e representação de dados",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Analisar dados apresentados em tabelas simples ou de dupla entrada e em gráficos de colunas ou pictóricos, com base em informações das diferentes áreas do conhecimento, e produzir texto com a síntese de sua análise",
+              "habilidades": [
+                {
+                  "codigo": "EF04MA27",
+                  "descricao": "Analisar dados apresentados em tabelas simples ou de dupla entrada e em gráficos de colunas ou pictóricos, com base em informações das diferentes áreas do conhecimento, e produzir texto com a síntese de sua análise",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 295
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Diferença entre dados e informações",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Diferença entre dados e informações",
+              "habilidades": [
+                {
+                  "codigo": "EF04MA28",
+                  "descricao": "Diferença entre dados e informações",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 295
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

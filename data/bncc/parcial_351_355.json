@@ -1,0 +1,115 @@
+{
+  "source": {
+    "name": "Brazilian National Common Curriculum Base (Base Nacional Comum Curricular - BNCC)",
+    "document": "EF09CI14 to EF09CI17",
+    "version": "2020",
+    "file": "353-355.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - 9º ano"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências da Natureza"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Terra e Universo"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Composição, estrutura e localização do Sistema Solar no Universo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF09CI14",
+              "habilidades": [
+                {
+                  "codigo": "EF09CI14",
+                  "descricao": "Descrever a composição e a estrutura do Sistema Solar (Sol, planetas rochosos, planetas gigantes gasosos e corpos menores), assim como a localização do Sistema Solar na nossa Galáxia (a Via Láctea) e dela no Universo (apenas uma galáxia dentre bilhões).",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 353
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Astronomia e cultura",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF09CI15",
+              "habilidades": [
+                {
+                  "codigo": "EF09CI15",
+                  "descricao": "Relacionar diferentes leituras do céu e explicações sobre a origem da Terra, do Sol ou do Sistema Solar às necessidades de distintas culturas (agricultura, caça, mito, orientação espacial e temporal etc.).",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 353
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Vida humana fora da Terra",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF09CI16",
+              "habilidades": [
+                {
+                  "codigo": "EF09CI16",
+                  "descricao": "Selecionar argumentos sobre a viabilidade da sobrevivência humana fora da Terra, com base nas condições necessárias à vida, nas características dos planetas e nas distâncias e nos tempos envolvidos em viagens interplanetárias e interestelares.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 353
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Evolução estelar",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF09CI17",
+              "habilidades": [
+                {
+                  "codigo": "EF09CI17",
+                  "descricao": "Analise o ciclo evolutivo do Sol (nascimento, vida e morte) baseado no conhecimento das etapas de evolução de estrelas de diferentes dimensões e os efeitos desse processo no nosso planeta.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 353
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

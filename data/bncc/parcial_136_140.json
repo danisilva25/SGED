@@ -1,0 +1,349 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC_LINGUAGENS_LINGUA_PORTUGUESA.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "3º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "Campo Artístico-Literário"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Práticas de Linguagem",
+        "nome": "Análise linguística/semiótica"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Formas de composição de narrativas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP29",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP29",
+                  "descricao": "Identificar, em narrativas, cenário, personagem central, conflito gerador, resolução e o ponto de vista com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 136
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Discurso direto e indireto",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP30",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP30",
+                  "descricao": "Diferenciar discurso indireto e discurso direto, determinando o efeito de sentido de verbos de enunciação e explicando o uso de variedades linguísticas no discurso direto, quando for o caso.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 136
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Formas de composição de narrativas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP29",
+              "habilidades": [
+                {
+                  "codigo": "EF3:5LP29",
+                  "descricao": "Identificar, em narrativas, cenário, personagem central, conflito gerador, resolução e o ponto de vista com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 136
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Formas de composição de narrativas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP29",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP29",
+                  "descricao": "Identificar, em narrativas, cenário, personagem central, conflito gerador, resolução e o ponto de vista com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 136
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "4º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "Campo Artístico-Literário"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Práticas de Linguagem",
+        "nome": "Análise linguística/semiótica"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Formas de composição de narrativas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP29",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP29",
+                  "descricao": "Identificar, em narrativas, cenário, personagem central, conflito gerador, resolução e o ponto de vista com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 136
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "5º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "Campo Artístico-Literário"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Práticas de Linguagem",
+        "nome": "Análise linguística/semiótica"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Formas de composição de narrativas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP29",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP29",
+                  "descricao": "Identificar, em narrativas, cenário, personagem central, conflito gerador, resolução e o ponto de vista com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 136
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "6º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "Campo Artístico-Literário"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Práticas de Linguagem",
+        "nome": "Análise linguística/semiótica"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Formas de composição de narrativas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP29",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP29",
+                  "descricao": "Identificar, em narrativas, cenário, personagem central, conflito gerador, resolução e o ponto de vista com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 136
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "7º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "Campo Artístico-Literário"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Práticas de Linguagem",
+        "nome": "Análise linguística/semiótica"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Formas de composição de narrativas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP29",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP29",
+                  "descricao": "Identificar, em narrativas, cenário, personagem central, conflito gerador, resolução e o ponto de vista com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 136
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "8º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "Campo Artístico-Literário"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Práticas de Linguagem",
+        "nome": "Análise linguística/semiótica"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Formas de composição de narrativas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP29",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP29",
+                  "descricao": "Identificar, em narrativas, cenário, personagem central, conflito gerador, resolução e o ponto de vista com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 136
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "9º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "Campo Artístico-Literário"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Práticas de Linguagem",
+        "nome": "Análise linguística/semiótica"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Formas de composição de narrativas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF35LP29",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP29",
+                  "descricao": "Identificar, em narrativas, cenário, personagem central, conflito gerador, resolução e o ponto de vista com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 136
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "source": {
+    "name": "BNCC",
+    "document": "Base Nacional Comum Curricular",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "CIÊNCIAS HUMANAS – HISTÓRIA"
+      },
+      "componenteCurricular": {
+        "nome": "HISTÓRIA"
+      },
+      "organizacao": {
+        "tipo": "HABILIDADES",
+        "nome": "HABILIDADES"
+      },
+      "estrutura": [
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Relações sociais, as várias linguagens por meio das quais o ser humano se apropria do mundo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "relações sociais",
+              "habilidades": [
+                {
+                  "codigo": "HIST-401",
+                  "descricao": "relações sociais, as várias linguagens por meio das quais o: o ser humano se apropria do mundo",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 403
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

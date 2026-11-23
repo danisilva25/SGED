@@ -1,0 +1,245 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "LÍNGUA PORTUGUESA – 6º E 7º ANOS",
+    "version": "2023",
+    "file": "pagina_164.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "6º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas de Linguagem"
+      },
+      "organizacao": {
+        "tipo": "Campo Jornalístico-Midiático",
+        "nome": "Leitura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Reconstrução do contexto de produção, circulação e recepção de textos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Caracterização do campo jornalístico e relação entre os gêneros em circulação, mídias e práticas da cultura digital",
+              "habilidades": [
+                {
+                  "codigo": "EF06LP01",
+                  "descricao": "Reconhecer a impossibilidade de uma neutralidade absoluta no relato de fatos e identificar diferentes graus de parcialidade/imparcialidade dados pelo recorte feito e pelos efeitos de sentido advindos de escolhas feitas pelo autor, de forma a poder desenvolver uma atitude crítica frente aos textos jornalísticos e tornar-se consciente das escolhas feitas enquanto produtor de textos.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 164
+                  }
+                },
+                {
+                  "codigo": "EF07LP01",
+                  "descricao": "Distinguir diferentes propostas editoriais – sensacionalismo, jornalismo investigativo etc. –, de forma a identificar os recursos utilizados para impactar/chocar o leitor que podem comprometer uma análise crítica da notícia e do fato noticiado.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 164
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Estabelecer relação entre os diferentes gêneros jornalísticos, compreendendo a centralidade da notícia",
+              "habilidades": [
+                {
+                  "codigo": "EF06LP02",
+                  "descricao": "Estabelecer relação entre os diferentes gêneros jornalísticos, compreendendo a centralidade da notícia.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 164
+                  }
+                },
+                {
+                  "codigo": "EF07LP02",
+                  "descricao": "Comparar notícias e reportagens sobre um mesmo fato divulgadas em diferentes mídias, analisando as especificidades das mídias, os processos de (re)elaboração dos textos e a convergência das mídias em notícias ou reportagens multissemióticas.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 164
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Analisar a estrutura e funcionamento dos hiperlinks em textos noticiosos publicados na Web e vislumbrar possibilidades de uma escrita hipertextual",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Análise da estrutura e funcionamento dos hiperlinks em textos noticiosos publicados na Web",
+              "habilidades": [
+                {
+                  "codigo": "EF67LP01",
+                  "descricao": "Analisar a estrutura e funcionamento dos hiperlinks em textos noticiosos publicados na Web e vislumbrar possibilidades de uma escrita hipertextual.",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 164
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar o espaço reservado ao leitor nos jornais, revistas, impressos e on-line, sites noticiosos etc.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Exploração do espaço reservado ao leitor",
+              "habilidades": [
+                {
+                  "codigo": "EF67LP02",
+                  "descricao": "Explorar o espaço reservado ao leitor nos jornais, revistas, impressos e on-line, sites noticiosos etc., destacando notícias, fotorreportagens, entrevistas, charges, assuntos, temas, debates em foco, posicionando-se de maneira ética e respeitosa frente a esses textos e opiniões a eles relacionadas, e publicar notícias, notas jornalísticas, fotorreportagem de interesse geral nesses espaços do leitor.",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 164
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Comparar informações sobre um mesmo fato divulgadas em diferentes veículos e mídias",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Comparação de informações em diferentes veículos e mídias",
+              "habilidades": [
+                {
+                  "codigo": "EF67LP03",
+                  "descricao": "Comparar informações sobre um mesmo fato divulgadas em diferentes veículos e mídias, analisando e avaliando a confiabilidade.",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 164
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Distinção de fato e opinião",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Distinção de fato e opinião",
+              "habilidades": [
+                {
+                  "codigo": "EF67LP04",
+                  "descricao": "Distinguir, em segmentos descontínuos de textos, fato da opinião enunciada em relação a esse mesmo fato.",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 164
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificação de teses e argumentos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Identificação de teses e argumentos",
+              "habilidades": [
+                {
+                  "codigo": "EF67LP05",
+                  "descricao": "Identificar e avaliar teses/opiniões/posicionamentos explícitos e argumentos em textos argumentativos (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), manifestando concordância ou discordância.",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 164
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificação de efeitos de sentido",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Identificação de efeitos de sentido",
+              "habilidades": [
+                {
+                  "codigo": "EF67LP06",
+                  "descricao": "Identificar os efeitos de sentido provocados pela seleção lexical, topicalização de elementos e seleção e hierarquização de informações, uso de 3ª pessoa etc.",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 164
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificação de recursos persuasivos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Identificação de recursos persuasivos",
+              "habilidades": [
+                {
+                  "codigo": "EF67LP07",
+                  "descricao": "Identificar o uso de recursos persuasivos em textos argumentativos diversos (como a elaboração do título, escolhas lexicais, construções metafóricas, a explicitação ou a ocultação de fontes de informação) e perceber seus efeitos de sentido.",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 164
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

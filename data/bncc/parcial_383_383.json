@@ -1,0 +1,49 @@
+{
+  "source": {
+    "name": "BNCC",
+    "document": "Base Nacional Comum Curricular",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - Anos Finais"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências Humanas - Geografia"
+      },
+      "componenteCurricular": {
+        "nome": "Geografia"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas, Objetos de Conhecimento e Habilidades",
+        "nome": "Unidades Temáticas, Objetos de Conhecimento e Habilidades"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "4.4.1.2",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Produção do espaço",
+              "habilidades": [
+                {
+                  "codigo": "4.4.1.2",
+                  "descricao": "Ampliar conhecimentos sobre o uso do espaço em diferentes situações geográficas regidas por normas e leis historicamente instituídas, compreendendo a transformação do espaço em território usado – espaço da ação concreta e das relações desiguais de poder, considerando também o espaço virtual proporcionado pela rede mundial de computadores e das geotecnologias.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 383
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

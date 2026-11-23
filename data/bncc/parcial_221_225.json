@@ -1,0 +1,49 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens"
+      },
+      "componenteCurricular": {
+        "nome": "Educação Física"
+      },
+      "organizacao": {
+        "tipo": "unidades temáticas",
+        "nome": "Brincadeiras e jogos, Danças e Lutas"
+      },
+      "estrutura": [
+        {
+          "tipo": "habilidade",
+          "nome": "Experimentação",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Experimentação",
+              "habilidades": [
+                {
+                  "codigo": "EF10",
+                  "descricao": "Experimentar práticas corporais para desenvolver a sensibilidade corporal e o controle do movimento",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 221
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

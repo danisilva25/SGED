@@ -1,0 +1,213 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental (6º e 7º anos)"
+      },
+      "areaConhecimento": {
+        "nome": "Educação Física"
+      },
+      "componenteCurricular": {
+        "nome": "Educação Física"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Lutas"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Lutas do Brasil",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Habilidade",
+              "habilidades": [
+                {
+                  "codigo": "EF67EF14",
+                  "descricao": "Experimentar, fruir e recriar diferentes lutas do Brasil, valorizando a própria segurança e integridade física, bem como as dos demais.",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 236
+                  }
+                },
+                {
+                  "codigo": "EF67EF15",
+                  "descricao": "Planejar e utilizar estratégias básicas das lutas do Brasil, respeitando o colega como oponente.",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 236
+                  }
+                },
+                {
+                  "codigo": "EF67EF16",
+                  "descricao": "Identificar as características (códigos, rituais, elementos técnico-táticos, indumentária, materiais, instalações, instituições) das lutas do Brasil.",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 236
+                  }
+                },
+                {
+                  "codigo": "EF67EF17",
+                  "descricao": "Problematizar preconceitos e estereótipos relacionados ao universo das lutas e demais práticas corporais e propor alternativas para sua superação.",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 236
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Práticas corporais de aventura",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Habilidade",
+              "habilidades": [
+                {
+                  "codigo": "EF67EF18",
+                  "descricao": "Experimentar e fruir diferentes práticas corporais de aventura, valorizando a própria segurança e integridade física, bem como as dos demais.",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 236
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental (8º e 9º anos)"
+      },
+      "areaConhecimento": {
+        "nome": "Educação Física"
+      },
+      "componenteCurricular": {
+        "nome": "Educação Física"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Lutas"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Lutas do mundo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Habilidade",
+              "habilidades": [
+                {
+                  "codigo": "EF89EF16",
+                  "descricao": "Experimentar e fruir a execução dos movimentos pertencentes às lutas do mundo, adotando procedimentos de segurança e respeitando o oponente.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 240
+                  }
+                },
+                {
+                  "codigo": "EF89EF17",
+                  "descricao": "Planejar e utilizar estratégias básicas das lutas experimentadas, reconhecendo as suas características técnico-táticas.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 240
+                  }
+                },
+                {
+                  "codigo": "EF89EF18",
+                  "descricao": "Discutir as transformações históricas, o processo de esportivização e a midiatização de uma ou mais lutas, valorizando e respeitando as culturas de origem.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 240
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Práticas corporais de aventura na natureza",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Habilidade",
+              "habilidades": [
+                {
+                  "codigo": "EF89EF19",
+                  "descricao": "Experimentar e fruir diferentes práticas corporais de aventura na natureza, valorizando a própria segurança e integridade física, bem como as dos demais, respeitando o patrimônio natural e minimizando os impactos de degradação ambiental.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 240
+                  }
+                },
+                {
+                  "codigo": "EF89EF20",
+                  "descricao": "Identificar riscos, formular estratégias e observar normas de segurança para superar os desafios na realização de práticas corporais de aventura na natureza.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 240
+                  }
+                },
+                {
+                  "codigo": "EF89EF21",
+                  "descricao": "Identificar as características (equipamentos de segurança, instrumentos, indumentária, organização) das práticas corporais de aventura na natureza, bem como suas transformações históricas.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 240
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

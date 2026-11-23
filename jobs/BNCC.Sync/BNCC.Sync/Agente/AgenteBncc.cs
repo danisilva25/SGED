@@ -1,4 +1,3 @@
-
 using System.Net.Http.Json;
 using System.Text.Json;
 using BNCC.Sync.Agente;
@@ -10,6 +9,11 @@ namespace BNCC.Sync.Agente;
 public sealed class AgenteBncc(OllamaOptions options) : IAgenteBncc
 {
     private const int MinCaracteresUteis = 300;
+
+    private static readonly HttpClient HttpClient = new()
+    {
+        Timeout = TimeSpan.FromMinutes(240)
+    };
 
     private static readonly JsonSerializerOptions JsonOptions = new()
     {
@@ -44,7 +48,9 @@ public sealed class AgenteBncc(OllamaOptions options) : IAgenteBncc
             format = SchemaBncc.Criar(),
             options = new
             {
-                temperature = 0
+                temperature = 0,
+                num_predict = 8192,
+                num_ctx = 16384
             },
             messages = new[]
             {
@@ -57,25 +63,25 @@ public sealed class AgenteBncc(OllamaOptions options) : IAgenteBncc
                 {
                     role = "user",
                     content = $"""
-                        Extraia os dados curriculares do conteúdo abaixo.
+                               Extraia os dados curriculares do conteúdo abaixo.
 
-                        Se não houver conteúdo curricular, retorne
-                        "curriculum" como lista vazia.
+                               Se não houver conteúdo curricular, retorne
+                               "curriculum" como lista vazia.
 
-                        Não invente informações e preserve os códigos,
-                        as descrições e a hierarquia presentes na fonte.
+                               Não invente informações e preserve os códigos,
+                               as descrições e a hierarquia presentes na fonte.
 
-                        CONTEÚDO DA FONTE:
+                               CONTEÚDO DA FONTE:
 
-                        {conteudoFonte}
-                        """
+                               {conteudoFonte}
+                               """
                 }
             }
         };
 
         var url = $"{options.BaseUrl.TrimEnd('/')}/api/chat";
 
-        using var response = await new HttpClient().PostAsJsonAsync(
+        using var response = await HttpClient.PostAsJsonAsync(
             url,
             request,
             JsonOptions,
@@ -115,8 +121,8 @@ public sealed class AgenteBncc(OllamaOptions options) : IAgenteBncc
             var json = conteudo.GetString()!;
 
             return JsonSerializer.Deserialize<Root>(json, JsonOptions)
-                ?? throw new InvalidOperationException(
-                    "O JSON do Ollama não pôde ser convertido em Root.");
+                   ?? throw new InvalidOperationException(
+                       "O JSON do Ollama não pôde ser convertido em Root.");
         }
         catch (JsonException ex)
         {

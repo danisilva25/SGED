@@ -1,0 +1,412 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC_Curriculo_Ciencias.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "2º ano do Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "Anual",
+        "nome": "2º ano"
+      },
+      "estrutura": [
+        {
+          "tipo": "Temática",
+          "nome": "Matéria e energia",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Propriedades e usos dos materiais",
+              "habilidades": [
+                {
+                  "codigo": "EF02CI01",
+                  "descricao": "Identificar de que materiais (metais, madeira, vidro etc.) são feitos os objetos que fazem parte da vida cotidiana, como esses objetos são utilizados e com quais materiais eram produzidos no passado.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 336
+                  }
+                },
+                {
+                  "codigo": "EF02CI02",
+                  "descricao": "Propor o uso de diferentes materiais para a construção de objetos de uso cotidiano, tendo em vista algumas propriedades desses materiais (flexibilidade, dureza, transparência etc.).",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 336
+                  }
+                },
+                {
+                  "codigo": "EF02CI03",
+                  "descricao": "Discutir os cuidados necessários à prevenção de acidentes domésticos (objetos cortantes e inflamáveis, eletricidade, produtos de limpeza, medicamentos etc.).",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 336
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Prevenção de acidentes domésticos",
+              "habilidades": [
+                {
+                  "codigo": "EF02CI01",
+                  "descricao": "Identificar de que materiais (metais, madeira, vidro etc.) são feitos os objetos que fazem parte da vida cotidiana, como esses objetos são utilizados e com quais materiais eram produzidos no passado.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 337
+                  }
+                },
+                {
+                  "codigo": "EF02CI02",
+                  "descricao": "Propor o uso de diferentes materiais para a construção de objetos de uso cotidiano, tendo em vista algumas propriedades desses materiais (flexibilidade, dureza, transparência etc.).",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 337
+                  }
+                },
+                {
+                  "codigo": "EF02CI03",
+                  "descricao": "Discutir os cuidados necessários à prevenção de acidentes domésticos (objetos cortantes e inflamáveis, eletricidade, produtos de limpeza, medicamentos etc.).",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 337
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Temática",
+          "nome": "Vida e evolução",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Cadeias alimentares simples",
+              "habilidades": [
+                {
+                  "codigo": "EF02CI04",
+                  "descricao": "Analisar e construir cadeias alimentares simples, reconhecendo a posição ocupada pelos seres vivos nessas cadeias e o papel do Sol como fonte primária de energia na produção de alimentos.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 336
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "3º ano do Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "Anual",
+        "nome": "3º ano"
+      },
+      "estrutura": [
+        {
+          "tipo": "Temática",
+          "nome": "Matéria e energia",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Produção de som",
+              "habilidades": [
+                {
+                  "codigo": "EF03CI01",
+                  "descricao": "Produzir diferentes sons a partir da vibração de variados objetos e identificar variáveis que influem nesse fenômeno.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 338
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Efeitos da luz nos materiais",
+              "habilidades": [
+                {
+                  "codigo": "EF03CI02",
+                  "descricao": "Experimentar e relatar o que ocorre com a passagem da luz através de objetos transparentes (copos, janelas de vidro, lentes, prismas, água etc.), no contato com superfícies polidas (espelhos) e na intersecção com objetos opacos (paredes, pratos, pessoas e outros objetos de uso cotidiano).",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 338
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Saúde auditiva e visual",
+              "habilidades": [
+                {
+                  "codigo": "EF03CI03",
+                  "descricao": "Discutir hábitos necessários para a manutenção da saúde auditiva e visual considerando as condições ambientais em termos de som e luz.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 338
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Temática",
+          "nome": "Vida e evolução",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Características e desenvolvimento dos animais",
+              "habilidades": [
+                {
+                  "codigo": "EF03CI04",
+                  "descricao": "Identificar características sobre o modo de vida (o que comem, como se reproduzem, como se deslocam etc.) dos animais mais comuns no ambiente próximo.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 338
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Temática",
+          "nome": "Terra e universo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Características da Terra",
+              "habilidades": [
+                {
+                  "codigo": "EF03CI05",
+                  "descricao": "Descrever e comunicar as alterações que ocorrem desde o nascimento em animais de diferentes meios terrestres ou aquáticos, incluindo o homem.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 338
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Observação do céu",
+              "habilidades": [
+                {
+                  "codigo": "EF03CI06",
+                  "descricao": "Comparar diferentes amostras de solo do entorno da escola com base em características como cor, textura, cheiro, tamanho das partículas e permeabilidade.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 338
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Usos do solo",
+              "habilidades": [
+                {
+                  "codigo": "EF03CI07",
+                  "descricao": "Identificar os diferentes usos do solo (plantação e extração de materiais, dentre outras possibilidades), reconhecendo a importância do solo para a agricultura e para a vida.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 338
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "4º ano do Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "Anual",
+        "nome": "4º ano"
+      },
+      "estrutura": [
+        {
+          "tipo": "Temática",
+          "nome": "Matéria e energia",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Misturas",
+              "habilidades": [
+                {
+                  "codigo": "EF04CI01",
+                  "descricao": "Identificar misturas na vida diária, com base em suas propriedades físicas observáveis, reconhecendo sua composição.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 339
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Transformações reversíveis e não reversíveis",
+              "habilidades": [
+                {
+                  "codigo": "EF04CI02",
+                  "descricao": "Testar e relatar transformações nos materiais do dia a dia quando expostos a diferentes condições (aquecimento, resfriamento, luz e umidade).",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 339
+                  }
+                },
+                {
+                  "codigo": "EF04CI03",
+                  "descricao": "Concluir que algumas mudanças causadas por aquecimento ou resfriamento são reversíveis (como as mudanças de estado físico da água) e outras não (como o cozimento do ovo, a queima do papel etc.).",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 339
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Temática",
+          "nome": "Vida e evolução",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Cadeias alimentares simples",
+              "habilidades": [
+                {
+                  "codigo": "EF04CI04",
+                  "descricao": "Analisar e construir cadeias alimentares simples, reconhecendo a posição ocupada pelos seres vivos nessas cadeias e o papel do Sol como fonte primária de energia na produção de alimentos.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 339
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Microrganismos",
+              "habilidades": [
+                {
+                  "codigo": "EF04CI05",
+                  "descricao": "Descrever e destacar semelhanças e diferenças entre o ciclo da matéria e o fluxo de energia entre os componentes vivos e não vivos de um ecossistema.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 339
+                  }
+                },
+                {
+                  "codigo": "EF04CI06",
+                  "descricao": "Relacionar a participação de fungos e bactérias no processo de decomposição, reconhecendo a importância ambiental desse processo.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 339
+                  }
+                },
+                {
+                  "codigo": "EF04CI07",
+                  "descricao": "Verificar a participação de microrganismos na produção de alimentos, combustíveis, medicamentos, entre outros.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 339
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Temática",
+          "nome": "Terra e universo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Cadeias alimentares simples",
+              "habilidades": [
+                {
+                  "codigo": "EF04CI08",
+                  "descricao": "Analisar e construir cadeias alimentares simples, reconhecendo a posição ocupada pelos seres vivos nessas cadeias e o papel do Sol como fonte primária de energia na produção de alimentos.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 339
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

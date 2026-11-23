@@ -1,0 +1,53 @@
+{
+  "source": {
+    "name": "BNCC",
+    "document": "Base Nacional Comum Curricular",
+    "version": "2023",
+    "file": "bncc_arte.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens e Códigos"
+      },
+      "componenteCurricular": {
+        "nome": "Arte"
+      },
+      "organizacao": {
+        "tipo": "unidade temática",
+        "nome": "Artes visuais"
+      },
+      "estrutura": [
+        {
+          "tipo": "habilidade",
+          "nome": "Explorar, conhecer, fruir e analisar criticamente práticas e produções artísticas e culturais do seu entorno social, dos povos indígenas, das comunidades tradicionais brasileiras e de diversas sociedades, em distintos tempos e espaços, para reconhecer a arte como um fenômeno cultural, histórico, social e sensível a diferentes contextos e dialogar com as diversidades.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Artes visuais",
+              "habilidades": [
+                {
+                  "codigo": "1",
+                  "descricao": "Explorar, conhecer, fruir e analisar criticamente práticas e produções artísticas e culturais do seu entorno social, dos povos indígenas, das comunidades tradicionais brasileiras e de diversas sociedades, em distintos tempos e espaços, para reconhecer a arte como um fenômeno cultural, histórico, social e sensível a diferentes contextos e dialogar com as diversidades.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 199
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

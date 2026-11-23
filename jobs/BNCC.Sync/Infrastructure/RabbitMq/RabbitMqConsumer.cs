@@ -1,4 +1,3 @@
-
 using System.Text;
 using System.Text.Json;
 using Domain.Mensagens;
@@ -38,13 +37,13 @@ public sealed class RabbitMqConsumer(
                 var json = Encoding.UTF8.GetString(evento.Body.Span);
 
                 var mensagem = JsonSerializer.Deserialize<ExtrairLoteBncc>(json)
-                    ?? throw new InvalidOperationException(
-                        "Mensagem RabbitMQ inválida.");
+                               ?? throw new InvalidOperationException(
+                                   "Mensagem RabbitMQ inválida.");
 
                 var estado = await controle.ObterAsync(cancellationToken)
-                    ?? throw new InvalidOperationException(
-                        "Controle de processamento não encontrado.");
-                
+                             ?? throw new InvalidOperationException(
+                                 "Controle de processamento não encontrado.");
+
                 if (mensagem.PaginaInicial < estado.PaginaInicial)
                 {
                     Console.WriteLine(
@@ -72,18 +71,39 @@ public sealed class RabbitMqConsumer(
                     return;
                 }
 
+
                 if (mensagem.PaginaInicial != estado.PaginaInicial ||
                     mensagem.PaginaFinal != estado.PaginaFinal)
-                    throw new InvalidOperationException(
-                        $"Lote recebido {mensagem.PaginaInicial}-" +
-                        $"{mensagem.PaginaFinal} não corresponde ao intervalo " +
-                        $"pendente {estado.PaginaInicial}-{estado.PaginaFinal}.");
+                {
+                    Console.WriteLine(
+                        $"Mensagem antiga ou divergente: " +
+                        $"{mensagem.PaginaInicial}-{mensagem.PaginaFinal}. " +
+                        $"O PostgreSQL espera " +
+                        $"{estado.PaginaInicial}-{estado.PaginaFinal}.");
+
+                    await publicador.PublicarAsync(
+                        new ExtrairLoteBncc(
+                            estado.PaginaInicial,
+                            estado.PaginaFinal),
+                        cancellationToken);
+
+                    await channel.BasicAckAsync(
+                        evento.DeliveryTag,
+                        multiple: false,
+                        cancellationToken);
+
+                    Console.WriteLine(
+                        $"Intervalo correto {estado.PaginaInicial}-" +
+                        $"{estado.PaginaFinal} republicado.");
+
+                    return;
+                }
 
                 await processarLote(
                     mensagem.PaginaInicial,
                     mensagem.PaginaFinal,
                     cancellationToken);
-                
+
                 var estadoAtualizado =
                     await controle.ObterAsync(cancellationToken)
                     ?? throw new InvalidOperationException(

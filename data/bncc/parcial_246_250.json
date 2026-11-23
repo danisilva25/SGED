@@ -1,0 +1,243 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Inglesa"
+      },
+      "organizacao": {
+        "tipo": "Eixos",
+        "nome": "Eixos"
+      },
+      "estrutura": [
+        {
+          "tipo": "Eixo",
+          "nome": "Conhecimentos linguísticos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Estudo do léxico e da gramática",
+              "habilidades": [
+                {
+                  "codigo": "EF06LI01",
+                  "descricao": "Interagir em situações de intercâmbio oral, demonstrando iniciativa para utilizar a língua inglesa.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI02",
+                  "descricao": "Coletar informações do grupo, perguntando e respondendo sobre a família, os amigos, a escola e a comunidade.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI03",
+                  "descricao": "Solicitar esclarecimentos em líng. inglesa sobre o que não entendeu e o significado de palavras ou expressões desconhecidas.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI04",
+                  "descricao": "Reconhecer, com o apoio de palavras cognatas e pistas do contexto discursivo, o assunto e as informações principais em textos orais sobre temas familiares.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI05",
+                  "descricao": "Aplicar os conhecimentos da língua inglesa para falar de si e de outras pessoas, explicitando informações pessoais e características relacionadas a gostos, preferências e rotinas.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI06",
+                  "descricao": "Planejar apresentação sobre a família, a comunidade e a escola, compartilhando-a oralmente com o grupo.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Eixo",
+          "nome": "Oralidade",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Práticas de compreensão e produção oral de língua inglesa, em diferentes contextos discursivos presenciais ou simulados, com repertório de falas diversas, incluída a fala do professor.",
+              "habilidades": [
+                {
+                  "codigo": "EF06LI01",
+                  "descricao": "Interagir em situações de intercâmbio oral, demonstrando iniciativa para utilizar a língua inglesa.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI02",
+                  "descricao": "Coletar informações do grupo, perguntando e respondendo sobre a família, os amigos, a escola e a comunidade.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI03",
+                  "descricao": "Solicitar esclarecimentos em língua inglesa sobre o que não entendeu e o significado de palavras ou expressões desconhecidas.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI04",
+                  "descricao": "Reconhecer, com o apoio de palavras cognatas e pistas do contexto discursivo, o assunto e as informações principais em textos orais sobre temas familiares.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI05",
+                  "descricao": "Aplicar os conhecimentos da língua inglesa para falar de si e de outras pessoas, explicitando informações pessoais e características relacionadas a gostos, preferências e rotinas.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI06",
+                  "descricao": "Planejar apresentação sobre a família, a comunidade e a escola, compartilhando-a oralmente com o grupo.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Eixo",
+          "nome": "Leitura",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Práticas de leitura de textos diversos em língua inglesa (verbais, verbo-visuais, multimodais) presentes em diferentes suportes e esferas de circulação. Tais práticas envolvem articulação com os conhecimentos prévios dos alunos em língua materna e/ou outras línguas.",
+              "habilidades": [
+                {
+                  "codigo": "EF06LI07",
+                  "descricao": "Formular hipóteses sobre a finalidade de um texto em língua inglesa, com base em sua estrutura, organização textual e pistas gráficas.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI08",
+                  "descricao": "Identificar o assunto de um texto, reconhecendo sua organização textual e palavras cognatas.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI09",
+                  "descricao": "Localizar informações específicas em texto.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI10",
+                  "descricao": "Conhecer a organização de um dicionário bilíngue (impresso e/ou on-line) para construir repertório lexical.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI11",
+                  "descricao": "Explorar ambientes virtuais e/ou aplicativos para construir repertório lexical na língua inglesa.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                },
+                {
+                  "codigo": "EF06LI12",
+                  "descricao": "Interessar-se pelo texto lido, compartilhando suas ideias sobre o que o texto informa/comunica.",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 248
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

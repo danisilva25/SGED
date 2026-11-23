@@ -1,0 +1,127 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "Língua Portuguesa - 3º ao 5º ano",
+    "version": "2023",
+    "file": "BNCC_3_5_ano.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "3º ano"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas de Linguagem"
+      },
+      "organizacao": {
+        "tipo": "Campo da Vida Cotidiana",
+        "nome": "Análise linguística/semiótica (Ortografização)"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar e reproduzir, em textos injuntivos instrucionais (receitas, instruções de montagem, digitais ou impressos), a formatação própria desses textos (verbos imperativos, indicação de passos a ser seguidos) e a diagramação específica dos textos desses gêneros (lista de ingredientes ou materiais e instruções de execução – \"modo de fazer\")",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Textos injuntivos instrucionais",
+              "habilidades": [
+                {
+                  "codigo": "EF03LP16",
+                  "descricao": "Identificar e reproduzir, em textos injuntivos instrucionais (receitas, instruções de montagem, digitais ou impressos), a formatação própria desses textos (verbos imperativos, indicação de passos a ser seguidos) e a diagramação específica dos textos desses gêneros (lista de ingredientes ou materiais e instruções de execução – \"modo de fazer\")",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 124
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "4º ano"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas de Linguagem"
+      },
+      "organizacao": {
+        "tipo": "Campo da Vida Cotidiana",
+        "nome": "Análise linguística/semiótica (Ortografização)"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar e reproduzir, em textos injuntivos instrucionais (instruções de jogos digitais ou impressos), a formatação própria desses textos (verbos imperativos, indicação de passos a ser seguidos) e formato específico dos textos orais ou escritos desses gêneros (lista/apresentação de materiais e instruções/passos de jogo)",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Textos injuntivos instrucionais",
+              "habilidades": [
+                {
+                  "codigo": "EF04LP13",
+                  "descricao": "Identificar e reproduzir, em textos injuntivos instrucionais (instruções de jogos digitais ou impressos), a formatação própria desses textos (verbos imperativos, indicação de passos a ser seguidos) e formato específico dos textos orais ou escritos desses gêneros (lista/apresentação de materiais e instruções/passos de jogo)",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 124
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "5º ano"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas de Linguagem"
+      },
+      "organizacao": {
+        "tipo": "Campo da Vida Cotidiana",
+        "nome": "Análise linguística/semiótica (Ortografização)"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar e reproduzir, em textos de resenha crítica de brinquedos ou livros de literatura infantil, a formatação própria desses textos (apresentação e avaliação do produto)",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Textos de resenha crítica",
+              "habilidades": [
+                {
+                  "codigo": "EF05LP14",
+                  "descricao": "Identificar e reproduzir, em textos de resenha crítica de brinquedos ou livros de literatura infantil, a formatação própria desses textos (apresentação e avaliação do produto)",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 124
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

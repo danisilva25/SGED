@@ -1,0 +1,49 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - Anos Iniciais"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências Humanas - Geografia"
+      },
+      "componenteCurricular": {
+        "nome": "Geografia"
+      },
+      "organizacao": {
+        "tipo": "unidade temática",
+        "nome": "O sujeito e seu lugar no mundo"
+      },
+      "estrutura": [
+        {
+          "tipo": "princípio",
+          "nome": "Analogia",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Fenômeno geográfico sempre é comparável a outros",
+              "habilidades": [
+                {
+                  "codigo": "4.4.1",
+                  "descricao": "Estudar Geografia é uma oportunidade para compreender o mundo em que se vive, na medida em que esse componente curricular aborda as ações humanas construídas nas distintas sociedades existentes nas diversas regiões do planeta. Ao mesmo tempo, a educação geográ-fica contribui para a formação do conceito de identidade, expresso de diferentes formas: na compreensão perceptiva da paisagem, que ganha significado à medida que, ao observá-la, nota-se a vivência dos indivíduos e da coletividade; nas relações sociais e étnico-raciais, identificando-se com a sua comunidade e respeitando os diferentes contextos socioculturais. Ao tratar do conceito de espaço, estimula-se o desenvolvimento das relações espaciais topológicas, projetivas e euclidianas, além do raciocínio geográfico, importantes para o processo de alfabetização carto-gráfica e a aprendizagem com as várias linguagens (formas de representação e pensamento espacial).",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 364
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

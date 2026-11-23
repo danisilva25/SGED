@@ -1,0 +1,108 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências da Natureza"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "unidade temática",
+        "nome": "Matéria e energia"
+      },
+      "estrutura": [
+        {
+          "tipo": "unidade temática",
+          "nome": "Matéria e energia",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Materiais e suas transformações",
+              "habilidades": [
+                {
+                  "codigo": "4.3.1",
+                  "descricao": "Ao estudar Ciências, as pessoas aprendem a respeito de si mesmas, dos seres vivos, da Terra e do Universo, compreendendo a interconexão entre esses sistemas e a importância de preservar a biodiversidade e os recursos naturais para o desenvolvimento sustentável da sociedade.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 328
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "unidade temática",
+          "nome": "Terra e Universo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Características da Terra, do Sol, da Lua e de outros corpos celestes",
+              "habilidades": [
+                {
+                  "codigo": "4.3.1",
+                  "descricao": "Ao estudar Ciências, as pessoas aprendem a respeito de si mesmas, dos seres vivos, da Terra e do Universo, compreendendo a interconexão entre esses sistemas e a importância de preservar a biodiversidade e os recursos naturais para o desenvolvimento sustentável da sociedade.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 329
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "unidade temática",
+          "nome": "Terra e Universo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Ciclos biogeoquímicos, esferas terrestres e interior do planeta",
+              "habilidades": [
+                {
+                  "codigo": "4.3.1",
+                  "descricao": "Ao estudar Ciências, as pessoas aprendem a respeito de si mesmas, dos seres vivos, da Terra e do Universo, compreendendo a interconexão entre esses sistemas e a importância de preservar a biodiversidade e os recursos naturais para o desenvolvimento sustentável da sociedade.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 330
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

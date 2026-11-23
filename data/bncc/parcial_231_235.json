@@ -1,0 +1,135 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC_Educação_Física.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - 3º ao 5º ano"
+      },
+      "areaConhecimento": {
+        "nome": "Educação Física"
+      },
+      "componenteCurricular": {
+        "nome": "Educação Física"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Brincadeiras e jogos"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Brincadeiras e jogos populares do Brasil e do mundo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Brincadeiras e jogos de matriz indígena e africana",
+              "habilidades": [
+                {
+                  "codigo": "EF35EF01",
+                  "descricao": "Experimentar e fruir brincadeiras e jogos populares do Brasil e do mundo, incluindo aqueles de matriz indígena e africana, e recriá-los, valorizando a importância desse patrimônio histórico cultural.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 231
+                  }
+                },
+                {
+                  "codigo": "EF35EF02",
+                  "descricao": "Planejar e utilizar estratégias para possibilitar a participação segura de todos os alunos em brincadeiras e jogos populares do Brasil e de matriz indígena e africana.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 231
+                  }
+                },
+                {
+                  "codigo": "EF35EF03",
+                  "descricao": "Descrever, por meio de múltiplas linguagens (corporal, oral, escrita, audiovisual), as brincadeiras e os jogos populares do Brasil e de matriz indígena e africana, explicando suas características e a importância desse patrimônio histórico cultural na preservação das diferentes culturas.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 231
+                  }
+                },
+                {
+                  "codigo": "EF35EF04",
+                  "descricao": "Identificar e classificar brincadeiras e jogos populares do Brasil e de matriz indígena e africana, considerando suas características culturais e históricas.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 231
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Brincadeiras e jogos populares do Brasil e do mundo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Brincadeiras e jogos de matriz indígena e africana",
+              "habilidades": [
+                {
+                  "codigo": "EF35EF01",
+                  "descricao": "Experimentar e fruir brincadeiras e jogos populares do Brasil e do mundo, incluindo aqueles de matriz indígena e africana, e recriá-los, valorizando a importância desse patrimônio histórico cultural.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 231
+                  }
+                },
+                {
+                  "codigo": "EF35EF02",
+                  "descricao": "Planejar e utilizar estratégias para possibilitar a participação segura de todos os alunos em brincadeiras e jogos populares do Brasil e de matriz indígena e africana.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 231
+                  }
+                },
+                {
+                  "codigo": "EF35EF03",
+                  "descricao": "Descrever, por meio de múltiplas linguagens (corporal, oral, escrita, audiovisual), as brincadeiras e os jogos populares do Brasil e de matriz indígena e africana, explicando suas características e a importância desse patrimônio histórico cultural na preservação das diferentes culturas.",
+                  "anos": [
+                    3,
+                    4,
+                    15
+                  ],
+                  "fonte": {
+                    "pagina": 231
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

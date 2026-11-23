@@ -1,0 +1,49 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2020",
+    "file": "BNCC-2020.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "CIÊNCIAS HUMANAS – HISTÓRIA"
+      },
+      "componenteCurricular": {
+        "nome": "HISTÓRIA"
+      },
+      "organizacao": {
+        "tipo": "HISTÓRIA",
+        "nome": "HISTÓRIA"
+      },
+      "estrutura": [
+        {
+          "tipo": "HISTÓRIA",
+          "nome": "HISTÓRIA",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Todo conhecimento sobre o passado é também um conhecimento do presente elaborado por distintos sujeitos.",
+              "habilidades": [
+                {
+                  "codigo": "4.4.2",
+                  "descricao": "Todo conhecimento sobre o passado é também um conhecimento do presente elaborado por distintos sujeitos.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 399
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

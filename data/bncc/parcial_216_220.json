@@ -1,0 +1,246 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular - Educação Física",
+    "document": "ENSINO FUNDAMENTAL",
+    "version": "2023",
+    "file": "217-220.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Educação Física"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas Corporais"
+      },
+      "organizacao": {
+        "tipo": "Unidade Temática",
+        "nome": "Ginásticas"
+      },
+      "estrutura": [
+        {
+          "tipo": "Ginástica Geral",
+          "nome": "Ginástica Geral",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Exploração das possibilidades acrobáticas e expressivas do corpo",
+              "habilidades": [
+                {
+                  "codigo": "EF05",
+                  "descricao": "Explorar as possibilidades acrobáticas e expressivas do corpo, a interação social, o compartilhamento do aprendizado e a não competitividade em práticas corporais como ginástica geral, malabarismo, etc.",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 219
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Ginásticas de Condicionamento Físico",
+          "nome": "Ginásticas de Condicionamento Físico",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Exercício corporal orientado à melhoria do rendimento, à aquisição e à manutenção da condição física individual ou à modificação da composição corporal",
+              "habilidades": [
+                {
+                  "codigo": "EF06",
+                  "descricao": "Realizar exercícios corporais orientados à melhoria do rendimento, à aquisição e à manutenção da condição física individual ou à modificação da composição corporal, em diferentes contextos (ex.: ginástica para gestantes, ginástica laboral).",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 219
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Ginásticas de Conscientização Corporal",
+          "nome": "Ginásticas de Conscientização Corporal",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Movimentos suaves e lentos, recorrência a posturas ou à conscientização de exercícios respiratórios, voltados para a obtenção de uma melhor percepção sobre o próprio corpo",
+              "habilidades": [
+                {
+                  "codigo": "EF07",
+                  "descricao": "Praticar movimentos suaves e lentos, recorrência a posturas ou à conscientização de exercícios respiratórios, voltados para a obtenção de uma melhor percepção sobre o próprio corpo, em diferentes contextos (ex.: ioga, tai chi chuan, etc.).",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 219
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Educação Física"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas Corporais"
+      },
+      "organizacao": {
+        "tipo": "Unidade Temática",
+        "nome": "Danças"
+      },
+      "estrutura": [
+        {
+          "tipo": "Danças",
+          "nome": "Danças",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Movimentos rítmicos, organizados em passos e evoluções específicas, muitas vezes integradas a coreografias",
+              "habilidades": [
+                {
+                  "codigo": "EF08",
+                  "descricao": "Realizar danças individuais, em duplas ou em grupos, com movimentos rítmicos, organizados em passos e evoluções específicas, muitas vezes integradas a coreografias.",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 220
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Educação Física"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas Corporais"
+      },
+      "organizacao": {
+        "tipo": "Unidade Temática",
+        "nome": "Lutas"
+      },
+      "estrutura": [
+        {
+          "tipo": "Lutas",
+          "nome": "Lutas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Disputas corporais, empregando técnicas, táticas e estratégias específicas para imobilizar, desequilibrar, atingir ou excluir o oponente de um determinado espaço",
+              "habilidades": [
+                {
+                  "codigo": "EF09",
+                  "descricao": "Participar de lutas corporais, empregando técnicas, táticas e estratégias específicas para imobilizar, desequilibrar, atingir ou excluir o oponente de um determinado espaço, em diferentes contextos (ex.: capoeira, huka-huka, luta marajoara, judô, aikido, jiu-jítsu, muay thai, boxe, etc.).",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 220
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Educação Física"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas Corporais"
+      },
+      "organizacao": {
+        "tipo": "Unidade Temática",
+        "nome": "Práticas Corporais de Aventura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Práticas de Aventura na Natureza",
+          "nome": "Práticas de Aventura na Natureza",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Exploração das incertezas que o ambiente físico cria para o praticante",
+              "habilidades": [
+                {
+                  "codigo": "EF10",
+                  "descricao": "Explorar situações de imprevisibilidade em ambientes naturais, desenvolvendo perícias e proezas para lidar com as incertezas do ambiente físico.",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 220
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Práticas de Aventura Urbanas",
+          "nome": "Práticas de Aventura Urbanas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Exploração de ambientes urbanos desafiadores",
+              "habilidades": [
+                {
+                  "codigo": "EF11",
+                  "descricao": "Explorar situações de imprevisibilidade em ambientes urbanos, desenvolvendo perícias e proezas para lidar com as incertezas do ambiente físico.",
+                  "anos": [
+                    6,
+                    7,
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 220
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

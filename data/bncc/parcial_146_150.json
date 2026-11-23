@@ -1,0 +1,213 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "LÍNGUA PORTUGUESA – 6º AO 9º ANO (Continuação)",
+    "version": "2023",
+    "file": "pagina_150.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "6º ao 9º ano"
+      },
+      "areaConhecimento": {
+        "nome": "Práticas de Linguagem"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "Objetos de Conhecimento",
+        "nome": "Habilidades"
+      },
+      "estrutura": [
+        {
+          "tipo": "Leitura",
+          "nome": "Reconstrução das condições de produção e circulação e adequação do texto à construção composicional e ao estilo de gênero",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Lei, código, estatuto, regimento",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP20",
+                  "descricao": "Identificar, tendo em vista o contexto de produção, a forma de organização dos textos normativos e legais, a lógica de hierarquização de seus itens e subitens e suas partes: parte inicial (título – nome e data – e ementa), blocos de artigos (parte, livro, capítulo, seção, subseção), artigos (caput e parágrafos e incisos) e parte final (disposições pertinentes à sua implementação) e analisar efeitos de sentido causados pelo uso de vocabulário técnico, pelo uso do imperativo, de palavras e expressões que indicam circunstâncias, como advérbios e locuções adverbiais, de palavras que indicam generalidade, como alguns pronomes indefinidos, de forma a poder compreender o caráter imperativo, coercitivo e generalista das leis e de outras formas de regulamentação.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 150
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Apreciação e réplica",
+          "nome": "Posicionar-se em relação a conteúdos veiculados em práticas não institucionalizadas de participação social",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Manifestações artísticas, produções culturais, intervenções urbanas e práticas próprias das culturas juvenis",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP21",
+                  "descricao": "Posicionar-se em relação a conteúdos veiculados em práticas não institucionalizadas de participação social, sobretudo àquelas vinculadas a manifestações artísticas, produções culturais, intervenções urbanas e práticas próprias das culturas juvenis que pretendam denunciar, expor uma problemática ou “convocar” para uma reflexão/ação, relacionando esse texto/produção com seu contexto de produção e relacionando as partes e semioses presentes para a construção de sentidos.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 150
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Produção de textos",
+          "nome": "Textualização, revisão e edição",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Textos reivindicatórios ou propositivos sobre problemas que afetam a vida escolar ou da comunidade",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP22",
+                  "descricao": "Produzir, revisar e editar textos reivindicatórios ou propositivos sobre problemas que afetam a vida escolar ou da comunidade, justificando pontos de vista, reivindicações e detalhando propostas (justificativa, objetivos, ações previstas etc.), levando em conta seu contexto de produção e as características dos gêneros em questão.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 150
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Textos normativos e regras da escola",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP23",
+                  "descricao": "Contribuir com a escrita de textos normativos, quando houver esse tipo de demanda na escola – regimentos e estatutos de organizações da sociedade civil do âmbito da atuação das crianças e jovens (grêmio livre, clubes de leitura, associações culturais etc.) – e de regras e regulamentos nos vários âmbitos da escola – campeonatos, festivais, regras de convivência etc., levando em conta o contexto de produção e as características dos gêneros em questão.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 150
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Oralidade",
+          "nome": "Discussão oral",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Casos reais ou simulações envolvendo desrespeitos a leis",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP24",
+                  "descricao": "Discutir casos, reais ou simulações, submetidos a juízo, que envolvam (supostos) desrespeitos a artigos, do ECA, do Código de Defesa do Consumidor, do Código Nacional de Trânsito, de regulamentações do mercado publicitário etc., como forma de criar familiaridade com textos legais – seu vocabulário, formas de organização, marcas de estilo etc. –, de maneira a facilitar a compreensão de leis, fortalecer a defesa de direitos, fomentar a escrita de textos normativos (se e quando isso for necessário) e possibilitar a compreensão do caráter interpretativo das leis e as várias perspectivas que podem estar em jogo.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 150
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Posicionamento em discussões, assembleias e reuniões",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP25",
+                  "descricao": "Posicionar-se de forma consistente e sustentada em uma discussão, assembleia, reuniões de colegiados da escola, de agremiações e outras situações de apresentação de propostas e defesas de opiniões, respeitando as opiniões contrárias e propostas alternativas e fundamentando seus posicionamentos, no tempo de fala previsto, valendo-se de sínteses e propostas claras e justificadas.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 150
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Registro",
+          "nome": "Tomar nota em discussões, debates, palestras",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Documentar eventos para apoio à fala",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP26",
+                  "descricao": "Tomar nota em discussões, debates, palestras, apresentação de propostas, reuniões, como forma de documentar o evento e apoiar a própria fala (que pode se dar no momento do evento ou posteriormente, quando, por exemplo, for necessária a retomada dos assuntos tratados em outros contextos públicos, como diante dos representados).",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 150
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Análise linguística/semiótica",
+          "nome": "Análise de textos legais/normativos, propositivos e reivindicatórios",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Textos legais, normativos, propositivos e reivindicatórios",
+              "habilidades": [
+                {
+                  "codigo": "EF69LP27",
+                  "descricao": "Analisar e interpretar textos legais, normativos, propositivos e reivindicatórios, identificando suas características estruturais, linguísticas e contextuais, para compreensão e produção de textos adequados ao contexto social e institucional.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 150
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

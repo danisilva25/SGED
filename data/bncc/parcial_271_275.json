@@ -1,0 +1,212 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC_MATEMATICA.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental – Anos Iniciais"
+      },
+      "areaConhecimento": {
+        "nome": "Números"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "estrutura",
+        "nome": "Números"
+      },
+      "estrutura": [
+        {
+          "tipo": "habilidade",
+          "nome": "Reconhecer que medir é comparar uma grandeza com uma unidade e expressar o resultado da comparação por meio de um número",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Unidade de medida",
+              "habilidades": [
+                {
+                  "codigo": "1",
+                  "descricao": "Reconhecer que medir é comparar uma grandeza com uma unidade e expressar o resultado da comparação por meio de um número",
+                  "anos": [
+                    1,
+                    2,
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 275
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Resolver problemas oriundos de situações cotidianas que envolvem grandezas como comprimento, massa, tempo, temperatura, área (de triângulos e retângulos) e capacidade e volume (de sólidos formados por blocos retangulares), sem uso de fórmulas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Grandezas",
+              "habilidades": [
+                {
+                  "codigo": "2",
+                  "descricao": "Resolver problemas oriundos de situações cotidianas que envolvem grandezas como comprimento, massa, tempo, temperatura, área (de triângulos e retângulos) e capacidade e volume (de sóas formados por blocos retangulares), sem uso de fórmulas",
+                  "anos": [
+                    1,
+                    2,
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 275
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Resolver problemas sobre situações de compra e venda e desenvolver atitudes éticas e responsáveis em relação ao consumo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Compras e vendas",
+              "habilidades": [
+                {
+                  "codigo": "3",
+                  "descricao": "Resolver problemas sobre situações de compra e venda e desenvolver atitudes éticas e responsáveis em relação ao consumo",
+                  "anos": [
+                    1,
+                    2,
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 275
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental – Anos Finais"
+      },
+      "areaConhecimento": {
+        "nome": "Números"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "estrutura",
+        "nome": "Números"
+      },
+      "estrutura": [
+        {
+          "tipo": "habilidade",
+          "nome": "Reconhecer comprimento, área, volume e abertura de ângulo como grandezas associadas a figuras geométricas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Grandezas geométricas",
+              "habilidades": [
+                {
+                  "codigo": "4",
+                  "descricao": "Reconhecer comprimento, área, volume e abertura de ângulo como grandezas associadas a figuras geométricas",
+                  "anos": [
+                    4,
+                    5,
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 275
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Resolver problemas envolvendo essas grandezas com o uso de unidades de medida padronizadas mais usuais",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Unidades de medida",
+              "habilidades": [
+                {
+                  "codigo": "5",
+                  "descricao": "Resolver problemas envolvendo essas grandezas com o uso de unidades de medida padronizadas mais usuais",
+                  "anos": [
+                    4,
+                    5,
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 275
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Estabelecer e utilizar relações entre essas grandezas e entre elas e grandezas não geométricas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Relações entre grandezas",
+              "habilidades": [
+                {
+                  "codigo": "6",
+                  "descricao": "Estabelecer e utilizar relações entre essas grandezas e entre elas e grandezas não geométricas",
+                  "anos": [
+                    4,
+                    5,
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 275
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Determinar expressões de cálculo de áreas de quadriláteros, triângulos e círculos, e as de volumes de prismas e de cilindros",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Cálculo de áreas e volumes",
+              "habilidades": [
+                {
+                  "codigo": "7",
+                  "descricao": "Determinar expressões de cálculo de áreas de quadriláteros, triângulos e círculos, e as de volumes de prismas e de cilindros",
+                  "anos": [
+                    4,
+                    5,
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 275
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

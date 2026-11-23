@@ -1,0 +1,493 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "LÍNGUA PORTUGUESA – 3º AO 5º ANO",
+    "version": "2023",
+    "file": "PÁGINA 114-115"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "3º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "LÍNGUA PORTUGUESA"
+      },
+      "componenteCurricular": {
+        "nome": "PRÁTICAS DE LINGUAGEM"
+      },
+      "organizacao": {
+        "tipo": "Leitura/escuta (compartilhada e autônoma)",
+        "nome": "Decodificação/Fluência de leitura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP01",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Ler e compreender, silenciosamente e, em seguida, em voz alta, com autonomia e fluência, textos curtos com nível de textualidade adequado.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP01",
+                  "descricao": "Ler e compreender, silenciosamente e, em seguida, em voz alta, com autonomia e fluência, textos curtos com nível de textualidade adequado.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP02",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Selecionar livros da biblioteca e/ou do cantinho de leitura da sala de aula e/ou disponíveis em meios digitais para leitura individual, justificando a escolha e compartilhando com os colegas sua opinião, após a leitura.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP02",
+                  "descricao": "Selecionar livros da biblioteca e/ou do cantinho de leitura da sala de aula e/ou disponíveis em meios digitais para leitura individual, justificando a escolha e compartilhando com os colegas sua opinião, após a leitura.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP03",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Identificar a ideia central do texto, demonstrando compreensão global.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP03",
+                  "descricao": "Identificar a ideia central do texto, demonstrando compreensão global.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP04",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Inferir informações implícitas nos textos lidos.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP04",
+                  "descricao": "Inferir informações implícitas nos textos lidos.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP05",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Inferir o sentido de palavras ou expressões desconhecidas em textos, com base no contexto da frase ou do texto.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP05",
+                  "descricao": "Inferir o sentido de palavras ou expressões desconhecidas em textos, com base no contexto da frase ou do texto.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP06",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Recuperar relações entre partes de um texto, identificando substituições lexicais (de substantivos por sinônimos) ou pronominais (uso de pronomes anafóricos – pessoais, possessivos, demonstrativos) que contribuem para a continuidade do texto.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP06",
+                  "descricao": "Recuperar relações entre partes de um texto, identificando substituições lexicais (de substantivos por sinônimos) ou pronominais (uso de pronomes anafóricos – pessoais, possessivos, demonstrativos) que contribuem para a continuidade do texto.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "4º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "LÍNGUA PORTUGUESA"
+      },
+      "componenteCurricular": {
+        "nome": "PRÁTICAS DE LINGUAGEM"
+      },
+      "organizacao": {
+        "tipo": "Leitura/escuta (compartilhada e autônoma)",
+        "nome": "Decodificação/Fluência de leitura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP01",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Ler e compreender, silenciosamente e, em seguida, em voz alta, com autonomia e fluência, textos curtos com nível de textualidade adequado.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP01",
+                  "descricao": "Ler e compreender, silenciosamente e, em seguida, em voz alta, com autonomia e fluência, textos curtos com nível de textualidade adequado.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP02",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Selecionar livros da biblioteca e/ou do cantinho de leitura da sala de aula e/ou disponíveis em meios digitais para leitura individual, justificando a escolha e compartilhando com os colegas sua opinião, após a leitura.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP02",
+                  "descricao": "Selecionar livros da biblioteca e/ou do cantinho de leitura da sala de aula e/ou disponíveis em meios digitais para leitura individual, justificando a escolha e compartilhando com os colegas sua opinião, após a leitura.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP03",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Identificar a ideia central do texto, demonstrando compreensão global.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP03",
+                  "descricao": "Identificar a ideia central do texto, demonstrando compreensão global.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP04",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Inferir informações implícitas nos textos lidos.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP04",
+                  "descricao": "Inferir informações implícitas nos textos lidos.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP05",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Inferir o sentido de palavras ou expressões desconhecidas em textos, com base no contexto da frase ou do texto.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP05",
+                  "descricao": "Inferir o sentido de palavras ou expressões desconhecidas em textos, com base no contexto da frase ou do texto.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP06",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Recuperar relações entre partes de um texto, identificando substituições lexicais (de substantivos por sinônimos) ou pronominais (uso de pronomes anafóricos – pessoais, possessivos, demonstrativos) que contribuem para a continuidade do texto.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP06",
+                  "descricao": "Recuperar relações entre partes de um texto, identificando substituições lexicais (de substantivos por sinônimos) ou pronominais (uso de pronomes anafóricos – pessoais, possessivos, demonstrativos) que contribuem para a continuidade do texto.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "5º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "LÍNGUA PORTUGUESA"
+      },
+      "componenteCurricular": {
+        "nome": "PRÁTICAS DE LINGUAGEM"
+      },
+      "organizacao": {
+        "tipo": "Leitura/escuta (compartilhada e autônoma)",
+        "nome": "Decodificação/Fluência de leitura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP01",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Ler e compreender, silenciosamente e, em seguida, em voz alta, com autonomia e fluência, textos curtos com nível de textualidade adequado.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP01",
+                  "descricao": "Ler e compreender, silenciosamente e, em seguida, em voz alta, com autonomia e fluência, textos curtos com nível de textualidade adequado.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP02",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Selecionar livros da biblioteca e/ou do cantinho de leitura da sala de aula e/ou disponíveis em meios digitais para leitura individual, justificando a escolha e compartilhando com os colegas sua opinião, após a leitura.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP02",
+                  "descricao": "Selecionar livros da biblioteca e/ou do cantinho de leitura da sala de aula e/ou disponíveis em meios digitais para leitura individual, justificando a escolha e compartilhando com os colegas sua opinião, após a leitura.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP03",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Identificar a ideia central do texto, demonstrando compreensão global.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP03",
+                  "descricao": "Identificar a ideia central do texto, demonstrando compreensão global.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP04",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Inferir informações implícitas nos textos lidos.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP04",
+                  "descricao": "Inferir informações implícitas nos textos lidos.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP05",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Inferir o sentido de palavras ou expressões desconhecidas em textos, com base no contexto da frase ou do texto.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP05",
+                  "descricao": "Inferir o sentido de palavras ou expressões desconhecidas em textos, com base no contexto da frase ou do texto.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "EF35LP06",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Recuperar relações entre partes de um texto, identificando substituições lexicais (de substantivos por sinônimos) ou pronominais (uso de pronomes anafóricos – pessoais, possessivos, demonstrativos) que contribuem para a continuidade do texto.",
+              "habilidades": [
+                {
+                  "codigo": "EF35LP06",
+                  "descricao": "Recuperar relações entre partes de um texto, identificando substituições lexicais (de substantivos por sinônimos) ou pronominais (uso de pronomes anafóricos – pessoais, possessivos, demonstrativos) que contribuem para a continuidade do texto.",
+                  "anos": [
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 114
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

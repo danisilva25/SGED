@@ -1,0 +1,93 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC_Curriculo_Ciencias_Fundamental.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências da Natureza"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Matéria e energia"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Características dos materiais",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF01CI01",
+              "habilidades": [
+                {
+                  "codigo": "EF01CI01",
+                  "descricao": "Comparar características de diferentes materiais presentes em objetos de uso cotidiano, discutindo sua origem, os modos como são descartados e como podem ser usados de forma mais consciente.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 334
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Vida e evolução",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF01CI02",
+              "habilidades": [
+                {
+                  "codigo": "EF01CI02",
+                  "descricao": "Localizar, nomear e representar graficamente (por meio de desenhos) partes do corpo humano e explicar suas funções.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 334
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Terra e Universo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF01CI03",
+              "habilidades": [
+                {
+                  "codigo": "EF01CI03",
+                  "descricao": "Discussir as razões pelas quais os hábitos de higiene do corpo (lavar as mãos antes de comer, escovar os dentes, limpar os olhos, o nariz e as orelhas etc.) são necessários para a manutenção da saúde.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 334
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

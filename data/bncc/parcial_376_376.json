@@ -1,0 +1,169 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "3º ano do Ensino Fundamental (EF03)"
+      },
+      "areaConhecimento": {
+        "nome": "Geografia"
+      },
+      "componenteCurricular": {
+        "nome": "Geografia"
+      },
+      "organizacao": {
+        "tipo": "Anual",
+        "nome": "3º ano do Ensino Fundamental"
+      },
+      "estrutura": [
+        {
+          "tipo": "Anual",
+          "nome": "3º ano do Ensino Fundamental",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "O sujeito e seu lugar no mundo",
+              "habilidades": [
+                {
+                  "codigo": "EF03GE01",
+                  "descricao": "Identificar e comparar aspectos culturais dos grupos sociais de seus lugares de vivência, seja na cidade, seja no campo.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 376
+                  }
+                },
+                {
+                  "codigo": "EF03GE02",
+                  "descricao": "Identificar, em seus lugares de vivência, marcas de contribuição cultural e econômica de grupos de diferentes origens.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 376
+                  }
+                },
+                {
+                  "codigo": "EF03GE03",
+                  "descricao": "Reconhecer os diferentes modos de vida de povos e comunidades tradicionais em distintos lugares.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 376
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Conexões e escalas",
+              "habilidades": [
+                {
+                  "codigo": "EF03GE04",
+                  "descricao": "Explicar como os processos naturais e históricos atuam na produção e na mudança das paisagens naturais e antrópicas nos seus lugares de vivência, comparando-os a outros lugares.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 376
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Mundo do trabalho",
+              "habilidades": [
+                {
+                  "codigo": "EF03GE05",
+                  "descricao": "Identificar alimentos, minerais e outros produtos cultivados e extraídos da natureza, comparando as atividades de trabalho em diferentes lugares.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 376
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Formas de representação e pensamento espacial",
+              "habilidades": [
+                {
+                  "codigo": "EF03GE06",
+                  "descricao": "Identificar e interpretar imagens bidimensionais e tridimensionais em diferentes tipos de representação cartográfica.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 376
+                  }
+                },
+                {
+                  "codigo": "EF03GE07",
+                  "descricao": "Reconhecer e elaborar legendas com símbolos de diversos tipos de representações em diferentes escalas cartográficas.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 376
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Natureza, ambientes e qualidade de vida",
+              "habilidades": [
+                {
+                  "codigo": "EF03GE08",
+                  "descricao": "Relacionar a produção de lixo doméstico ou da escola aos problemas causados pelo consumo excessivo e construir propostas para o consumo consciente, considerando a ampliação de hábitos de redução, reúso e reciclagem/descarte de materiais consumidos em casa, na escola e/ou no entorno.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 376
+                  }
+                },
+                {
+                  "codigo": "EF03GE09",
+                  "descricao": "Investigar os usos dos recursos naturais, com destaque para os usos da água em atividades cotidianas (alimentação, higiene, cultivo de plantas etc.), e discutir os problemas ambientais provocados por esses usos.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 376
+                  }
+                },
+                {
+                  "codigo": "EF03GE10",
+                  "descricao": "Identificar os cuidados necessários para utilização da água na agricultura e na geração de energia de modo a garantir a manutenção do provimento de água potável.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 376
+                  }
+                },
+                {
+                  "codigo": "EF03GE11",
+                  "descricao": "Comparar impactos das atividades econômicas urbanas e rurais sobre o ambiente físico natural, assim como os riscos provenientes do uso de ferramentas e máquinas.",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 376
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

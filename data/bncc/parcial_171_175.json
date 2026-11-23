@@ -1,0 +1,142 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "LÍNGUA PORTUGUESA – 6º E 7º ANOS (Continuação)",
+    "version": "2023",
+    "file": "PÁGINA 174-175"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "6º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas de Linguagem"
+      },
+      "organizacao": {
+        "tipo": "Análise linguística/semiótica",
+        "nome": "Morfossintaxe"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, adjetivos que ampliam o sentido do substantivo sujeito ou complemento verbal",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Adjetivos",
+              "habilidades": [
+                {
+                  "codigo": "EF07LP08",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, adjetivos que ampliam o sentido do substantivo sujeito ou complemento verbal",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 174
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, advérbios e locuções adverbiais que ampliam o sentido do verbo núcleo da oração",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Advérbios",
+              "habilidades": [
+                {
+                  "codigo": "EF07LP09",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, advérbios e locuções adverbiais que ampliam o sentido do verbo núcleo da oração",
+                  "anos": [
+                    6,
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 174
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar, em textos, períodos compostos por orações separadas por vírgula sem a utilização de conectivos, nomeando-os como períodos compostos por coordenação",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Períodos compostos",
+              "habilidades": [
+                {
+                  "codigo": "EF06LP07",
+                  "descricao": "Identificar, em textos, períodos compostos por orações separadas por vírgula sem a utilização de conectivos, nomeando-os como períodos compostos por coordenação",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 174
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar, em texto ou sequência textual, orações como unidades constituídas em torno de um núcleo verbal e períodos como conjunto de orações conectadas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Orações e períodos",
+              "habilidades": [
+                {
+                  "codigo": "EF06LP08",
+                  "descricao": "Identificar, em texto ou sequência textual, orações como unidades constituídas em torno de um núcleo verbal e períodos como conjunto de orações conectadas",
+                  "anos": [
+                    6
+                  ],
+                  "fonte": {
+                    "pagina": 174
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Utilizar, ao produzir texto, conhecimentos linguísticos e gramaticais: modos e tempos verbais, concordância nominal e verbal, pontuação etc.",
+          "contexto": {
+            "tipo": "Habilidade",
+            "nome": "Classificar, em texto ou sequência textual, os períodos simples compostos"
+          },
+          "objetosConhecimento": [
+            {
+              "nome": "Conhecimentos linguísticos e gramaticais",
+              "habilidades": [
+                {
+                  "codigo": "EF07LP10",
+                  "descricao": "Utilizar, ao produzir texto, conhecimentos linguísticos e gramaticais: modos e tempos verbais, concordância nominal e verbal, pontuação etc.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 174
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

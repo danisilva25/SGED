@@ -1,0 +1,416 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "LÍNGUA PORTUGUESA – 1º E 2º ANOS (Continuação)",
+    "version": "2023",
+    "file": "PÁGINA 109-110"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "1º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "LÍNGUA PORTUGUESA"
+      },
+      "componenteCurricular": {
+        "nome": "PRÁTICAS DE LINGUAGEM"
+      },
+      "organizacao": {
+        "tipo": "CAMPO DA VIDA PÚBLICA",
+        "nome": "Escrita (compartilhada e autônoma)"
+      },
+      "estrutura": [
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Escrever, em colaboração com os colegas e com a ajuda do professor, fotolegendas em notícias, manchetes e lides em notícias, álbum de fotos digital noticioso e notícias curtas para público infantil, digitais ou impressos, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Fotolegends em notícias",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP11",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, fotolegendas em notícias, manchetes e lides em notícias, álbum de fotos digital noticioso e notícias curtas para público infantil, digitais ou impressos, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Manchetes",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP11",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, fotolegends em notícias, manchetes e lides em notícias, álbum de fotos digital noticioso e notícias curtas para público infantil, digitais ou impressos, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Lides em notícias",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP11",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, fotolegends em notícias, manchetes e lides em notícias, álbum de fotos digital noticioso e notícias curtas para público infantil, digitais ou impressos, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Álbum de fotos digital noticioso",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP11",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, fotolegends em notícias, manchetes e lides em notícias, álbum de fotos digital noticioso e notícias curtas para público infantil, digitais ou impressos, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Notícias curtas para público infantil",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP11",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, fotolegends em notícias, manchetes e lides em notícias, álbum de fotos digital noticioso e notícias curtas para público infantil, digitais ou impressos, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Escrever, em colaboração com os colegas e com a ajuda do professor, slogans, anúncios publicitários e textos de campanhas de conscientização destinados ao público infantil, dentre outros gêneros do campo publicitário, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Slogans",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP12",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, slogans, anúncios publicitários e textos de campanhas de conscientização destinados ao público infantil, dentre outros gêneros do campo publicitário, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Anúncios publicitários",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP12",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, slogans, anúncios publicitários e textos de campanhas de conscientização destinados ao público infantil, dentre outros gêneros do campo publicitário, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Textos de campanhas de conscientização",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP12",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, slogans, anúncios publicitários e textos de campanhas de conscientização destinados ao público infantil, dentre outros gêneros do campo publicitário, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    1,
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Escrever, em colaboração com os colegas e com a ajuda do professor, listas de regras e regulamentos que organizam a vida na comunidade escolar, dentre outros gêneros do campo da atuação cidadã, considerando a situação comunicativa e o tema/assunto do texto.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Listas de regras e regulamentos",
+              "habilidades": [
+                {
+                  "codigo": "EF01LP21",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, listas de regras e regulamentos que organizam a vida na comunidade escolar, dentre outros gêneros do campo da atuação cidadã, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Planejar e produzir cartazes e folhetos para divulgar a comunidade escolar, considerando a situação comunicativa e o tema/assunto do texto.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Cartazes",
+              "habilidades": [
+                {
+                  "codigo": "EF01LP21",
+                  "descricao": "Planejar e produzir cartazes e folhetos para divulgar a comunidade escolar, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Folhetos",
+              "habilidades": [
+                {
+                  "codigo": "EF01LP21",
+                  "descricao": "Planejar e produzir cartazes e folhetos para divulgar a comunidade escolar, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Planejar e produzir cartazes e folhetos para divulgar a comunidade escolar, considerando a situação comunicativa e o tema/assunto do texto.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Cartazes",
+              "habilidades": [
+                {
+                  "codigo": "EF01LP21",
+                  "descricao": "Planejar e produzir cartazes e folhetos para divulgar a comunidade escolar, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Folhetos",
+              "habilidades": [
+                {
+                  "codigo": "EF01LP21",
+                  "descricao": "Planejar e produzir cartazes e folhetos para divulgar a comunidade escolar, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "2º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "LÍNGUA PORTUGUESA"
+      },
+      "componenteCurricular": {
+        "nome": "PRÁTICAS DE LINGUAGEM"
+      },
+      "organizacao": {
+        "tipo": "CAMPO DA VIDA PÚBLICA",
+        "nome": "Escrita (compartilhada e autônoma)"
+      },
+      "estrutura": [
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Escrever, em colaboração com os colegas e com a ajuda do professor, fotolegends em notícias, manchetes e lides em notícias, álbum de fotos digital noticioso e notícias curtas para público infantil, digitais ou impressos, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Fotolegends em notícias",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP11",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, fotolegends em notícias, manchetes e lides em notícias, álbum de fotos digital noticioso e notícias curtas para público infantil, digitais ou impressos, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Manchetes",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP11",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, fotolegends em notícias, manchetes e lides em notícias, álbum de fotos digital noticioso e notícias curtas para público infantil, digitais ou impressos, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Lides em notícias",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP11",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, fotolegends em notícias, manchetes e lides em notícias, álbum de fotos digital noticioso e notícias curtas para público infantil, digitais ou impressos, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Álbum de fotos digital noticioso",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP11",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, fotolegends em notícias, manchetes e lides em notícias, álbum de fotos digital noticioso e notícias curtas para público infantil, digitais ou impressos, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Notícias curtas para público infantil",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP11",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, fotolegends em notícias, manchetes e lides em notícias, álbum de fotos digital noticioso e notícias curtas para público infantil, digitais ou impressos, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Escrever, em colaboração com os colegas e com a ajuda do professor, slogans, anúncios publicitários e textos de campanhas de conscientização destinados ao público infantil, dentre outros gêneros do campo publicitário, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Slogans",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP12",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, slogans, anúncios publicitários e textos de campanhas de conscientização destinados ao público infantil, dentre outros gêneros do campo publicitário, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Anúncios publicitários",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP12",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, slogans, anúncios publicitários e textos de campanhas de conscientização destinados ao público infantil, dentre outros gêneros do campo publicitário, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Textos de campanhas de conscientização",
+              "habilidades": [
+                {
+                  "codigo": "EF12LP12",
+                  "descricao": "Escrever, em colaboração com os colegas e com a ajuda do professor, slogans, anúncios publicitários e textos de campanhas de conscientização destinados ao público infantil, dentre outros gêneros do campo publicitário, considerando a situação comunicativa e o tema/assunto/finalidade do texto.",
+                  "anos": [
+                    2
+                  ],
+                  "fonte": {
+                    "pagina": 109
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular - Matemática - 3º Ano",
+    "document": "PÁGINA 290",
+    "version": "2023",
+    "file": "base-nacional-comum-curricular-matematica-3-ano-continuacao.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "3º Ano do Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Matemática"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "Unidade de Milhar",
+        "nome": "Composição e decomposição de números naturais"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Composição e decomposição de números naturais (até quatro ordens)",
+          "contexto": {
+            "tipo": "Procedimentos de cálculo (mental e escrito) com números naturais: adição e subtração",
+            "nome": "Procedimentos de cálculo (mental e escrito) com números naturais: adição e subtração"
+          },
+          "objetosConhecimento": [
+            {
+              "nome": "Identificar características do sistema de numeração decimal, utilizando a composição e a decomposição de número natural de até quatro ordens",
+              "habilidades": [
+                {
+                  "codigo": "EF03MA02",
+                  "descricao": "Identificar características do sistema de numeração decimal, utilizando a composição e a decomposição de número natural de até quatro ordens",
+                  "anos": [
+                    3
+                  ],
+                  "fonte": {
+                    "pagina": 290
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

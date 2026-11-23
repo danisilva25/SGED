@@ -1,0 +1,297 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "LÍNGUA INGLESA – 8º ANO",
+    "version": "2023",
+    "file": "Página 257-260"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental (8º ano)"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Inglesa"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Inglesa"
+      },
+      "organizacao": {
+        "tipo": "Eixos",
+        "nome": "Eixos"
+      },
+      "estrutura": [
+        {
+          "tipo": "Eixo",
+          "nome": "Oralidade",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Práticas de compreensão e produção oral de língua inglesa, em diferentes contextos discursivos presenciais ou simulados, com repertório de falas diversas, incluída a fala do professor",
+              "habilidades": [
+                {
+                  "codigo": "EF08LI01",
+                  "descricao": "Negociação de sentidos (mal-entendidos no uso da língua inglesa e conflito de opiniões)",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 257
+                  }
+                },
+                {
+                  "codigo": "EF08LI02",
+                  "descricao": "Usos de recursos linguísticos e paralinguísticos no intercâmbio oral",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 257
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Compreensão oral",
+              "habilidades": [
+                {
+                  "codigo": "EF08LI03",
+                  "descricao": "Compreensão de textos orais, multimodais, de cunho informativo/jornalístico",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 257
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Produção oral",
+              "habilidades": [
+                {
+                  "codigo": "EF08LI04",
+                  "descricao": "Produção de textos orais com autonomia",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 257
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Eixo",
+          "nome": "Leitura",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Práticas de leitura de textos diversos em língua inglesa (verbais, verbo-visuais, multimodais) presentes em diferentes suportes e esferas de circulação",
+              "habilidades": [
+                {
+                  "codigo": "EF08LI05",
+                  "descricao": "Construção de sentidos por meio de inferências e reconhecimento de implícitos",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 258
+                  }
+                },
+                {
+                  "codigo": "EF08LI06",
+                  "descricao": "Leitura de textos de cunho artístico/literário",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 258
+                  }
+                },
+                {
+                  "codigo": "EF08LI07",
+                  "descricao": "Explorar ambientes virtuais e/ou aplicativos para acessar e usufruir do patrimônio artístico literário em língua inglesa",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 258
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Eixo",
+          "nome": "Escrita",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Práticas de produção de textos em língua inglesa relacionados ao cotidiano dos alunos, presentes em diferentes suportes e esferas de circulação",
+              "habilidades": [
+                {
+                  "codigo": "EF08LI09",
+                  "descricao": "Revisão de textos com a mediação do professor",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 258
+                  }
+                },
+                {
+                  "codigo": "EF08LI10",
+                  "descricao": "Avaliar a própria produção escrita e a de colegas, com base no contexto de comunicação",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 258
+                  }
+                },
+                {
+                  "codigo": "EF08LI11",
+                  "descricao": "Produção de textos escritos com mediação do professor/colegas",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 258
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Eixo",
+          "nome": "Conhecimentos Linguísticos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Estudo do léxico",
+              "habilidades": [
+                {
+                  "codigo": "EF08LI12",
+                  "descricao": "Construção de repertório lexical (relativo a planos, previsões e expectativas para o futuro)",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 260
+                  }
+                },
+                {
+                  "codigo": "EF08LI13",
+                  "descricao": "Formação de palavras: prefixos e sufixos",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 260
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Gramática",
+              "habilidades": [
+                {
+                  "codigo": "EF08LI14",
+                  "descricao": "Verbos para indicar o futuro",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 260
+                  }
+                },
+                {
+                  "codigo": "EF08LI15",
+                  "descricao": "Comparativos e superlativos",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 260
+                  }
+                },
+                {
+                  "codigo": "EF08LI16",
+                  "descricao": "Quantificadores",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 260
+                  }
+                },
+                {
+                  "codigo": "EF08LI17",
+                  "descricao": "Pronomes relativos",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 260
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Eixo",
+          "nome": "Dimensão Intercultural",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Manifestações culturais",
+              "habilidades": [
+                {
+                  "codigo": "EF08LI18",
+                  "descricao": "Construção de repertório artístico-cultural",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 260
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Comunicação intercultural",
+              "habilidades": [
+                {
+                  "codigo": "EF08LI19",
+                  "descricao": "Impacto de aspectos culturais na comunicação",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 260
+                  }
+                },
+                {
+                  "codigo": "EF08LI20",
+                  "descricao": "Fatores que podem impedir o entendimento entre pessoas de culturas diferentes",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 260
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC_GEOGRAFIA.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental I (1º e 2º ano do Ensino Fundamental)"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências Humanas"
+      },
+      "componenteCurricular": {
+        "nome": "Geografia"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Unidades Temáticas"
+      },
+      "estrutura": [
+        {
+          "tipo": "Unidade Temática",
+          "nome": "O sujeito e seu lugar no mundo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "O modo de vida das crianças em diferentes lugares",
+              "habilidades": [
+                {
+                  "codigo": "EF01GE01",
+                  "descricao": "Descrever características observadas de seus lugares de vivência (moradia, escola etc.) e identificar semelhanças e diferenças entre esses lugares.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 371
+                  }
+                },
+                {
+                  "codigo": "EF01GE02",
+                  "descricao": "Identificar semelhanças e diferenças entre jogos e brincadeiras de diferentes épocas e lugares.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 371
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Situações de convívio em diferentes lugares",
+              "habilidades": [
+                {
+                  "codigo": "EF01GE03",
+                  "descricao": "Identificar e relatar semelhanças e diferenças de usos do espaço público (praças, parques) para o lazer e diferentes manifestações.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 371
+                  }
+                },
+                {
+                  "codigo": "EF01GE04",
+                  "descricao": "Discutir e elaborar, coletivamente, regras de convívio em diferentes espaços (sala de aula, escola etc.).",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 371
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Unidade Temática",
+          "nome": "Conexões e escalas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Ciclos naturais e a vida cotidiana",
+              "habilidades": [
+                {
+                  "codigo": "EF01GE05",
+                  "descricao": "Observar e descrever ritmos naturais (dia e noite, variação de temperatura e umidade etc.) em diferentes escalas espaciais e temporais, comparando a sua realidade com outras.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 371
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Mundo do trabalho",
+              "habilidades": [
+                {
+                  "codigo": "EF01GE06",
+                  "descricao": "Descrever e comparar diferentes tipos de moradia ou objetos de uso cotidiano (brinquedos, roupas, mobiliários), considerando técnicas e materiais utilizados em sua produção.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 371
+                  }
+                },
+                {
+                  "codigo": "EF01GE07",
+                  "descricao": "Descrever as atividades extrativas (minerais, agropecuárias e industriais) de diferentes lugares, identificando os impactos ambientais.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 371
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Unidade Temática",
+          "nome": "Formas de representação e pensamento espacial",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Localização, orientação e representação espacial",
+              "habilidades": [
+                {
+                  "codigo": "EF01GE08",
+                  "descricao": "Identificar e elaborar diferentes formas de representação (desenhos, mapas mentais, maquetes) para representar componentes da paisagem dos lugares de vivência.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 371
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Unidade Temática",
+          "nome": "Natureza, ambientes e qualidade de vida",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Os recursos naturais: solo e água no campo e na cidade",
+              "habilidades": [
+                {
+                  "codigo": "EF01GE09",
+                  "descricao": "Reconhecer a importância do solo e da água para a vida, identificando seus diferentes usos (plantação e extração de materiais, entre outras possibilidades) e os impactos desses usos no cotidiano da cidade e do campo.",
+                  "anos": [
+                    1
+                  ],
+                  "fonte": {
+                    "pagina": 371
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

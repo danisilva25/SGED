@@ -1,0 +1,197 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC_Ciências_Ensino_Fundamental.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências da Natureza"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Matéria e energia"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Misturas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Transformações reversíveis e não reversíveis",
+              "habilidades": [
+                {
+                  "codigo": "EF04CI01",
+                  "descricao": "Identificar misturas na vida diária, com base em suas propriedades físicas observáveis, reconhecendo sua composição.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 341
+                  }
+                },
+                {
+                  "codigo": "EF04CI02",
+                  "descricao": "Testar e relatar transformações nos materiais do dia a dia quando expostos a diferentes condições (aquecimento, resfriamento, luz e umidade).",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 341
+                  }
+                },
+                {
+                  "codigo": "EF04CI03",
+                  "descricao": "Concluir que algumas mudanças causadas por aquecimento ou resfriamento são reversíveis (como as mudanças de estado físico da água) e outras não (como o cozimento do ovo, a queima do papel etc.).",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 341
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Vida e evolução",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Cadeias alimentares simples",
+              "habilidades": [
+                {
+                  "codigo": "EF04CI04",
+                  "descricao": "Analisar e construir cadeias alimentares simples, reconhecendo a posição ocupada pelos seres vivos nessas cadeias e o papel do Sol como fonte primária de energia na produção de alimentos.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 341
+                  }
+                },
+                {
+                  "codigo": "EF04CI05",
+                  "descricao": "Descrever e destacar semelhanças e diferenças entre o ciclo da matéria e o fluxo de energia entre os componentes vivos e não vivos de um ecossistema.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 341
+                  }
+                },
+                {
+                  "codigo": "EF04CI06",
+                  "descricao": "Identificar os principais componentes de um ecossistema e suas interações.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 341
+                  }
+                },
+                {
+                  "codigo": "EF04CI07",
+                  "descricao": "Explicar a importância da diversidade biológica para a estabilidade do ecossistema.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 341
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Ecosistemas",
+              "habilidades": [
+                {
+                  "codigo": "EF04CI08",
+                  "descricao": "Identificar os principais tipos de ecossistemas e suas características.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 341
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Terra e Universo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Movimento da Terra",
+              "habilidades": [
+                {
+                  "codigo": "EF04CI09",
+                  "descricao": "Explicar o movimento da Terra em torno do Sol e suas consequências.",
+                  "anos": [
+                    4
+                  ],
+                  "fonte": {
+                    "pagina": 341
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências da Natureza"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Matéria e energia"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Misturas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Transformações reversíveis e não reversíveis",
+              "habilidades": [
+                {
+                  "codigo": "EF05CI01",
+                  "descricao": "Identificar misturas na vida diária, com base em suas propriedades físicas observáveis, reconhecendo sua composição.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 342
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

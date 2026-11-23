@@ -1,0 +1,241 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "LÍNGUA PORTUGUESA – 8º E 9º ANOS",
+    "version": "2023",
+    "file": "PÁGINA 180"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "8º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "LÍNGUA PORTUGUESA"
+      },
+      "componenteCurricular": {
+        "nome": "PRÁTICAS DE LINGUAGEM"
+      },
+      "organizacao": {
+        "tipo": "CAMPO JORNALÍSTICO-MIDIÁTICO",
+        "nome": "Objetos de Conhecimento"
+      },
+      "estrutura": [
+        {
+          "tipo": "HABILIDADES",
+          "nome": "Leitura",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Reconstrução do contexto de produção, circulação e recepção de textos",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP01",
+                  "descricao": "Analisar os interesses que movem o campo jornalístico, os efeitos das novas tecnologias no campo e as condições que fazem da informação uma mercadoria, de forma a poder desenvolver uma atitude crítica frente aos textos jornalísticos.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                },
+                {
+                  "codigo": "EF08LP01",
+                  "descricao": "Identificar e comparar as várias editorias de jornais impressos e digitais e de sites noticiosos, de forma a refletir sobre os tipos de fato que são noticiados e comentados, as escolhas sobre o que noticiar e o que não noticiar e o destaque/enfoque dado e a fidedignidade da informação.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                },
+                {
+                  "codigo": "EF09LP01",
+                  "descricao": "Analisar o fenômeno da disseminação de notícias falsas nas redes sociais e desenvolver estratégias para reconhecê-las, a partir da verificação/avaliação do veículo, fonte, data e local da publicação, autoria, URL, da análise da formatação, da comparação de diferentes fontes, da consulta a sites de curadoria que atestam a fidedignidade do relato dos fatos e denunciam boatos etc.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                },
+                {
+                  "codigo": "EF89LP02",
+                  "descricao": "Analisar diferentes práticas (curtir, compartilhar, comentar, curar etc.) e textos pertencentes a diferentes gêneros da cultura digital (meme, gif, comentário, charge digital etc.) envolvidos no trato com a informação e opinião, de forma a possibilitar uma presença mais crítica e ética nas redes.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Apreciação e réplica",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP03",
+                  "descricao": "Analisar textos de opinião (artigos de opinião, editoriais, cartas de leitores, comentários, posts de blog e de redes sociais, charges, memes, gifs etc.) e posicionar-se de forma crítica e fundamentada, ética e respeitosa frente a fatos e opiniões relacionados a esses textos.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                },
+                {
+                  "codigo": "EF08LP02",
+                  "descricao": "Justificar diferenças ou semelhanças no tratamento dado a uma mesma informação veiculada em textos diferentes, consultando sites e serviços de checadores de fatos.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                },
+                {
+                  "codigo": "EF09LP02",
+                  "descricao": "Analisar e comentar a cobertura da imprensa sobre fatos de relevância social, comparando diferentes enfoques por meio do uso de ferramentas de curadoria.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Efeitos de sentido",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP04",
+                  "descricao": "Identificar e avaliar teses/opiniões/posicionamentos explícitos e implícitos, argumentos e contra-argumentos em textos argumentativos do campo (carta de leitor, comentário, artigo de opinião, resenha crítica etc.), posicionando-se frente à questão controversa de forma sustentada.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                },
+                {
+                  "codigo": "EF89LP05",
+                  "descricao": "Analisar o efeito de sentido produzido pelo uso, em textos, de recurso a formas de apropriação textual (paráfrases, citações, discurso direto, indireto ou indireto livre).",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                },
+                {
+                  "codigo": "EF89LP06",
+                  "descricao": "Analisar o uso de recursos persuasivos em textos argumentativos diversos (como a elaboração do título, escolhas lexicais, construções metafóricas, a explicitação ou a ocultação de fontes de informação) e seus efeitos de sentido.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Exploração da multissemiose",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP07",
+                  "descricao": "Analisar, em notícias, reportagens e peças publicitárias em várias mídias, os efeitos de sentido devidos ao tratamento e à composição dos elementos nas imagens em movimento, à performance, à montagem feita (ritmo, duração e sincronização entre as linguagens – complementaridades, interferências etc.) e ao ritmo, melodia, instrumentos e sampleamentos das músicas e efeitos sonoros.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "9º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "LÍNGUA PORTUGUESA"
+      },
+      "componenteCurricular": {
+        "nome": "PRÁTICAS DE LINGUAGEM"
+      },
+      "organizacao": {
+        "tipo": "CAMPO JORNALÍSTICO-MIDIÁTICO",
+        "nome": "Objetos de Conhecimento"
+      },
+      "estrutura": [
+        {
+          "tipo": "HABILIDADES",
+          "nome": "Produção de textos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Estratégia de produção: planejamento de textos informativos",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP08",
+                  "descricao": "Planejar reportagem impressa e em outras mídias (rádio ou TV/vídeo, sites), tendo em vista as condições de produção do texto – objetivo, leitores/espectadores, veículos e mídia de circulação etc. – a partir da escolha do fato a ser aprofundado ou do tema a ser focado (de relevância para a turma, escola ou comunidade), do levantamento de dados e informações sobre o fato ou tema – que pode envolver entrevistas com envolvidos ou com especialistas, consultas a fontes diversas, análise de documentos, cobertura de eventos etc. -, do registro dessas informações e dados, da escolha do editora, do texto, da imagem, do vídeo, do áudio, do link, do site, do blog, do podcast, do vídeo, do infográfico, do mapa mental, do diagrama, do gráfico, do quadro de dados, do relatório, do estudo de caso, do projeto, do trabalho, do relatório, do documento, do material didático, do material de apoio, do material de estudo, do material de aula, do material de trabalho, do material de pesquisa, do material de estudo, do material de aula, do material de trabalho, do material de pesquisa, do material de estudo, do material de aula, do material de trabalho, do material de pesquisa, do material de estudo, do material de aula, do material de trabalho, do material de pesquisa.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Estratégia de produção: produção de textos informativos",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP09",
+                  "descricao": "Produzir reportagens impressas e em outras mídias (rádio ou TV/vídeo, sites), tendo em vista as condições de produção do texto – objetivo, leitores/espectadores, veículos e mídia de circulação etc. – a partir da escolha do fato a ser aprofundado ou do tema a ser focado (de relevância para a turma, escola ou comunidade), do levantamento de dados e informações sobre o fato ou tema – que pode envolver entrevistas com envolvidos ou com especialistas, consultas a fontes diversas, análise de documentos, cobertura de eventos etc. – do registro dessas informações e dados, da escolha do editora, do texto, da imagem, do vídeo, do áudio, do link, do site, do blog, do podcast, do vídeo, do infográfico, do mapa mental, do diagrama, do gráfico, do quadro de dados, do relatório, do estudo de caso, do projeto, do trabalho, do relatório, do documento, do material didático, do material de apoio, do material de estudo, do material de aula, do material de trabalho, do material de pesquisa, do material de estudo, do material de aula, do material de trabalho, do material de pesquisa.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Estratégia de produção: produção de textos argumentativos",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP10",
+                  "descricao": "Produzir textos argumentativos, tendo em vista as condições de produção do texto – objetivo, leitores/espectadores, veículos e mídia de circulação etc. – a partir da escolha do fato a ser aprofundado ou do tema a ser focado (de relevância para a turma, escola ou comunidade), do levantamento de dados e informações sobre o fato ou tema – que pode envolver entrevistas com envolvidos ou com especialistas, consultas a fontes diversas, análise de documentos, cobertura de eventos etc. – do registro dessas informações e dados, da escolha do editora, do texto, da imagem, do vídeo, do áudio, do link, do site, do blog, do podcast, do vídeo, do infográfico, do mapa mental, do diagrama, do gráfico, do quadro de dados, do relatório, do estudo de caso, do projeto, do trabalho, do relatório, do documento, do material didático, do material de apoio, do material de estudo, do material de aula, do material de trabalho, do material de pesquisa, do material de estudo, do material de aula, do material de trabalho, do material de pesquisa.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 180
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

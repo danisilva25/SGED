@@ -1,0 +1,269 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "MATEMÁTICA – 5º ANO (Continuação)",
+    "version": "2023",
+    "file": "página_299_300.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - Anos Finais (5º ano do Ensino Fundamental)"
+      },
+      "areaConhecimento": {
+        "nome": "Matemática"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Geometria"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Utilizar e compreender diferentes representações para a localização de objetos no plano, como mapas, células em planilhas eletrônicas e coordenadas geográficas, a fim de desenvolver as primeiras noções de coordenadas cartesianas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Plano cartesiano: coordenadas cartesianas (1º quadrante) e representação de deslocamentos no plano cartesiano",
+              "habilidades": [
+                {
+                  "codigo": "EF05MA14",
+                  "descricao": "Utilizar e compreender diferentes representações para a localização de objetos no plano, como mapas, células em planilhas eletrônicas e coordenadas geográficas, a fim de desenvolver as primeiras noções de coordenadas cartesianas.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 299
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Interpretar, descrever e representar a localização ou movimentação de objetos no plano cartesiano (1º quadrante), utilizando coordenadas cartesianas, indicando mudanças de direção e de sentido e giros",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Plano cartesiano: coordenadas cartesianas (1º quadrante) e representação de deslocamentos no plano cartesiano",
+              "habilidades": [
+                {
+                  "codigo": "EF05MA15",
+                  "descricao": "Interpretar, descrever e representar a localização ou movimentação de objetos no plano cartesiano (1º quadrante), utilizando coordenadas cartesianas, indicando mudanças de direção e de sentido e giros.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 299
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Associar figuras espaciais a suas planificações (prismas, pirâmides, cilindros e cones) e analisar, nomear e comparar seus atributos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Figuras geométricas espaciais: reconhecimento, representações, planificações e características",
+              "habilidades": [
+                {
+                  "codigo": "EF05MA16",
+                  "descricao": "Associar figuras espaciais a suas planificações (prismas, pirâmides, cilindros e cones) e analisar, nomear e comparar seus atributos.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 299
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Reconhecer, nomear e comparar polígonos, considerando lados, vértices e ângulos, e desenhá-los, utilizando material de desenho ou tecnologias digitais",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Figuras geométricas planas: características, representações e ângulos",
+              "habilidades": [
+                {
+                  "codigo": "EF05MA17",
+                  "descricao": "Reconhecer, nomear e comparar polígonos, considerando lados, vértices e ângulos, e desenhá-los, utilizando material de desenho ou tecnologias digitais.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 299
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Reconhecer a congruência dos ângulos e a proporcionalidade entre os lados correspondentes de figuras poligonais em situações de ampliação e de redução em malhas quadriculadas e usando tecnologias digitais",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Ampliação e redução de figuras poligonais em malhas quadriculadas: reconhecimento da congruência dos ângulos e da proporcionalidade dos lados correspondentes",
+              "habilidades": [
+                {
+                  "codigo": "EF05MA18",
+                  "descricao": "Reconhecer a congruência dos ângulos e a proporcionalidade entre os lados correspondentes de figuras poligonais em situações de ampliação e de redução em malhas quadriculadas e usando tecnologias digitais.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 299
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Resolver e elaborar problemas envolvendo medidas das grandezas comprimento, área, massa, tempo, temperatura e capacidade, recorrendo a transformações entre as unidades mais usuais em contextos socioculturais",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Medidas de comprimento, área, massa, tempo, temperatura e capacidade: utilização de unidades convencionais e relações entre as unidades de medida mais usuais",
+              "habilidades": [
+                {
+                  "codigo": "EF05MA19",
+                  "descricao": "Resolver e elaborar problemas envolvendo medidas das grandezas comprimento, área, massa, tempo, temperatura e capacidade, recorrendo a transformações entre as unidades mais usuais em contextos socioculturais.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 299
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Concluir, por meio de investigações, que figuras de perímetros iguais podem ter áreas diferentes e que, também, figuras que têm a mesma área podem ter perímetros diferentes",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Áreas e perímetros de figuras poligonais: algumas relações",
+              "habilidades": [
+                {
+                  "codigo": "EF05MA20",
+                  "descricao": "Concluir, por meio de investigações, que figuras de perímetros iguais podem ter áreas diferentes e que, também, figuras que têm a mesma área podem ter perímetros diferentes.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 299
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Reconhecer volume como grandeza associada a sólidos geométricos e medir volumes por meio de empilhamento de cubos, utilizando, preferencialmente, objetos concretos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Noção de volume",
+              "habilidades": [
+                {
+                  "codigo": "EF05MA21",
+                  "descricao": "Reconhecer volume como grandeza associada a sólidos geométricos e medir volumes por meio de empilhamento de cubos, utilizando, preferencialmente, objetos concretos.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 299
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Apresentar todos os possíveis resultados de um experimento aleatório, estimando se esses resultados são igualmente prováveis ou não",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Espaço amostral: análise de chances de eventos aleatórios",
+              "habilidades": [
+                {
+                  "codigo": "EF05MA22",
+                  "descricao": "Apresentar todos os possíveis resultados de um experimento aleatório, estimando se esses resultados são igualmente prováveis ou não.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 299
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Calcular probabilidades simples e interpretar resultados",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Probabilidades",
+              "habilidades": [
+                {
+                  "codigo": "EF05MA23",
+                  "descricao": "Calcular probabilidades simples e interpretar resultados.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 299
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Concluir, por meio de investigações, que figuras de perímetros iguais podem ter áreas diferentes e que, também, figuras que têm a mesma área podem ter perímetros diferentes",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Áreas e perímetros de figuras poligonais: algumas relações",
+              "habilidades": [
+                {
+                  "codigo": "EF05MA20",
+                  "descricao": "Concluir, por meio de investigações, que figuras de perímetros iguais podem ter áreas diferentes e que, também, figuras que têm a mesma área podem ter perímetros diferentes.",
+                  "anos": [
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 299
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

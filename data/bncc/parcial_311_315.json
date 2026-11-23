@@ -1,0 +1,137 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC_MATEMATICA.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Matemática"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Geometria"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Realizar transformações de polígonos representados no plano cartesiano, decorrentes da multiplicação das coordenadas de seus vértices por um número inteiro.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Transformações geométricas de polígonos no plano cartesiano: multiplicação das coordenadas por um número inteiro e obtenção de simétricos em relação aos eixos e à origem",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA19",
+                  "descricao": "Realizar transformações de polígonos representados no plano cartesiano, decorrentes da multiplicação das coordenadas de seus vértices por um número inteiro.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 313
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Obter simétricos em relação aos eixos e à origem",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Transformações geométricas de polígonos no plano cartesiano: multiplicação das coordenadas por um número inteiro e obtenção de simétricos em relação aos eixos e à origem",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA19",
+                  "descricao": "Realizar transformações de polígonos representados no plano cartesiano, decorrentes da multiplicação das coordenadas de seus vértices por um número inteiro.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 313
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar simétricos em relação aos eixos e à origem",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Transformações geométricas de polígonos no plano cartesiano: multiplicação das coordenadas por um número inteiro e obtenção de simétricos em relação aos eixos e à origem",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA19",
+                  "descricao": "Realizar transformações de polígonos representados no plano cartesiano, decorrentes da multiplicação das coordenadas de seus vértices por um número inteiro.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 313
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar simétricos em relação aos eixos e à origem",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Transformações geométricas de polígonos no plano cartesiano: multiplicação das coordenadas por um número inteiro e obtenção de simétricos em relação aos eixos e à origem",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA19",
+                  "descricao": "Realizar transformações de polígonos representados no plano cartesiano, decorrentes da multiplicação das coordenadas de seus vértices por um número inteiro.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 313
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar simétricos em relação aos eixos e à origem",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Transformações geométricas de polígonos no plano cartesiano: multiplicação das coordenadas por um número inteiro e obtenção de simétricos em relação aos eixos e à origem",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA19",
+                  "descricao": "Realizar transformações de polígonos representados no plano cartesiano, decorrentes da multiplicação das coordenadas de seus vértices por um número inteiro.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 313
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular - Ciências - 8º Ano",
+    "document": "BASE NACIONAL COMUM CURRICULAR CIÊNCIAS – 8º ANO",
+    "version": "2023",
+    "file": "348BASE NACIONAL COMUM CURRICULARCIÊNCIAS – 8º ANO"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "8º Ano"
+      },
+      "areaConhecimento": {
+        "nome": "Materia e energia"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "Anual",
+        "nome": "Ano Letivo"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objetos de Conhecimento",
+          "nome": "Fontes e tipos de energia",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF08CI01",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI01",
+                  "descricao": "Identificar e classificar diferentes fontes (renováveis e não renováveis) e tipos de energia utilizados em residências, comunidades ou cidades.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF08CI02",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI02",
+                  "descricao": "Construir circuitos elétricos com pilha/bateria, fios e lâmpada ou outros dispositivos e compará-los a circuitos elétricos residenciais.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF08CI03",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI03",
+                  "descricao": "Classificar equipamentos elétricos residenciais (chuveiro, ferro, lâmpadas, TV, rádio, geladeira etc.) de acordo com o tipo de transformação de energia (da energia elétrica para a térmica, luminosa, sonora e mecânica, por exemplo).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF08CI04",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI04",
+                  "descricao": "Calcular o consumo de eletrodomésticos a partir dos dados de potência (descritos no próprio equipamento) e tempo médio de uso para avaliar o impacto de cada equipamento no consumo doméstico mensal.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF08CI05",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI05",
+                  "descricao": "Propor ações coletivas para otimizar o uso de energia elétrica em sua escola e/ou comunidade, com base na seleção de equipamentos segundo critérios de sustentabilidade (consumo de energia e eficiência energética) e hábitos de consumo responsável.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF08CI06",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI06",
+                  "descricao": "Discutir e avaliar usinas de geração de energia elétrica (termelétricas, hidrelétricas, eólicas etc.), suas semelhanças e diferenças, seus impactos socioambientais, e como essa energia chega e é usada em sua cidade, comunidade, casa ou escola.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "8º Ano"
+      },
+      "areaConhecimento": {
+        "nome": "Vida e evolução"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "Anual",
+        "nome": "Ano Letivo"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objetos de Conhecimento",
+          "nome": "Mecanismos reprodutivos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF08CI07",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI07",
+                  "descricao": "Comparar diferentes processos reprodutivos em plantas e animais em relação aos mecanismos adaptativos e evolutivos.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF08CI08",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI08",
+                  "descricao": "Analisar e explicar as transformações que ocorrem na puberdade considerando a atuação dos hormônios sexuais e do sistema nervoso.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF08CI09",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI09",
+                  "descricao": "Comparar o modo de ação e a eficácia dos diversos métodos contraceptivos e justificar a necessidade de compartilhar a responsabilidade na escolha e na utilização do método mais adequado à prevenção da gravidez precoce e indesejada e de Doenças Sexualmente Transmissíveis (DST).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF08CI10",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI10",
+                  "descricao": "Identificar os principais sintomas, modos de transmissão e tratamento de algumas DST (com ênfase na AIDS), e discutir estratégias e métodos de prevenção.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF08CI11",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI11",
+                  "descricao": "Selecionar argumentos que evidenciem as múltiplas dimensões da sexualidade humana (biológica, sociocultural, afetiva e ética).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "8º Ano"
+      },
+      "areaConhecimento": {
+        "nome": "Terra e Universo"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências"
+      },
+      "organizacao": {
+        "tipo": "Anual",
+        "nome": "Ano Letivo"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objetos de Conhecimento",
+          "nome": "Sistema Sol, Terra e Lua",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF08CI12",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI12",
+                  "descricao": "Justificar, por meio da construção de modelos e da observação da Lua no céu, a ocorrência das fases da Lua e dos eclipses, com base nas posições relativas entre Sol, Terra e Lua.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF08CI13",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI13",
+                  "descricao": "Explicar a rotação da Terra e a relação com o movimento aparente dos astros no céu.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF08CI14",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI14",
+                  "descricao": "Relacionar a inclinação da Terra em relação ao Sol e a variação de clima ao longo do ano.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objetos de Conhecimento",
+          "nome": "Terra e Universo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF08CI15",
+              "habilidades": [
+                {
+                  "codigo": "EF08CI15",
+                  "descricao": "Identificar e explicar os fenômenos naturais relacionados à gravidade, como a queda de objetos e a órbita dos planetas.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 348
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

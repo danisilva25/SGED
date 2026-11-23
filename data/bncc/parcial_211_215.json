@@ -1,0 +1,756 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Música"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Contextos e práticas"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Analisar criticamente, por meio da apreciação musical, usos e funções da música em seus contextos de produção e circulação, relacionando as práticas musicais às diferentes dimensões da vida social, cultural, política, histórica, econômica, estética e ética.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR16",
+                  "descricao": "Analisar criticamente, por meio da apreciação musical, usos e funções da música em seus contextos de produção e circulação, relacionando as práticas musicais às diferentes dimensões da vida social, cultural, política, histórica, econômica, estética e ética.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar, criticamente, diferentes meios e equipamentos culturais de circulação da música e do conhecimento musical.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR17",
+                  "descricao": "Explorar e analisar, criticamente, diferentes meios e equipamentos culturais de circulação da música e do conhecimento musical.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Reconhecer e apreciar o papel de músicos e grupos de música brasileiros e estrangeiros que contribuíram para o desenvolvimento de formas e gêneros musicais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR18",
+                  "descricao": "Reconhecer e apreciar o papel de músicos e grupos de música brasileiros e estrangeiros que contribuíram para o desenvolvimento de formas e gêneros musicais.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar e analisar diferentes estilos musicais, contextualizando-os no tempo e no espaço, de modo a aprimorar a capacidade de apreciação da estética musical.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR19",
+                  "descricao": "Identificar e analisar diferentes estilos musicais, contextualizando-os no tempo e no espaço, de modo a aprimorar a capacidade de apreciação da estética musical.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR20",
+                  "descricao": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar fontes e materiais sonoros em práticas de composição/criação, execução e apreciação musical, reconhecendo timbres e características de instrumentos musicais diversos.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR21",
+                  "descricao": "Explorar e analisar fontes e materiais sonoros em práticas de composição/criação, execução e apreciação musical, reconhecendo timbres e características de instrumentos musicais diversos.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar diferentes meios e equipamentos culturais de circulação da música e do conhecimento musical.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR22",
+                  "descricao": "Explorar e analisar diferentes meios e equipamentos culturais de circulação da música e do conhecimento musical.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR23",
+                  "descricao": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar fontes e materiais sonoros em práticas de composição/criação, execução e apreciação musical, reconhecendo timbres e características de instrumentos musicais diversos.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR24",
+                  "descricao": "Explorar e analisar fontes e materiais sonoros em práticas de composição/criação, execução e apreciação musical, reconhecendo timbres e características de instrumentos musicais diversos.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Teatro"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Contextos e práticas"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Analisar criticamente, por meio da apreciação musical, usos e funções da música em seus contextos de produção e circulação, relacionando as práticas musicais às diferentes dimensões da vida social, cultural, política, histórica, econômica, estética e ética.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Teatro",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR16",
+                  "descricao": "Analisar criticamente, por meio da apreciação musical, usos e funções da música em seus contextos de produção e circulação, relacionando as práticas musicais às diferentes dimensões da vida social, cultural, política, histórica, econômica, estética e ética.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Dança"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Contextos e práticas"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Analisar criticamente, por meio da apreciação musical, usos e funções da música em seus contextos de produção e circulação, relacionando as práticas musicais às diferentes dimensões da vida social, cultural, política, histórica, econômica, estética e ética.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Dança",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR16",
+                  "descricao": "Analisar criticamente, por meio da apreciação musical, usos e funções da música em seus contextos de produção e circulação, relacionando as práticas musicais às diferentes dimensões da vida social, cultural, política, histórica, econômica, estética e ética.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Artes Visuais"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Contextos e práticas"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Analisar criticamente, por meio da apreciação musical, usos e funções da música em seus contextos de produção e circulação, relacionando as práticas musicais às diferentes dimensões da vida social, cultural, política, histórica, econômica, estética e ética.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Artes Visuais",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR16",
+                  "descricao": "Analisar criticamente, por meio da apreciação musical, usos e funções da música em seus contextos de produção e circulação, relacionando as práticas musicais às diferentes dimensões da vida social, cultural, política, histórica, econômica, estética e ética.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Música"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Elementos Musicais"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR20",
+                  "descricao": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Música"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Música e Cultura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Analisar criticamente, por meio da apreciação musical, usos e funções da música em seus contextos de produção e circulação, relacionando as práticas musicais às diferentes dimensões da vida social, cultural, política, histórica, econômica, estética e ética.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR16",
+                  "descricao": "Analisar criticamente, por meio da apreciação musical, usos e funções da música em seus contextos de produção e circulação, relacionando as práticas musicais às diferentes dimensões da vida social, cultural, política, histórica, econômica, estética e ética.",
+                  "anos": [
+                    6,
+                    7,
+                    10,
+                    11
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Música"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Música e Cultura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR20",
+                  "descricao": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Música"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Música e Cultura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR20",
+                  "descricao": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Música"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Música e Cultura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR20",
+                  "descricao": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Música"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Música e Cultura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR20",
+                  "descricao": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Música"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Música e Cultura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR20",
+                  "descricao": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Música"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Música e Cultura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR20",
+                  "descricao": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Artes"
+      },
+      "componenteCurricular": {
+        "nome": "Música"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Música e Cultura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Música",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR20",
+                  "descricao": "Explorar e analisar elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de recursos tecnológicos (games e plataformas digitais), jogos, canções e práticas diversas de composição/criação, execução e apreciação musicais.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 211
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

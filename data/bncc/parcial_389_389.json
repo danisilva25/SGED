@@ -1,0 +1,230 @@
+{
+  "source": {
+    "name": "BNCC",
+    "document": "Base Nacional Comum Curricular",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências Humanas"
+      },
+      "componenteCurricular": {
+        "nome": "Geografia"
+      },
+      "organizacao": {
+        "tipo": "Anual",
+        "nome": "7º ano"
+      },
+      "estrutura": [
+        {
+          "tipo": "Unidade Temática",
+          "nome": "Sujeito e seu lugar no mundo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Ideias e concepções sobre a formação territorial do Brasil",
+              "habilidades": [
+                {
+                  "codigo": "EF07GE01",
+                  "descricao": "Avaliar, por meio de exemplos extraídos dos meios de comunicação, ideias e estereótipos acerca das paisagens e da formação territorial do Brasil.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                },
+                {
+                  "codigo": "EF07GE02",
+                  "descricao": "Analisar a influência dos fluxos econômicos e populacionais na formação socioeconômica e territorial do Brasil, compreendendo os conflitos e as tensões históricas e contemporâneas.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                },
+                {
+                  "codigo": "EF07GE03",
+                  "descricao": "Selecionar argumentos que reconheçam as territorialidades dos povos indígenas originários, das comunidades remanescentes de quilombos, de povos das florestas e do cerrado, de ribeirinhos e caiçaras, entre outros grupos sociais do campo e da cidade, como direitos legais dessas comunidades.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                },
+                {
+                  "codigo": "EF07GE04",
+                  "descricao": "Analisar a distribuição territorial da população brasileira, considerando a diversidade étnico-cultural (indígena, africana, europeia e asiática), assim como aspectos de renda, sexo e idade nas regiões brasileiras.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Formação territorial do Brasil",
+              "habilidades": [
+                {
+                  "codigo": "EF07GE05",
+                  "descricao": "Analisar fatos e situações representativas das alterações ocorridas entre o período mercantilista e o advento do capitalismo.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                },
+                {
+                  "codigo": "EF07GE06",
+                  "descricao": "Discutir em que medida a produção, a circulação e o consumo de mercadorias provocam impactos ambientais, assim como influem na distribuição de riquezas, em diferentes lugares.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                },
+                {
+                  "codigo": "EF07GE07",
+                  "descricao": "Analisar a influência e o papel das redes de transporte e comunicação na configuração do território brasileiro.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                },
+                {
+                  "codigo": "EF07GE08",
+                  "descricao": "Estabelecer relações entre os processos de industrialização e inovação tecnológica com as transformações socioeconômicas do território brasileiro.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Características da população brasileira",
+              "habilidades": [
+                {
+                  "codigo": "EF07GE09",
+                  "descricao": "Interpretar e elaborar mapas temáticos e históricos, inclusive utilizando tecnologias digitais, com informações demográficas e econômicas do Brasil (cartogramas), identificando padrões espaciais, regionalizações e analogias espaciais.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                },
+                {
+                  "codigo": "EF07GE10",
+                  "descricao": "Elaborar e interpretar gráficos de barras, gráficos de setores e histogramas, com base em dados socioeconômicos das regiões brasileiras.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Unidade Temática",
+          "nome": "Mundo do trabalho",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Produção, circulação e consumo de mercadorias",
+              "habilidades": [
+                {
+                  "codigo": "EF07GE11",
+                  "descricao": "Caracterizar dinâmicas dos componentes físico-naturais no território nacional, bem como sua distribuição e biodiversidade (Florestas Tropicais, Cerrados, Caatingas, Campos Sulinos e Matas de Araucária).",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Desigualdade social e o trabalho",
+              "habilidades": [
+                {
+                  "codigo": "EF07GE12",
+                  "descricao": "Comparar unidades de conservação existentes no Município de residência e em outras localidades brasileiras, com base na organização do Sistema Nacional de Unidades de Conservação (SNUC).",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Unidade Temática",
+          "nome": "Formas de representação e pensamento espacial",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Mapas temáticos do Brasil",
+              "habilidades": [
+                {
+                  "codigo": "EF07GE11",
+                  "descricao": "Caracterizar dinâmicas dos componentes físico-naturais no território nacional, bem como sua distribuição e biodiversidade (Florestas Tropicais, Cerrados, Caatingas, Campos Sulinos e Matas de Araucária).",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Unidade Temática",
+          "nome": "Natureza, ambientes e qualidade de vida",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Biodiversidade brasileira",
+              "habilidades": [
+                {
+                  "codigo": "EF07GE12",
+                  "descricao": "Comparar unidades de conservação existentes no Município de residência e em outras localidades brasileiras, com base na organização do Sistema Nacional de Unidades de Conservação (SNUC).",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 389
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

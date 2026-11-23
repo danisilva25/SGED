@@ -1,0 +1,137 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Geografia"
+      },
+      "componenteCurricular": {
+        "nome": "Geografia"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Formas de representação e pensamento espacial"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Leitura e elaboração de mapas temáticos, croquis e outras formas de representação para analisar informações geográficas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF09GE14",
+              "habilidades": [
+                {
+                  "codigo": "EF09GE14",
+                  "descricao": "Elaborar e interpretar gráficos de barras e de setores, mapas temáticos e esquemáticos (croquis) e anamorfoses geográficas para analisar, sintetizar e apresentar dados e informações sobre diversidade, diferenças e desigualdades sociopolíticas e geopolíticas mundiais.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 397
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Comparar e classificar diferentes regiões do mundo com base em informações populacionais, econômicas e socioambientais representadas em mapas temáticos e com diferentes projeções cartográficas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF09GE15",
+              "habilidades": [
+                {
+                  "codigo": "EF09GE15",
+                  "descricao": "Comparar e classificar diferentes regiões do mundo com base em informações populacionais, econômicas e socioambientais representadas em mapas temáticos e com diferentes projeções cartográficas.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 397
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Diversidade ambiental e as transformações nas paisagens na Europa, na Ásia e na Oceania",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF09GE16",
+              "habilidades": [
+                {
+                  "codigo": "EF09GE16",
+                  "descricao": "Identificar e comparar diferentes domínios morfoclimáticos da Europa, da Ásia e da Oceania.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 397
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar e comparar diferentes domínios morfoclimáticos da Europa, da Ásia e da Oceania",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF09GE17",
+              "habilidades": [
+                {
+                  "codigo": "EF09GE17",
+                  "descricao": "Explicar as características físico-naturais e a forma de ocupação e usos da terra em diferentes regiões da Europa, da Ásia e da Oceania.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 397
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Identificar e analisar as cadeias industriais e de inovação e as consequências dos usos de recursos naturais e das diferentes fontes de energia (tais como termoelétrica, hidrelétrica, eólica e nuclear) em diferentes países",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF09GE18",
+              "habilidades": [
+                {
+                  "codigo": "EF09GE18",
+                  "descricao": "Identificar e analisar as cadeias industriais e de inovação e as consequências dos usos de recursos naturais e das diferentes fontes de energia (tais como termoelétrica, hidrelétrica, eólica e nuclear) em diferentes países.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 397
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

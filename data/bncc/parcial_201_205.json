@@ -1,0 +1,347 @@
+{
+  "source": {
+    "name": "EF15AR12",
+    "document": "PÁGINA 204",
+    "version": "2023-09-20",
+    "file": "base-nacional-comum-curricular-ar-te-1-ao-5-ano-continuacao.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "1º ao 5º ano"
+      },
+      "areaConhecimento": {
+        "nome": "Arte"
+      },
+      "componenteCurricular": {
+        "nome": "Música"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Contexto e práticas (EF15AR13)"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Identificar e apreciar criticamente diversas formas e gêneros de expressão musical, reconhecendo e analisando os usos e as funções da música em diversos contextos de circulação, em especial, aqueles da vida cotidiana.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Contexto e práticas",
+              "habilidades": [
+                {
+                  "codigo": "EF15AR13",
+                  "descricao": "Identificar e apreciar criticamente diversas formas e gêneros de expressão musical, reconhecendo e analisando os usos e as funções da música em diversos contextos de circulação, em especial, aqueles da vida cotidiana.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 204
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Elementos da linguagem",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Elementos da linguagem",
+              "habilidades": [
+                {
+                  "codigo": "EF15AR14",
+                  "descricao": "Perceber e explorar os elementos constitutivos da música (altura, intensidade, timbre, melodia, ritmo etc.), por meio de jogos, brincadeiras, canções e práticas diversas de composição/criação, execução e apreciação musical.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 204
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Materialidades",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Materialidades",
+              "habilidades": [
+                {
+                  "codigo": "EF15AR15",
+                  "descricao": "Explorar fontes sonoras diversas, como as existentes no próprio corpo (palmas, voz, percussão corporal), na natureza e em objetos cotidianos, reconhecendo os elementos constitutivos da música e as características de instrumentos musicais variados.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 204
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Notação e registro musical",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Notação e registro musical",
+              "habilidades": [
+                {
+                  "codigo": "EF15AR16",
+                  "descricao": "Explorar diferentes formas de registro musical não convencional (representação gráfica de sons, partituras criativas etc.), bem como procedimentos e técnicas de registro em áudio e audiovisual, e reconhecer a notação musical convencional.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 204
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Processos de criação",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Processos de criação",
+              "habilidades": [
+                {
+                  "codigo": "EF15AR17",
+                  "descricao": "Experimentar improvisações, composições e sonorização de histórias, entre outros, utilizando vozes, sons corporais e/ou instrumentos musicais convencionais ou não convencionais, de modo individual, coletivo e colaborativo.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 204
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "1º ao 5º ano"
+      },
+      "areaConhecimento": {
+        "nome": "Arte"
+      },
+      "componenteCurricular": {
+        "nome": "Teatro"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Contextos e práticas (EF15AR18)"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Reconhecer e apreciar formas distintas de manifestações do teatro presentes em diferentes contextos, aprendendo a ver e a ouvir histórias dramatizadas e cultivando a percepção, o imaginário, a capacidade de simbolizar e o repertório ficcional.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Contextos e práticas",
+              "habilidades": [
+                {
+                  "codigo": "EF15AR18",
+                  "descricao": "Reconhecer e apreciar formas distintas de manifestações do teatro presentes em diferentes contextos, aprendendo a ver e a ouvir histórias dramatizadas e cultivando a percepção, o imaginário, a capacidade de simbolizar e o repertório ficcional.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 204
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Elementos da linguagem",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Elementos da linguagem",
+              "habilidades": [
+                {
+                  "codigo": "EF15AR19",
+                  "descricao": "Descobrir teatralidades na vida cotidiana, identificando elementos teatrais (variadas entonações de voz, diferentes fisicalidades, diversidade de personagens e narrativas etc.).",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 204
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Processos de criação",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Processos de criação",
+              "habilidades": [
+                {
+                  "codigo": "EF15AR20",
+                  "descricao": "Experimentar o trabalho colaborativo, coletivo e autoral em improvisações teatrais e processos narrativos criativos em teatro, explorando desde a teatralidade dos gestos e das ações do cotidiano até elementos de diferentes matrizes estéticas e culturais.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 204
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Processos de criação",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Processos de criação",
+              "habilidades": [
+                {
+                  "codigo": "EF15AR21",
+                  "descricao": "Exercitar a imitação e o faz de conta, ressignificando objetos e fatos e experimentando-se no lugar do outro, ao compor e encenar acontecimentos cênicos, por meio de músicas, imagens, textos ou outros pontos de partida, de forma intencional e reflexiva.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 204
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Processos de criação",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Processos de criação",
+              "habilidades": [
+                {
+                  "codigo": "EF15AR22",
+                  "descricao": "Não encontrado",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 204
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "1º ao 5º ano"
+      },
+      "areaConhecimento": {
+        "nome": "Arte"
+      },
+      "componenteCurricular": {
+        "nome": "Dança"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Contexto e práticas (EF15AR12)"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Contexto e práticas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Contexto e práticas",
+              "habilidades": [
+                {
+                  "codigo": "EF15AR12",
+                  "descricao": "Você está vendo o contexto e práticas para a dança, mas o código EF15AR12 não está presente no documento. O documento menciona EF15AR13 para música e EF15AR18 para teatro.",
+                  "anos": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                  ],
+                  "fonte": {
+                    "pagina": 204
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

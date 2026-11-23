@@ -1,0 +1,78 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - Anos Finais (6º ao 9º ano)"
+      },
+      "areaConhecimento": {
+        "nome": "Arte"
+      },
+      "componenteCurricular": {
+        "nome": "Arte"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Artes Visuais"
+      },
+      "estrutura": [
+        {
+          "tipo": "Objeto de Conhecimento",
+          "nome": "Contextos e Práticas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Pesquisar, apreciar e analisar formas distintas das artes visuais tradicionais e contemporâneas, em obras de artistas brasileiros e estrangeiros de diferentes épocas e em diferentes matrizes estéticas e culturais, de modo a ampliar a experiência com diferentes contextos e práticas artístico-visuais e cultivar a percepção, o imaginário, a capacidade de simbolizar e o repertório imagético.",
+              "habilidades": [
+                {
+                  "codigo": "EF69AR01",
+                  "descricao": "Pesquisar, apreciar e analisar formas distintas das artes visuais tradicionais e contemporâneas, em obras de artistas brasileiros e estrangeiros de diferentes épocas e em diferentes matrizes estéticas e culturais, de modo a ampliar a experiência com diferentes contextos e práticas artístico-visuais e cultivar a percepção, o imaginário, a capacidade de simbolizar e o repertório imagético.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 207
+                  }
+                },
+                {
+                  "codigo": "EF69AR02",
+                  "descricao": "Pesquisar e analisar diferentes estilos visuais, contextualizando-os no tempo e no espaço, de modo a aprimorar a capacidade de apreciação da estética visual.",
+                  "anos": [
+                    6,
+                    7,
+                    6,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 207
+                  }
+                },
+                {
+                  "codigo": "EF69AR03",
+                  "descricao": "Reconhecer e apreciar o papel de músicos e grupos de música brasileiros e estrangeiros que contribuíram para o desenvolvimento de formas e gêneros musicais.",
+                  "anos": [
+                    6,
+                    7,
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 207
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

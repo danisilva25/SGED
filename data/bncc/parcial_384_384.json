@@ -1,0 +1,49 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - 7º ano"
+      },
+      "areaConhecimento": {
+        "nome": "Geografia"
+      },
+      "componenteCurricular": {
+        "nome": "Geografia"
+      },
+      "organizacao": {
+        "tipo": "Geográfico",
+        "nome": "Formação territorial do Brasil"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Formação territorial do Brasil",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Formação territorial do Brasil",
+              "habilidades": [
+                {
+                  "codigo": "GE7",
+                  "descricao": "Apresentar e compreender os conceitos de Estado-nação e formação territorial, e também dos que envolvem a dinâmica físico-natural, sempre articulados às ações humanas no uso do território.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 384
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

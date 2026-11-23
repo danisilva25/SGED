@@ -1,0 +1,164 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "8º ano do Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Geografia"
+      },
+      "componenteCurricular": {
+        "nome": "Geografia"
+      },
+      "organizacao": {
+        "tipo": "Anual",
+        "nome": "8º ano"
+      },
+      "estrutura": [
+        {
+          "tipo": "Temática",
+          "nome": "sujeito e seu lugar no mundo",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Distribuição da população mundial e deslocamentos populacionais",
+              "habilidades": [
+                {
+                  "codigo": "EF08GE01",
+                  "descricao": "Descrever as rotas de dispersão da população humana pelo planeta e os principais fluxos migratórios em diferentes períodos da história, discutindo os fatores históricos e condicionantes físico-naturais associados à distribuição da população humana pelos continentes.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 390
+                  }
+                },
+                {
+                  "codigo": "EF08GE02",
+                  "descricao": "Relacionar fatos e situações representativas da história das famílias do Município em que se localiza a escola, considerando a diversidade e os fluxos migratórios da população mundial.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 390
+                  }
+                },
+                {
+                  "codigo": "EF08GE03",
+                  "descricao": "Analisar aspectos representativos da dinâmica demográfica, considerando características da população (perfil etário, crescimento vegetativo e mobilidade espacial).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 390
+                  }
+                },
+                {
+                  "codigo": "EF08GE04",
+                  "descricao": "Compreender os fluxos de migração na América Latina (movimentos voluntários e forçados, assim como fatores e áreas de expulsão e atração) e as principais políticas migratórias da região.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 390
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Diversidade e dinâmica da população mundial e local",
+              "habilidades": [
+                {
+                  "codigo": "EF08GE05",
+                  "descricao": "Aplicar os conceitos de Estado, nação, território, governo e país para o entendimento de conflitos e tensões na contemporaneidade, com destaque para as situações geopolíticas na América e na África e suas múltiplas regionalizações a partir do pós-guerra.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 390
+                  }
+                },
+                {
+                  "codigo": "EF08GE06",
+                  "descricao": "Analisar a atuação das organizações mundiais nos processos de integração cultural e econômica nos contextos americano e africano, reconhecendo, em seus lugares de vivência, marcas desses processos.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 390
+                  }
+                },
+                {
+                  "codigo": "EF08GE07",
+                  "descricao": "Analisar os impactos geoeconômicos, geoestratégicos e geopolíticos da ascensão dos Estados Unidos da América no cenário internacional em sua posição de liderança global e na relação com a China e o Brasil.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 390
+                  }
+                },
+                {
+                  "codigo": "EF08GE08",
+                  "descricao": "Analisar a situação do Brasil e de outros países da América Latina e da África, assim como da potência estadunidense na ordem mundial do pós-guerra.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 390
+                  }
+                },
+                {
+                  "codigo": "EF08GE09",
+                  "descricao": "Analisar os padrões econômicos mundiais de produção, distribuição e intercâmbio dos produtos agrícolas e industrializados, tendo como referência os Estados Unidos da América e os países denominados de Brics (Brasil, Rússia, Índia, China e África do Sul).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 390
+                  }
+                },
+                {
+                  "codigo": "EF08GE10",
+                  "descricao": "Distinguir e analisar conflitos e ações dos movimentos sociais brasileiros, no campo e na cidade, comparando com outros movimentos sociais existentes nos países latino-americanos.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 390
+                  }
+                },
+                {
+                  "codigo": "EF08GE11",
+                  "descricao": "Analisar áreas de conflito e tensões nas regiões de fronteira do continente latino-americano e o papel de organismos internacionais e regionais de cooperação nesses cenários.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 390
+                  }
+                },
+                {
+                  "codigo": "EF08GE12",
+                  "descricao": "Compreender os objetivos e analisar a importância dos organismos de integração do território americano (Mercosul, OEA, OEI, Nafta, Unasul, Alba, Comunidade Andina, Aladi, entre outros).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 390
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

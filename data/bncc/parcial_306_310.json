@@ -1,0 +1,256 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "UNIDADES TEMÁTICAS OBJETOS DE CONHECIMENTO HABILIDADES",
+    "version": "2023",
+    "file": "310.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental - 7º ano (EF07MA01 - EF07MA33)"
+      },
+      "areaConhecimento": {
+        "nome": "Matemática"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Geometria"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidades",
+          "nome": "Transformações geométricas de polígonos no plano cartesiano: multiplicação das coordenadas por um número inteiro e obtenção de simétricos em relação aos eixos e à origem",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07MA19",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA19",
+                  "descricao": "Realizar transformações de polígonos representados no plano cartesiano, decorrentes da multiplicação das coordenadas de seus vértices por um número inteiro.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 310
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF07MA20",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA20",
+                  "descricao": "Reconhecer e representar, no plano cartesiano, o simétrico de figuras em relação aos eixos e à origem.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 310
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidades",
+          "nome": "Simetrias de translação, rotação e reflexão",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07MA21",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA21",
+                  "descricao": "Reconhecer e construir figuras obtidas por simetrias de translação, rotação e reflexão, usando instrumentos de desenho ou softwares de geometria dinâmica e vincular esse estudo a representações planas de obras de arte, elementos arquitetônicos, entre outros.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 310
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidades",
+          "nome": "A circunferência como lugar geométrico",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07MA22",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA22",
+                  "descricao": "Construir circunferências, utilizando compasso, reconhecê-las como lugar geométrico e utilizá-las para fazer composições artísticas e resolver problemas que envolvam objetos equidistantes.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 310
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidades",
+          "nome": "Relações entre os ângulos formados por retas paralelas intersectadas por uma transversal",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07MA23",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA23",
+                  "descricao": "Verificar relações entre os ângulos formados por retas paralelas cortadas por uma transversal, com e sem uso de softwares de geometria dinâmica.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 310
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidades",
+          "nome": "Triângulos: construção, condição de existência e soma das medidas dos ângulos internos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07MA24",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA24",
+                  "descricao": "Construir triângulos, usando régua e compasso, reconhecer a condição de existência do triângulo quanto à medida dos lados e verificar que a soma das medidas dos ângulos internos de um triângulo é 180°.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 310
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF07MA25",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA25",
+                  "descricao": "Reconhecer a rigidez geométrica dos triângulos e suas aplicações, como na construção de estruturas arquitetônicas (telhados, estruturas metálicas e outras) ou nas artes plásticas.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 310
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF07MA26",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA26",
+                  "descricao": "Descrever, por escrito e por meio de um fluxograma, um algoritmo para a construção de um triângulo qualquer, conhecidas as medidas dos três lados.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 310
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidades",
+          "nome": "Polígonos regulares: quadrado e triângulo equilátero",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07MA27",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA27",
+                  "descricao": "Calcular medidas de ângulos internos de polígonos regulares, sem o uso de fórmulas, e estabelecer relações entre ângulos internos e externos de polígonos, preferencialmente vinculadas à construção de mosaicos e de ladrilhamentos.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 310
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF07MA28",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA28",
+                  "descricao": "Descrever, por escrito e por meio de um fluxograma, um algoritmo para a construção de um polígono regular (como quadrado e triângulo equilátero), conhecida a medida de seu lado.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 310
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidades",
+          "nome": "Grandezas e medidas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF07MA29",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA29",
+                  "descricao": "Resolver e elaborar problemas que envolvam medidas de grandezas inseridos em contextos oriundos de situações cotidianas ou de outras áreas do conhecimento, reconhecendo que toda medida empírica é aproximada.",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 310
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "EF07MA30",
+              "habilidades": [
+                {
+                  "codigo": "EF07MA30",
+                  "descricao": "Resolver e elaborar problemas de cálculo de medida do volume de blocos retangulares, envolvendo as unidades usuais (metro cúbico, decímetro cúbico e centímetro cúbico).",
+                  "anos": [
+                    7
+                  ],
+                  "fonte": {
+                    "pagina": 310
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

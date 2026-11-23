@@ -1,0 +1,549 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Matemática"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Geometria"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Demonstrar relações métricas do triângulo retângulo, entre elas o teorema de Pitágoras, utilizando, inclusive, a semelhança de triângulos.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Relações métricas no triângulo retângulo",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA13",
+                  "descricao": "Demonstrar relações métricas do triângulo retângulo, entre elas o teorema de Pitágoras, utilizando, inclusive, a semelhança de triângulos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Retas paralelas cortadas por transversais: teoremas de proporcionalidade e verificações experimentais",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA14",
+                  "descricao": "Resolver e elaborar problemas de aplicação do teorema de Pitágoras ou das relações de proporcionalidade envolvendo retas paralelas cortadas por secantes.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Polígonos regulares",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA15",
+                  "descricao": "Descrever, por escrito e por meio de um fluxograma, um algoritmo para a construção de um polígono regular cuja medida do lado é conhecida, utilizando régua e compasso, como também softwares.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Distância entre pontos no plano cartesiano",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA16",
+                  "descricao": "Determinar o ponto médio de um segmento de reta e a distância entre dois pontos quaisquer, dadas as coordenadas desses pontos no plano cartesiano, sem o uso de fórmulas, e utilizar esse conhecimento para calcular, por exemplo, medidas de perímetros e áreas de figuras planas construídas no plano.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Vistas ortogonais de figuras espaciais",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA17",
+                  "descricao": "Reconhecer vistas ortogonais de figuras espaciais e aplicar esse conhecimento para desenhar objetos em perspectiva.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Grandezas e medidas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Unidades de medida para medir distâncias muito grandes e muito pequenas",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA18",
+                  "descricao": "Reconhecer e empregar unidades usadas para expressar medidas muito grandes ou muito pequenas, tais como distância entre planetas e sistemas solares, tamanho de vírus ou de células, capacidade de armazenamento de computadores, entre outros.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Unidades de medida utilizadas na informática",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA18",
+                  "descricao": "Reconhecer e empregar unidades usadas para expressar medidas muito grandes ou muito pequenas, tais como distância entre planetas e sistemas solares, tamanho de vírus ou de células, capacidade de armazenamento de computadores, entre outros.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Volume de prismas e cilindros",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA19",
+                  "descricao": "Resolver e elaborar problemas que envolvam medidas de volumes de prismas e de cilindros retos, inclusive com uso de expressões de cálculo, em situações cotidianas.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Probabilidade e estatística",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Análise de probabilidade de eventos aleatórios: eventos dependentes e independentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA20",
+                  "descricao": "Reconhecer, em experimentos aleatórios, eventos independentes e dependentes e calcular a probabilidade de sua ocorrência, nos dois casos.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 321
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Ciências da Natureza"
+      },
+      "componenteCurricular": {
+        "nome": "Ciências da Natureza"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Ciências da Natureza"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Observar o mundo a sua volta e fazer perguntas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Observar o mundo a sua volta e fazer perguntas",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA21",
+                  "descricao": "Observar o mundo a sua volta e fazer perguntas.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 325
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Analisar demandas, delinear problemas e planejar investigações",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Analisar demandas, delinear problemas e planejar investigações",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA22",
+                  "descricao": "Analisar demandas, delinear problemas e planejar investigações.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 325
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Propor hipóteses",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Propor hipóteses",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA23",
+                  "descricao": "Propor hipóteses.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 325
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Levantar hipóteses",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Levantar hipóteses",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA24",
+                  "descricao": "Levantar hipóteses.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 325
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Realizar investigações científicas",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Realizar investigações científicas",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA25",
+                  "descricao": "Realizar investigações científicas.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 325
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Interpretar resultados",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Interpretar resultados",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA26",
+                  "descricao": "Interpretar resultados.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 25
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Comunicar resultados",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Comunicar resultados",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA27",
+                  "descricao": "Comunicar resultados.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 325
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

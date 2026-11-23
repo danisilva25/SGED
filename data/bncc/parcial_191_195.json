@@ -1,0 +1,357 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "BNCC-2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Portuguesa"
+      },
+      "organizacao": {
+        "tipo": "práticas de linguagem",
+        "nome": "Análise linguística/semiótica"
+      },
+      "estrutura": [
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF08LP06",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, em textos lidos e em produções próprias, orações com a estrutura sujeito-verbo de ligação-predicativo.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF09LP05",
+                  "descricao": "Identificar, em textos lidos e em produções próprias, orações com a estrutura sujeito-verbo de ligação-predicativo.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Diferenciar, em textos lidos ou de produção própria, complementos diretos e indiretos de verbos transitivos, apropriando-se da regência de verbos de uso frequente.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF08LP07",
+                  "descricao": "Diferenciar, em textos lidos ou de produção própria, complementos diretos e indiretos de verbos transitivos, apropriando-se da regência de verbos de uso frequente.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Diferenciar, em textos lidos e em produções próprias, o efeito de sentido do uso dos verbos de ligação “ser”, “estar”, “ficar”, “parecer” e “permanecer”.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF09LP06",
+                  "descricao": "Diferenciar, em textos lidos e em produções próprias, o efeito de sentido do uso dos verbos de ligação “ser”, “estar”, “ficar”, “parecer” e “permanecer”.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, verbos na voz ativa e na voz passiva, interpretando os efeitos de sentido de sujeito ativo e passivo (agente da passiva).",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF08LP08",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, verbos na voz ativa e na voz passiva, interpretando os efeitos de sentido de sujeito ativo e passivo (agente da passiva).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Comparar o uso de regência verbal e regência nominal na norma-padrão com seu uso no português brasileiro coloquial oral.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF09LP07",
+                  "descricao": "Comparar o uso de regência verbal e regência nominal na norma-padrão com seu uso no português brasileiro coloquial oral.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF08LP06",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF08LP06",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF08LP06",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF08LP06",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF08LP06",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF08LP06",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF08LP06",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF08LP06",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "habilidade",
+          "nome": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Morfossintaxe",
+              "habilidades": [
+                {
+                  "codigo": "EF08LP06",
+                  "descricao": "Identificar, em textos lidos ou de produção própria, os termos constitutivos da oração (sujeito e seus modificadores, verbo e seus complementos e modificadores).",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 191
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

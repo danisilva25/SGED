@@ -1,0 +1,159 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "LÍNGUA PORTUGUESA – 8º E 9º ANOS (Continuação)",
+    "version": "2023",
+    "file": "PÁGINA 187-190"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "8º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas de Linguagem"
+      },
+      "organizacao": {
+        "tipo": "Campo Artístico-Literário",
+        "nome": "Leitura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Relação entre textos",
+          "nome": "EF89LP32",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Analisar os efeitos de sentido decorrentes do uso de mecanismos de intertextualidade (referências, alusões, retomadas) entre os textos literários, entre esses textos literários e outras manifestações artísticas (cinema, teatro, artes visuais e midiáticas, música), quanto aos temas, personagens, estilos, autores etc., e entre o texto original e paródias, paráfrases, pastiches, trailer honesto, vídeos-minuto, vidding, dentre outros.",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP32",
+                  "descricao": "Analisar os efeitos de sentido decorrentes do uso de mecanismos de intertextualidade (referências, alusões, retomadas) entre os textos literários, entre esses textos literários e outras manifestações artísticas (cinema, teatro, artes visuais e midiáticas, música), quanto aos temas, personagens, estilos, autores etc., e entre o texto original e paródias, paráfrases, pastiches, trailer honesto, vídeos-minuto, vidding, dentre outros.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 187
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Estratégias de leitura",
+          "nome": "EF89LP33",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Ler, de forma autônoma, e compreender – selecionando procedimentos e estratégias de leitura adequados a diferentes objetivos e levando em conta características dos gêneros e suportes – romances, contos contemporâneos, minicontos, fábulas contemporâneas, romances juvenis, biografias romanceadas, novelas, crônicas visuais, narrativas de ficção científica, narrativas de suspense, poemas de forma livre e fixa (como haicai), poema concreto, ciberpoema, dentre outros, expressando avaliação sobre o texto lido e estabelecendo preferências por gêneros, temas, autores.",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP33",
+                  "descricao": "Ler, de forma autônoma, e compreender – selecionando procedimentos e estratégias de leitura adequados a diferentes objetivos e levando em conta características dos gêneros e suportes – romances, contos contemporâneos, minicontos, fábulas contemporâneas, romances juvenis, biografias romanceadas, novelas, crônicas visuais, narrativas de ficção científica, narrativas de suspense, poemas de forma livre e fixa (como haicai), poema concreto, ciberpoema, dentre outros, expressando avaliação sobre o texto lido e estabelecendo preferências por gêneros, temas, autores.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 187
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Reconstrução da textualidade e compreensão dos efeitos de sentidos provocados pelos usos de recursos linguísticos e multissemióticos",
+          "nome": "EF89LP34",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Analisar a organização de texto dramático apresentado em teatro, televisão, cinema, identificando e percebendo os sentidos decorrentes dos recursos linguísticos e semióticos que sustentam sua realização como peça teatral, novela, filme etc.",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP34",
+                  "descricao": "Analisar a organização de texto dramático apresentado em teatro, televisão, cinema, identificando e percebendo os sentidos decorrentes dos recursos linguísticos e semióticos que sustentam sua realização como peça teatral, novela, filme etc.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 187
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "9º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "Língua Portuguesa"
+      },
+      "componenteCurricular": {
+        "nome": "Práticas de Linguagem"
+      },
+      "organizacao": {
+        "tipo": "Campo Artístico-Literário",
+        "nome": "Produção de textos"
+      },
+      "estrutura": [
+        {
+          "tipo": "Construção da textualidade",
+          "nome": "EF89LP35",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Criar contos ou crônicas (em especial, líricas), crônicas visuais, minicontos, narrativas de aventura e de ficção científica, dentre outros, com temáticas próprias ao gênero, usando os conhecimentos sobre os constituintes estruturais e recursos expressivos típicos dos gêneros narrativos pretendidos, e, no caso de produção em grupo, ferramentas de escrita colaborativa.",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP35",
+                  "descricao": "Criar contos ou crônicas (em especial, líricas), crônicas visuais, minicontos, narrativas de aventura e de ficção científica, dentre outros, com temáticas próprias ao gênero, usando os conhecimentos sobre os constituintes estruturais e recursos expressivos típicos dos gêneros narrativos pretendidos, e, no caso de produção em grupo, ferramentas de escrita colaborativa.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 187
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Relação entre textos",
+          "nome": "EF89LP36",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Parodiar poemas conhecidos da literatura e criar textos em versos (como poemas concretos, ciberpoemas, haicais, liras, microrroteiros, lambe-lambes e outros tipos de poemas), explorando o uso de recursos sonoros e semânticos (como figuras de linguagem e jogos de palavras) e visuais (como relações entre imagem e texto verbal e distribuição da mancha gráfica), de forma a propiciar diferentes efeitos de sentido.",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP36",
+                  "descricao": "Parodiar poemas conhecidos da literatura e criar textos em versos (como poemas concretos, ciberpoemas, haicais, liras, microrroteiros, lambe-lambes e outros tipos de poemas), explorando o uso de recursos sonoros e semânticos (como figuras de linguagem e jogos de palavras) e visuais (como relações entre imagem e texto verbal e distribuição da mancha gráfica), de forma a propiciar diferentes efeitos de sentido.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 187
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

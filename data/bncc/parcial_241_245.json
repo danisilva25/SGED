@@ -1,0 +1,237 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "BNCC",
+    "version": "2023",
+    "file": "bncc_2023.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens"
+      },
+      "componenteCurricular": {
+        "nome": "Educação Física"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Lutas"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Experimentar e fruir a execução dos movimentos pertencentes às lutas do mundo, adotando procedimentos de segurança e respeitando o oponente.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Lutas do mundo",
+              "habilidades": [
+                {
+                  "codigo": "EF89EF16",
+                  "descricao": "Experimentar e fruir a execução dos movimentos pertencentes às lutas do mundo, adotando procedimentos de segurança e respeitando o oponente.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 241
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Planejar e utilizar estratégias básicas das lutas experimentadas, reconhecendo as suas características técnico-táticas.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Lutas do mundo",
+              "habilidades": [
+                {
+                  "codigo": "EF89EF17",
+                  "descricao": "Planejar e utilizar estratégias básicas das lutas experimentadas, reconhecendo as suas características técnico-táticas.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 241
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Discutir as transformações históricas, o processo de esportivização e a midiatização de uma ou mais lutas, valorizando e respeitando as culturas de origem.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Lutas do mundo",
+              "habilidades": [
+                {
+                  "codigo": "EF89EF18",
+                  "descricao": "Discutir as transformações históricas, o processo de esportivização e a midiatização de uma ou mais lutas, valorizando e respeitando as culturas de origem.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 2024
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Experimentar e fruir diferentes práticas corporais de aventura na natureza, valorizando a própria segurança e integridade física, bem como as dos demais, respeitando o patrimônio natural e minimizando os impactos de degradação ambiental.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Práticas corporais de aventura na natureza",
+              "habilidades": [
+                {
+                  "codigo": "EF89EF19",
+                  "descricao": "Experimentar e fruir diferentes práticas corporais de aventura na natureza, valorizando a própria segurança e integridade física, bem como as dos demais, respeitando o patrimônio natural e minimizando os impactos de degradação ambiental.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 241
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Planejar e utilizar estratégias básicas das lutas experimentadas, reconhecendo as suas características técnico-táticas.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Práticas corporais de aventura na natureza",
+              "habilidades": [
+                {
+                  "codigo": "EF89EF20",
+                  "descricao": "Planejar e utilizar estratégias básicas das lutas experimentadas, reconhecendo as suas características técnico-táticas.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 241
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Habilidade",
+          "nome": "Discutir as transformações históricas, o processo de esportivização e a midiatização de uma ou mais lutas, valorizando e respeitando as culturas de origem.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Práticas corporais de aventura na natureza",
+              "habilidades": [
+                {
+                  "codigo": "EF89EF21",
+                  "descricao": "Discutir as transformações históricas, o processo de esportivização e a midiatização de uma ou mais lutas, valorizando e respeitando as culturas de origem.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 241
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Inglesa"
+      },
+      "organizacao": {
+        "tipo": "Eixos",
+        "nome": "Oralidade"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Práticas de linguagem em situações de uso oral da língua inglesa, com foco na compreensão (ou escuta) e na produção oral (ou fala), articuladas pela negociação na construção de significados partilhados pelos interlocutores e/ou participantes envolvidos, com ou sem contato face a face.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Oralidade",
+              "habilidades": [
+                {
+                  "codigo": "EF89EF22",
+                  "descricao": "Práticas de linguagem em situações de uso oral da língua inglesa, com foco na compreensão (ou escuta) e na produção oral (ou fala), articuladas pela negociação na construção de significados partilhados pelos interlocutores e/ou participantes envolvidos, com ou sem contato face a face.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 245
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Linguagens"
+      },
+      "componenteCurricular": {
+        "nome": "Língua Inglesa"
+      },
+      "organizacao": {
+        "tipo": "Eixos",
+        "nome": "Leitura"
+      },
+      "estrutura": [
+        {
+          "tipo": "Habilidade",
+          "nome": "Práticas de linguagem decorrentes da interação do leitor com o texto escrito, especialmente sob o foco da construção de significados, com base na compreensão e interpretação dos gêneros escritos em língua inglesa, que circulam nos diversos campos e esferas da sociedade.",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Leitura",
+              "habilidades": [
+                {
+                  "codigo": "EF89EF23",
+                  "descricao": "Práticas de linguagem decorrentes da interação do leitor com o texto escrito, especialmente sob o foco da construção de significados, com base na compreensão e interpretação dos gêneros escritos em língua inglesa, que circulam nos diversos campos e esferas da sociedade.",
+                  "anos": [
+                    8
+                  ],
+                  "fonte": {
+                    "pagina": 245
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "source": {
+    "name": "LÍNGUA PORTUGUESA – 8º E 9º ANOS (Continuação)",
+    "document": "PÁGINA 185",
+    "version": "2024",
+    "file": "EF89LP17-EF89LP21.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "8º ANO"
+      },
+      "areaConhecimento": {
+        "nome": "LÍNGUA PORTUGUESA"
+      },
+      "componenteCurricular": {
+        "nome": "PRÁTICAS DE LINGUAGEM"
+      },
+      "organizacao": {
+        "tipo": "OBJETOS DE CONHECIMENTO",
+        "nome": "HABILIDADES"
+      },
+      "estrutura": [
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Reconstrução do contexto de produção, circulação e recepção de textos legais e normativos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF89LP17",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP17",
+                  "descricao": "Relacionar textos e documentos legais e normativos de importância universal, nacional ou local que envolvam direitos, em especial, de crianças, adolescentes e jovens – tais como a Declaração dos Direitos Humanos, a Constituição Brasileira, o ECA -, e a regulamentação da organização escolar – por exemplo, regimento escolar -, a seus contextos de produção, reconhecendo e analisando possíveis motivações, finalidades e sua vinculação com experiências humanas e fatos históricos e sociais, como forma de ampliar a compreensão dos direitos e deveres, de fomentar os princípios democráticos e uma atuação pautada pela ética da responsabilidade (o outro tem direito a uma vida digna tanto quanto eu tenho).",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 185
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Contexto de produção, circulação e recepção de textos e práticas relacionadas à defesa de direitos e à participação social",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF89LP18",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP18",
+                  "descricao": "Explorar e analisar instâncias e canais de participação disponíveis na escola (conselho de escola, outros colegiados, grêmio livre), na comunidade (associações, coletivos, movimentos, etc.), no munícipio ou no país, incluindo formas de participação digital, como canais e plataformas de participação (como portal e-cidadania), serviços, portais e ferramentas de acompanhamentos do trabalho de políticos e de tramitação de leis, canais de educação política, bem como de propostas e proposições que circulam nesses canais, de forma a participar do debate de ideias e propostas na esfera social e a engajar-se com a busca de soluções para problemas ou questões que envolvam a vida da escola e da comunidade.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 185
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Relação entre contexto de produção e características composicionais e estilísticas dos gêneros Apreciação e réplica",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF89LP19",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP19",
+                  "descricao": "Analisar, a partir do contexto de produção, a forma de organização das cartas abertas, abaixo-assinados e petições on-line (identificação dos signatários, explicitação da reivindicação feita, acompanhada ou não de uma breve apresentação da problemática e/ou de justificativas que visam sustentar a reivindicação) e a proposição, discussão e aprovação de propostas políticas ou de soluções para problemas de interesse público, apresentadas ou lidas nos canais digitais de participação, identificando suas marcas linguísticas, como forma de possibilitar a escrita ou subscrição consciente de abaixo-assinados e textos dessa natureza e poder se posicionar de forma crítica e fundamentada frente às propostas.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 185
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Estratégias e procedimentos de leitura em textos reivindicatórios ou propositivos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF89LP20",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP20",
+                  "descricao": "Comparar propostas políticas e de solução de problemas, identificando o que se pretende fazer/implementar, por que (motivações, justificativas), para que (objetivos, benefícios e consequências esperados), como (ações e passos), quando etc. e a forma de avaliar a eficácia da proposta/solução, contrastando dados e informações de diferentes fontes, identificando coincidências, complementaridades e contradições, de forma a poder compreender e posicionar-se criticamente sobre os dados e informações usados em fundamentação de propostas e analisar a coerência entre os elementos, de forma a tomar decisões fundamentadas.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 185
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "HABILIDADE",
+          "nome": "Estratégia de produção: planejamento de textos reivindicatórios ou propositivos",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "EF89LP21",
+              "habilidades": [
+                {
+                  "codigo": "EF89LP21",
+                  "descricao": "Realizar enquetes e pesquisas de opinião, de forma a levantar prioridades, problemas a resolver ou propostas que possam contribuir para melhoria da escola ou da comunidade, caracterizar demanda/necessidade, documentando-a de diferentes maneiras por meio de diferentes procedimentos, gêneros e mídias e, quando for o caso, selecionar informações e dados relevantes de fontes pertinentes diversas (sites, impressos, vídeos etc.), avaliando a qualidade e a utilidade dessas fontes, que possam servir de contextualização e fundamentação de propostas, de forma a justificar a proposição de propostas, projetos culturais e ações de intervenção.",
+                  "anos": [
+                    8,
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 185
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

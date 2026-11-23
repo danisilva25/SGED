@@ -1,0 +1,223 @@
+{
+  "source": {
+    "name": "Base Nacional Comum Curricular",
+    "document": "MATEMÁTICA – 9º ANO (Continuação)",
+    "version": "2023",
+    "file": "319-320.pdf"
+  },
+  "curriculum": [
+    {
+      "etapa": {
+        "nome": "Ensino Fundamental"
+      },
+      "areaConhecimento": {
+        "nome": "Matemática"
+      },
+      "componenteCurricular": {
+        "nome": "Matemática"
+      },
+      "organizacao": {
+        "tipo": "Unidades Temáticas",
+        "nome": "Unidades Temáticas"
+      },
+      "estrutura": [
+        {
+          "tipo": "Unidade Temática",
+          "nome": "Números",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Necessidade dos números reais para medir qualquer segmento de reta",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA01",
+                  "descricao": "Reconhecer que, uma vez fixada uma unidade de comprimento, existem segmentos de reta cujo comprimento não é expresso por número racional (como as medidas de diagonais de um polígono e alturas de um triângulo, quando se toma a medida de cada lado como unidade).",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 319
+                  }
+                },
+                {
+                  "codigo": "EF09MA02",
+                  "descricao": "Reconhecer um número irracional como um número real cuja representação decimal é infinita e não periódica, e estimar a localização de alguns deles na reta numérica.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 319
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Potências com expoentes negativos e fracionários",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA03",
+                  "descricao": "Efetuar cálculos com números reais, inclusive potências com expoentes fracionários.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 319
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Números reais: notação científica e problemas",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA04",
+                  "descricao": "Resolver e elaborar problemas com números reais, inclusive em notação científica, envolvendo diferentes operações.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 319
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Porcentagens: problemas que envolvem cálculo de percentuais sucessivos",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA05",
+                  "descricao": "Resolver e elaborar problemas que envolvam porcentagens, com a ideia de aplicação de percentuais sucessivos e a determinação das taxas percentuais, preferencialmente com o uso de tecnologias digitais, no contexto da educação financeira.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 319
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Unidade Temática",
+          "nome": "Álgebra",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Funções: representações numérica, algébrica e gráfica",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA06",
+                  "descricao": "Compreender as funções como relações de dependência unívoca entre duas variáveis e suas representações numérica, algébrica e gráfica e utilizar esse conceito para analisar situações que envolvam relações funcionais entre duas variáveis.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 319
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Razão entre grandezas de espécies diferentes",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA07",
+                  "descricao": "Resolver problemas que envolvam a razão entre duas grandezas de espécies diferentes, como velocidade e densidade demográfica.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 319
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Grandezas diretamente proporcionais e grandezas inversamente proporcionais",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA08",
+                  "descricao": "Resolver e elaborar problemas que envolvam relações de proporcionalidade direta e inversa entre duas ou mais grandezas, inclusive escalas, divisão em partes proporcionais e taxa de variação, em contextos socioculturais, ambientais e de outras áreas.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 319
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Expressões algébricas: fatoração e produtos notáveis",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA09",
+                  "descricao": "Compreender os processos de fatoração de expressões algébricas, com base em suas relações com os produtos notáveis, para resolver e elaborar problemas que possam ser representados por equações polinomiais do 2º grau.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 319
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tipo": "Unidade Temática",
+          "nome": "Geometria",
+          "contexto": null,
+          "objetosConhecimento": [
+            {
+              "nome": "Demonstrações de relações entre os ângulos formados por retas paralelas intersectadas por uma transversal",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA10",
+                  "descricao": "Demonstrar relações simples entre os ângulos formados por retas paralelas cortadas por uma transversal.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 319
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Relações entre arcos e ângulos na circunferência de um círculo",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA11",
+                  "descricao": "Resolver problemas por meio do estabelecimento de relações entre arcos, ângulos centrais e ângulos inscritos na circunferência, fazendo uso, inclusive, de softwares de geometria dinâmica.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 319
+                  }
+                }
+              ]
+            },
+            {
+              "nome": "Semelhança de triângulos",
+              "habilidades": [
+                {
+                  "codigo": "EF09MA12",
+                  "descricao": "Reconhecer as condições necessárias e suficientes para que dois triângulos sejam semelantes.",
+                  "anos": [
+                    9
+                  ],
+                  "fonte": {
+                    "pagina": 319
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
